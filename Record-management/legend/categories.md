@@ -1,0 +1,15 @@
+- Status
+- Not started
+- To be amended
+- WIP
+- WIP (10%)
+- WIP (25%)
+- WIP (50%)
+- WIP (75%)
+- WIP (90%)
+- Draft
+- Completed
+- Approved
+- Reference
+- Template (blank)
+- Client responsibility
