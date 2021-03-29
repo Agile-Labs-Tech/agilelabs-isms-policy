@@ -105,7 +105,7 @@
 | --- | --- | --- | --- | --- |
 | Project credentials management cords | <a href="https://www.akeyless.io/" target="_blank">Akeyless</a> | Individual users | Only individual user and TL has access rights his or her own records | Records are stored for a period of 1 year |
 | --- | --- | --- | --- | --- |
-| Rules &amp; instructions on the use and management of the cryptographic tools | Gitlab | TL | Only TL and SA have the right to edit and publish the instructions | Instructions that are no longer valid are stored for a period of 1 year |
+| Rules &amp; instructions on the use and management of the cryptographic tools | Cloud repository | TL | Only TL and SA have the right to edit and publish the instructions | Instructions that are no longer valid are stored for a period of 1 year |
 
 # Appendices
 
