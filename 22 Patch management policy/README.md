@@ -11,90 +11,44 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
-| 12 Dec 2020 | 0.0 | - | Final version for release |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+| 25 Mar 2021 | 0.1 | - | Final version for release |
+| 12 Dec 2020 | 0.0 | - | Initial version for release |
 
-| **Prepared By:** |
- |
- |
- |
-| --- | --- | --- | --- |
-|
- | System Administrator | 12 Dec 2020 |
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
-|
-| |
-| **Reviewed By :** |
- |
- |
- |
-| --- | --- | --- | --- |
-|
- | Tech Leader | 12 Dec 2020 |
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
-|
-| |
-| **Approved By :** |
- |
- |
- |
-| --- | --- | --- | --- |
-|
- | Chief Executive Officer | 12 Dec 2020 |
+### **Prepared By:**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+|      | System Administrator | 12 Dec 2020 |
 
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
+### **Reviewed By :**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+| Wayne Tng | Tech Leader | 12 Dec 2020 |
+
+### **Approved By :**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+|     | Chief Executive Officer | 12 Dec 2020 |
 
 # Contents
 
-[Revision History i](#_Toc58603482)
+- [Revision History](#revision-history)
 
-[1Purpose, Scope And Users 1](#_Toc58603483)
+- [Purpose, Scope And Users](#purpose-scope-and-users)
 
-[2Reference Documents 1](#_Toc58603484)
+- [Reference Documents](#reference-documents)
 
-[3Roles and Responsibilities 1](#_Toc58603485)
+- [Roles and Responsibilities](#roles-and-responsibilities)
 
-[4Records Management 1](#_Toc58603486)
+- [Records Management](#records-management)
 
-[5Procedures 2](#_Toc58603487)
+- [Procedures](#procedures)
 
-[6Definitions 3](#_Toc58603488)
+- [Definitions](#definitions)
 
-[6.1Severity Rating 3](#_Toc58603489)
+- [Severity Rating](#severity-rating)
 
-[7Appendices 4](#_Toc58603490)
+- [Appendices](#appendices)
 
-1.
 # Purpose, Scope And Users
 
 1. This policy defines the guidelines for patch management for Agile Lab Pte Ltd&#39;s (Agile Lab&#39;s) systems and internal information and communications technology (ICT) systems, assets and infrastructure.
@@ -102,33 +56,25 @@
 3. This procedure is not applicable to those computers or equipment which are configured to install security updates automatically or obtained formal exemption for patch installation.
 4. The policy applies to all Agile Lab entities and all employees.
 
-1.
 # Reference Documents
 
 1. ISMS-01 ISMS Policy
 
-1.
 # Roles and Responsibilities
 
 1. System Administrator (SA) is responsible to:
-  - Obtain the security alert or vulnerability notification related to the hardware / software / firmware used;
-  - Evaluate the severity and urgency of patching;
-  - Determine if a the security patch should be applied;
-  - Monitor and review the implementation status of a security patch.
+    - Obtain the security alert or vulnerability notification related to the hardware / software / firmware used;
+    - Evaluate the severity and urgency of patching;
+    - Determine if a the security patch should be applied;
+    - Monitor and review the implementation status of a security patch.
 2. The Tech Leader (TL)is responsible for approving the security patches proposed by the SA.
 
-1.
 # Records Management
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
 | None |
- |
- |
- |
- |
 
-2.
 # Procedures
 
 1. The Information Security Officer shall subscribe to the mailing list of vendors or third-party security advisory websites about the technical vulnerability alerts, patch related information, and technology / product end-of-life and end-of-support announcement of the computer hardware and software.
@@ -142,19 +88,15 @@
 9. Before applying the security patch or update program to the production environment, the Information Security Officer shall coordinate with the responsible system / network administrators to test the security update program in a test environment.
 10. After applying the security patch or update the program in the test environment, the Information Security Officer or a delegated staff shall verify the behaviour and proper operation of the updated systems:
 
-Operating Systems Software
+    Operating Systems Software
+    - Check the event logs;
+    - Check the logs of various products and functions;
+    - Verify the operation of the necessary services.
 
-- Check the event logs;
-
-- Check the logs of various products and functions;
-- Verify the operation of the necessary services.
-
-Application Software
-
-- Verify operation using the checklist;
-
-- Execute test transactions to verify its operation;
-- Verify the operation of extracted business applications.
+    Application Software
+    - Verify operation using the checklist;
+    - Execute test transactions to verify its operation;
+    - Verify the operation of extracted business applications.
 
 1. The roll back procedure must also be tested, for the sake of problems that are caused by the application of the security update program or by faulty implementation.
 2. Patches should be approved before deployment to show that testing and rollback has been performed
@@ -163,35 +105,31 @@ Application Software
 5. Privileged accounts shall not be used for day-to-day access; like those required to perform daily or periodic administration and/or operation activities.
 6. All privileged accounts must be approved and designated to an individual owner for accountability.
 7. Privileged accounts and user access rights shall be reviewed on a periodic basis. Particular attention should be given to the security-related event of the log file and facility including:
-  1. the logging facility being de-activated;
-  2. alterations to the message types that are recorded;
-  3. log files being edited or deleted.
+    1. the logging facility being de-activated;
+    2. alterations to the message types that are recorded;
+    3. log files being edited or deleted.
 8. The Information Security Officer protects the log analysis tools and its output from unauthorized access. Furthermore, he / she must keep the audit logs for a retention periods that can meet the legal, regulatory, and business needs.
 
-1.
 # Definitions
 
-  1.
 ## Severity Rating
 
 | **Rating**   | **Definition**   |
 | --- | --- |
 | Critical  | Describes vulnerability that, if exploited, could allow propagation of an Internet worm without user action.  |
-| --- | --- |
 | High  | Describes vulnerability that, if exploited, could compromise user data confidentiality, integrity, or availability, as well as compromise the integrity or availability of processing resources.   |
 | Medium  | Describes vulnerability for which the possibility of exploitation is significantly lessened by the existing configuration, or by the difficulty of infiltration or exploitation.  |
 | Low  | Describes vulnerability that is extremely difficult to exploit or the exploitation of which has minimal impact.  |
 
-**6.2 Urgency of Patching****  **
+**Urgency of Patching**
 
 | **Rating**   | **Definition**   |
 | --- | --- |
-| 1  | **Urgent application - ** Apply within 1 month  |
-| 2  | **Applying during the regular course of operation - ** At least once every 3 to 6 months  |
-| 3  | **Applying with the service pack - ** When installing the next service pack.  |
-| 4  | **No application**  - OS, functionality, product not affected.  |
+| 1  | Urgent application - Apply within 1 month  |
+| 2  | Applying during the regular course of operation - At least once every 3 to 6 months  |
+| 3  | Applying with the service pack -  When installing the next service pack.  |
+| 4  | No application  - OS, functionality, product not affected.  |
 
-1.
 # Appendices
 
 None
