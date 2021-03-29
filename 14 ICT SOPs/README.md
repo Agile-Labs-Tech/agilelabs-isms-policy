@@ -11,144 +11,94 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
-| 29 Nov 2019 | 0 | - | Final version for release |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+| 25 Mar 2021 | 0.1 | - | Final version for release |
+| 12 Dec 2020 | 0.0 | - | Initial version for release |
 
-| **Prepared By:** |
- |
- |
- |
-| --- | --- | --- | --- |
-|
- | System Administrator | 12 Dec 2020 |
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
-|
-| |
-| **Reviewed By :** |
- |
- |
- |
-| --- | --- | --- | --- |
-|
- | Tech Leader | 12 Dec 2020 |
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
-|
-| |
-| **Approved By :** |
- |
- |
- |
-| --- | --- | --- | --- |
-|
- | Chief Executive Officer | 12 Dec 2020 |
+### **Prepared By:**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+|      | System Administrator | 12 Dec 2020 |
 
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
+### **Reviewed By :**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+| Wayne Tng | Tech Leader | 12 Dec 2020 |
+
+### **Approved By :**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+|     | Chief Executive Officer | 12 Dec 2020 |
 
 # Contents
 
-[Revision History i](#_Toc58599237)
+- [Revision History](#revision-history)
 
-[1Purpose, Scope And Users 1](#_Toc58599238)
+- [Purpose, Scope And Users](#purpose-scope-and-users)
 
-[2Reference Documents 1](#_Toc58599239)
+- [Reference Documents](#reference-documents)
 
-[3Validity And Document Management 1](#_Toc58599240)
+- [Validity And Document Management](#validity-and-document-management)
 
-[4Operating Procedures For Information And Communication Technology 1](#_Toc58599241)
+- [Operating Procedures For Information And Communication Technology](#operating-procedures-for-information-and-communication-technology)
 
-[4.1Change Management 1](#_Toc58599242)
+  - [Change Management](#change-management)
 
-[4.2Installation of Software on Operational System 2](#_Toc58599243)
+  - [Installation of Software on Operational System](#installation-of-software-on-operational-system)
 
-[4.3Backup 3](#_Toc58599244)
+  - [Backup](#backup)
 
-[a)Backup Procedure 3](#_Toc58599245)
+    - [Backup Procedure](#backup-procedure)
 
-[b)Testing Backup Copies 4](#_Toc58599246)
+    - [Testing Backup Copies](#testing-backup-copies)
 
-[4.4Network Security Management 4](#_Toc58599247)
+  - [Network Security Management](#network-security-management)
 
-[b)Network Services 4](#_Toc58599248)
+    - [Network Services](#network-services)
 
-[4.5Disposal And Destruction Of Equipment And Media 4](#_Toc58599249)
+  - [Disposal And Destruction Of Equipment And Media](#disposal-and-destruction-of-equipment-and-media)
 
-[d)Equipment 5](#_Toc58599250)
+    - [Equipment](#equipment)
 
-[e)Mobile Storage Media 5](#_Toc58599251)
+    - [Mobile Storage Media](#mobile-storage-media)
 
-[f)Paper Media 5](#_Toc58599252)
+    - [Paper Media](#paper-media)
 
-[4.6Information Transfer 5](#_Toc58599253)
+  - [Information Transfer](#information-transfer)
 
-[a)Electronic Communication Channels 5](#_Toc58599254)
+    - [Electronic Communication Channels](#electronic-communication-channels)
 
-[b)Relations With External Parties 5](#_Toc58599255)
+    - [Relations With External Parties](#relations-with-external-parties)
 
-[4.7System Monitoring 6](#_Toc58599256)
+  - [System Monitoring](#system-monitoring)
 
-[4.8System Access Rights 7](#_Toc58599257)
+  - [System Access Rights](#system-access-rights)
 
-[5Managing Records 8](#_Toc58599258)
+- [Managing Records](#Managing Records)
 
-[6Appendices 8](#_Toc58599259)
+- [Appendices](#appendices)
 
-1.
 # Purpose, Scope And Users
 
 1. The purpose of this document is to ensure correct and secure functioning of information and communication technology.
 2. This document is applied to the entire Information Security Management System (ISMS) scope, i.e. to all the information and communication technology, as well as to related documentation within the scope.
 3. Users of this document are employees of Agile Lab Pte Ltd (Agile Lab) for information and communication technology.
 
-1.
 # Reference Documents
 
 1. ISO/IEC 27001 standard, clauses A.8.3.2, A.11.2.7, A.12.1.1, A.12.1.2, A.12.3.1, A.12.4.1, A.12.4.3, A.13.1.1, A.13.1.2, A.13.2.1, A.13.2.2, A.14.2.4
 2. Information Security Policy
 
-1.
 # Validity And Document Management
 
 1. This document is valid as of the date stated on the cover of this document.
 2. The owner of this document is System Administrator (SA), who must check and, if necessary, update the document at least once a year.
 3. When evaluating the effectiveness and adequacy of this document, the following criteria must be considered:
 
-1. number of incidents related to the secure functioning of ICT systems
-2. number of incidents due to unclear responsibilities for the functioning of ICT systems
+    1. number of incidents related to the secure functioning of ICT systems
+    2. number of incidents due to unclear responsibilities for the functioning of ICT systems
 
-1.
 # Operating Procedures For Information And Communication Technology
 
-1.
 ## Change Management
 
 1. A comprehensive set of documents shall be created and/or stored for any additional system that is developed and implemented in-house, or provided by an external vendor.
@@ -158,23 +108,22 @@
 5. All system or related work performed (including OS upgrade, patching update, etc.) shall be properly recorded in detail in the Daily Log book.
 6. Each change to office automation systems and network infrastructure must be made in the following way:
 
-1. change may be proposed by the System Administrator (SA)
-2. change must be authorized by the Tech Leader (TL); who must assess its justification for business and potential negative security impacts
-3. changes must be implemented by the SA
-4. TLis responsible for checking that the change has been implemented in accordance with the requirement
-5. SAis responsible for testing and verifying the system&#39;s stability – the system must not be put into production before thorough testing has been conducted
-6. implementation of changes must be reported to the TL
+    1. change may be proposed by the System Administrator (SA)
+    2. change must be authorized by the Tech Leader (TL); who must assess its justification for business and potential negative security impacts
+    3. changes must be implemented by the SA
+    4. TL is responsible for checking that the change has been implemented in accordance with the requirement
+    5. SA is responsible for testing and verifying the system&#39;s stability – the system must not be put into production before thorough testing has been conducted
+    6. implementation of changes must be reported to the TL
 
-1. Each change to facilities management and data centre operation systems and infrastructure must be made in the following way:
+7. Each change to facilities management and data centre operation systems and infrastructure must be made in the following way:
 
-1. change may be proposed by the System Administrator (SA)
-2. change must be authorized by the Tech Leader (TL); who must assess its justification for business and potential negative security impacts
-3. changes must be implemented by the SA
-4. TLis responsible for checking that the change has been implemented in accordance with the requirement
-5. SAis responsible for testing and verifying the system&#39;s stability – the system must not be put into production before thorough testing has been conducted
-6. implementation of changes must be reported to the TL
+    1. change may be proposed by the System Administrator (SA)
+    2. change must be authorized by the Tech Leader (TL); who must assess its justification for business and potential negative security impacts
+    3. changes must be implemented by the SA
+    4. TL is responsible for checking that the change has been implemented in accordance with the requirement
+    5. SA is responsible for testing and verifying the system&#39;s stability – the system must not be put into production before thorough testing has been conducted
+    6. implementation of changes must be reported to the TL
 
-1.
 ## Installation of Software on Operational System
 
 1. Any new or upgrade software shall be approved by the CEO, or anyone appointed by the CEO, before the tests and installations may be attempted.
@@ -194,106 +143,92 @@
 15. The software or upgrade installation may resume with the one of the critical PCs or servers.
 16. Once the first PC or server is verified to operate normally, the software or upgrade may be installed and tested on the second PC or server.
 
-1.
 ## Backup
 
-1.
 ### Backup Procedure
 
 1. Backup copies must be created for all systems identified in the Business Continuity Plan and with the frequency specified in that document.
-2. TLis responsible for backing up the information, software and system images.
-3. Use backup software to backup automatically to external USB hard disk. Frequency of backup is daily, starting from 8:30 am.
+2. SA is responsible for backing up the information, software and system images.
+3. Use backup software to backup automatically to Cloud services. Frequency of backup is daily, starting from 00:00 am.
 4. Backup USB hard disk will be transferred and stored offsite (Director&#39;s residence). Two backup USB hard disks are used alternately.
 5. Logs of the backup process are automatically created on systems where the backup copy is made.
 
-1.
 ### Testing Backup Copies
 
 1. Backup copies and the process of their restoration must be tested at least once a week. The USB hard disk will be attached to the system, and the ShadowProtect software will be used to validate the backup information.
-2. TLis responsible for testing backup copies. Records on testing backup copies are kept in the Offsite Backup Scheduled form.
+2. TL is responsible for testing backup copies. Records on testing backup copies are kept in the Offsite Backup Scheduled form.
 
-1.
 ## Network Security Management
 
-1. TLis responsible for managing and controlling the computer networks, for ensuring the security of information in networks, and for protecting the services connected to the networks from unauthorized access. It is therefore necessary:
+1. SA is responsible for managing and controlling the computer networks, for ensuring the security of information in networks, and for protecting the services connected to the networks from unauthorized access. It is therefore necessary:
 
-1. to separate the operational responsibility for networks from the responsibility for sensitive applications and other systems
-2. to segregate network traffic belonging to Agile Lab from other domains – set up unique firewall policies, static routes, virtual local area networks, etc.
-3. TLmust regularly monitor and test implemented controls
+    1. to separate the operational responsibility for networks from the responsibility for sensitive applications and other systems
+    2. to segregate network traffic belonging to Agile Lab from other domains – set up unique firewall policies, static routes, virtual local area networks, etc.
+    3. SA must regularly monitor and test implemented controls
 
-1.
-## Network Services
+2. ### Network Services
 
-1. TLmust define security features and the level of expected services for all network services, whether these services are provided in-house or outsourced – such requirements should be documented with service providers.
-2. If the network services are outsourced, then the requirements must be specified in the agreement with the service provider.
+    1. TL must define security features and the level of expected services for all network services, whether these services are provided in-house or outsourced – such requirements should be documented with service providers.
+    2. If the network services are outsourced, then the requirements must be specified in the agreement with the service provider.
 
-1.
 ## Disposal And Destruction Of Equipment And Media
 
 1. All data and licensed software stored on mobile storage media (e.g. USB flash drive and hard disk; but also on paper) and on all equipment containing storage media (e.g. computers, mobile phones, etc.) must be erased or the medium destroyed before it is disposed of or reused.
 2. The person responsible for erasing data / destroying media must inform the owner of the asset in question about erasing/destroying, and the asset owner must update the Inventory of Assets.
 3. An external service provider may be engaged by the owner of the asset to erase data from the media, and to dispose and destroy equipment and media.
-4.
-### Equipment
+4. ### Equipment
 
-1. TLis responsible for checking and erasing data from equipment, unless the Information Security Policy prescribes differently.
-2. Data must be erased by using the erasing tool supplied by manufacturer; but if the process is not secure enough considering the sensitivity of the data, then the storage medium must be destroyed.
+    1. TL is responsible for checking and erasing data from equipment, unless the Information Security Policy prescribes differently.
+    2. Data must be erased by using the erasing tool supplied by manufacturer; but if the process is not secure enough considering the sensitivity of the data, then the storage medium must be destroyed.
 
-1.
-### Mobile Storage Media
+5. ### Mobile Storage Media
 
-1. TLis responsible for erasing data from mobile storage media, unless the Information Security Policy prescribes differently.
-2. Data must be erased by using the erasing tool supplied by manufacturer; but if the erasure process is not secure enough considering the sensitivity of the data, then the storage medium must be destroyed.
+    1. TL is responsible for erasing data from mobile storage media, unless the Information Security Policy prescribes differently.
+    2. Data must be erased by using the erasing tool supplied by manufacturer; but if the erasure process is not secure enough considering the sensitivity of the data, then the storage medium must be destroyed.
 
-1.
-### Paper Media
+6. ### Paper Media
 
-1. Employees of the organization handling individual documents are responsible for destroying paper documents, unless the Information Security Policy prescribes differently. Paper documents are destroyed by paper shredders.
+    1. Employees of the organization handling individual documents are responsible for destroying paper documents, unless the Information Security Policy prescribes differently. Paper documents are destroyed by paper shredders.
 
-1.
 ## Information Transfer
 
-1.
 ### Electronic Communication Channels
 
 1. Organization&#39;s information may be exchanged through the following electronic communication channels: e-mail, download of files from the Internet, transfer of image files for artwork (via cloud storage), transfer of data (via email and FTP) , telephones, fax machines, SMS text messages, portable media, and forums and social networks.
-2. TLdetermines the communication channel that may be used for each type of information, and possible restrictions regarding permissions to use the communication channels, i.e. defines which activities are forbidden.
+2. TL determines the communication channel that may be used for each type of information, and possible restrictions regarding permissions to use the communication channels, i.e. defines which activities are forbidden.
 3. In addition to controls prescribed by the Information Classification Policy, TL prescribes additional controls for each type of data and communication channel, based on risk assessment results.
 
-1.
 ### Relations With External Parties
 
 1. External parties include various service providers, vendor companies for hardware and software maintenance and clients.
 2. Before exchanging information and/or software with any external party, an agreement must be signed, which is the responsibility of TL. The agreement may be in paper or electronic form (e.g. agreeing to general terms and conditions) and must contain clauses in line with the risk assessment, including at least the following:
 
-- method of identification of the other party
-- authorizations to access information
-- ensuring non-repudiation
-- technical standards for data transfer
-- incident response
-- labeling and handling sensitive information
-- copyright
+    - method of identification of the other party
+    - authorizations to access information
+    - ensuring non-repudiation
+    - technical standards for data transfer
+    - incident response
+    - labeling and handling sensitive information
+    - copyright
 
-1. Agreements with external parties must be drawn up according to the Supplier Security Policy.
+3. Agreements with external parties must be drawn up according to the Supplier Security Policy.
 
-1.
 ## System Monitoring
 
 1. Office Automation Systems and Network Infrastructure
 
-1. Based on the risk assessment results, TL decides which logs will be kept on which systems and for which systems, and how long they will be stored. Logs must be kept for all sensitive systems.
-2. TLis responsible for monitoring the logs of automatically reported faults on a daily basis, as well as to register faults reported by users, to analyze why errors occurred and to take appropriate corrective actions.
-3. Specific authorizations may be specified for actions in the case of an error, as well as how records of errors are kept.
-4. TLis responsible for regularly reviewing logs in order to monitor the activities of users, administrators and system operators. The review is conducted at intervals prescribed by TL, who determines and selects the records to be reviewed, and how the implemented review will be recorded. TL must be informed about the results of the review.
+    1. Based on the risk assessment results, TL decides which logs will be kept on which systems and for which systems, and how long they will be stored. Logs must be kept for all sensitive systems.
+    2. TL is responsible for monitoring the logs of automatically reported faults on a daily basis, as well as to register faults reported by users, to analyze why errors occurred and to take appropriate corrective actions.
+    3. Specific authorizations may be specified for actions in the case of an error, as well as how records of errors are kept.
+    4. TL is responsible for regularly reviewing logs in order to monitor the activities of users, administrators and system operators. The review is conducted at intervals prescribed by TL, who determines and selects the records to be reviewed, and how the implemented review will be recorded. TL must be informed about the results of the review.
 
-1. Facilities Management and Data Centre Operation Systems and Infrastructure
+2. Facilities Management and Data Centre Operation Systems and Infrastructure
 
-1. Based on the risk assessment results, TL decides which logs will be kept on which systems and for which systems, and how long they will be stored. Logs must be kept for all sensitive systems.
-2. TLis responsible for monitoring the logs of automatically reported faults on a daily basis, as well as to register faults reported by users, to analyze why errors occurred and to take appropriate corrective actions.
-3. Specific authorizations may be specified for actions in the case of an error, as well as how records of errors are kept.
-4. TLis responsible for regularly reviewing logs in order to monitor the activities of users, administrators and system operators. The review is conducted at intervals prescribed by TL, who determines and selects the records to be reviewed, and how the implemented review will be recorded. TL must be informed about the results of the review.
+    1. Based on the risk assessment results, TL decides which logs will be kept on which systems and for which systems, and how long they will be stored. Logs must be kept for all sensitive systems.
+    2. TL is responsible for monitoring the logs of automatically reported faults on a daily basis, as well as to register faults reported by users, to analyze why errors occurred and to take appropriate corrective actions.
+    3. Specific authorizations may be specified for actions in the case of an error, as well as how records of errors are kept.
+    4. TL is responsible for regularly reviewing logs in order to monitor the activities of users, administrators and system operators. The review is conducted at intervals prescribed by TL, who determines and selects the records to be reviewed, and how the implemented review will be recorded. TL must be informed about the results of the review.
 
-1.
 ## System Access Rights
 
 1. The procedures below describe the requirements and process to grant and revoke access rights to systems.
@@ -312,17 +247,14 @@
     2. Each Department Manager shall review access rights report provided by IT, and inform IT to continue and/or update the access rights for each user.
     3. IT will grant or revoke access rights based on the instructions from each Department Manager.
 
-1.
 # Managing Records
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Control for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Vendor service log for OA systems &amp; network infrastructure | SA&#39;s cabinet | SA | Once created, the record cannot subsequently be changed | 1 year |
-| --- | --- | --- | --- | --- |
-| Vendor service log for facilities management &amp; data centre operation systems &amp; infrastructure | SA&#39;s cabinet | SA | Once created, the record cannot subsequently be changed | 1 year |
-| Backup scheduler and verification logs – paper form | SA&#39;s cabinet | SA | Logs are read-only; they cannot be deleted or edited | Logs are stored for a period of 1 year |
+| Vendor service log for OA systems &amp; network infrastructure | Cloud directory | TL | Once created, the record cannot subsequently be changed | 1 year |
+| Vendor service log for facilities management &amp; data centre operation systems &amp; infrastructure | Cloud directory | TL | Once created, the record cannot subsequently be changed | 1 year |
+| Backup scheduler and verification logs – paper form | Office&#39;s cabinet | TL or Department Head | Logs are read-only; they cannot be deleted or edited | Logs are stored for a period of 1 year |
 
-2.
 # Appendices
 
 1. Incident Log
