@@ -11,84 +11,38 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
-| 12 Dec 2020 | 0.0 | - | Final version for release |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+| 25 Mar 2021 | 0.1 | - | Final version for release |
+| 12 Dec 2020 | 0.0 | - | Initial version for release |
 
-| **Prepared By:** |
- |
- |
- |
-| --- | --- | --- | --- |
-|
- | System Administrator | 12 Dec 2020 |
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
-|
-| |
-| **Reviewed By :** |
- |
- |
- |
-| --- | --- | --- | --- |
-|
- | Tech Leader | 12 Dec 2020 |
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
-|
-| |
-| **Approved By :** |
- |
- |
- |
-| --- | --- | --- | --- |
-|
- | Chief Executive Officer | 12 Dec 2020 |
+### **Prepared By:**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+|      | System Administrator | 12 Dec 2020 |
 
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
+### **Reviewed By :**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+| Wayne Tng | Tech Leader | 12 Dec 2020 |
+
+### **Approved By :**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+|     | Chief Executive Officer | 12 Dec 2020 |
 
 # Contents
 
-[Revision History i](#_Toc58601746)
+- [Revision History](#revision-history)
 
-[1Purpose, Scope And Users 1](#_Toc58601747)
+- [Purpose, Scope And Users](#purpose-scope-and-users)
 
-[2Reference Documents 1](#_Toc58601748)
+- [Reference Documents](#reference-documents)
 
-[3Roles and Responsibilities 1](#_Toc58601749)
+- [Roles and Responsibilities](#roles-and-responsibilities)
 
-[4Records Management 2](#_Toc58601750)
+- [Records Management](#records-management)
 
-[5Appendices 2](#_Toc58601751)
+- [Appendices](#appendices)
 
-1.
 # Purpose, Scope And Users
 
 1. The purpose of this document is to define the guidelines for the use of secure remote access and control software.
@@ -97,43 +51,31 @@
 4. This document also applies to all employees from a vendor logging in to the system to solve a problem.
 5. Users of this document are top management and persons responsible for suppliers, vendors, service providers and partners in Agile Lab.
 
-1.
 # Reference Documents
 
 1. ISMS-01 ISMS Policy
 2. ISO/IEC 27001 standard, clauses A.9 Access Control
 
-1.
 # Roles and Responsibilities
 
 1. Department managers shall determine and approve the request for remote access for an Agile Lab employee.
 2. Department managers shall determine and approve the request for remote access on an ad hoc and as needed basis for a vendor employee providing remote support for critical systems.
 3. Department managers shall verify the identity and suitability of the remote access user before granting the request.
-4. All requests will be reviewed and approved by the SA, or his/her assigned deputy.
-5. Authorized users are only allowed to login via secure VPN access provided by the Corporate IT department.
-6. Corporate IT will train approved users on how to use and/or delete remote access or control software, and to change the password.
-7. All Agile Lab secure remote access users shall change their login password periodically, and the previous password shall not be re-used.
-8. All Agile Lab users are required to ensure that remote access or control software will be inactive under normal circumstances.
-9. All vendor employees granted temporary remote access shall delete the remote control software as soon as the job is completed.
-10. Department managers, or the assigned deputy, shall create a new login password for the vendor employee remote access. A previous password shall not be used.
-11. Department managers, or their assigned deputies, shall ensure that the remote control software is deleted as soon as the job is completed.
-12. Department managers, or their assigned deputies, shall maintain a remote access log; which shall contain the date, time, user (requestor) name and activities performed for every remote access login by a vendor employee.
-13. This log shall be available for audit purposes at any time.
+4. Corporate IT will train approved users on how to use and/or delete remote access or control software, and to change the password.
+5. All Agile Lab secure remote access users shall change their login password periodically, and the previous password shall not be re-used.
+6. All Agile Lab users are required to ensure that remote access or control software will be inactive under normal circumstances.
+7. All vendor employees granted temporary remote access shall delete the remote control software as soon as the job is completed.
+8. Department managers, or the assigned deputy, shall create a new login password for the vendor employee remote access. A previous password shall not be used.
+9. Department managers, or their assigned deputies, shall ensure that the remote control software is deleted as soon as the job is completed.
+10. Department managers, or their assigned deputies, shall maintain a remote access log; which shall contain the date, time, user (requestor) name and activities performed for every remote access login by a vendor employee.
+11. This log shall be available for audit purposes at any time.
 
-1.
 # Records Management
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Remote access (or control) log book | Shared directory in NAS;office (hard copy) | Department Managers | Department Managers | 1 year |
-|
- |
- |
- |
- |
- |
+| Remote access (or control) log book | Cloud directory;office (hard copy) | Department Managers | Department Managers | 1 year |
 
-1.
 # Appendices
 
 None
