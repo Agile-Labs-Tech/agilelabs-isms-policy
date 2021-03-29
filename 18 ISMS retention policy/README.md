@@ -11,81 +11,38 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
-| 12 Dec 2020 | 0.0 | ‒ | Final version for release |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+| 25 Mar 2021 | 0.1 | - | Final version for release |
+| 12 Dec 2020 | 0.0 | - | Initial version for release |
 
-| **Prepared By:** |
- |
- |
- |
-| --- | --- | --- | --- |
-| \&lt; owner name \&gt; | System Administrator | 12 Dec 2020 |
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
-|
-| |
-| **Reviewed By :** |
- |
- |
- |
-| --- | --- | --- | --- |
-| \&lt; MR name \&gt; | Tech Leader | 12 Dec 2020 |
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
-|
-| |
-| **Approved By :** |
- |
- |
- |
-| --- | --- | --- | --- |
-| \&lt; Approver name \&gt; | Chief Executive Officer | 12 Dec 2020 |
+### **Prepared By:**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+|      | System Administrator | 12 Dec 2020 |
 
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
+### **Reviewed By :**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+| Wayne Tng | Tech Leader | 12 Dec 2020 |
+
+### **Approved By :**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+|     | Chief Executive Officer | 12 Dec 2020 |
 
 # Contents
 
-[Revision History i](#_Toc58601545)
+- [Revision History](#revision-history)
 
-[1Purpose, Scope And Users 1](#_Toc58601546)
+- [Purpose, Scope And Users](#purpose-scope-and-users)
 
-[2Related Documents 1](#_Toc58601547)
+- [Related Documents](#related-documents)
 
-[3Roles &amp; Responsibilities 1](#_Toc58601548)
+- [Roles and Responsibilities](#roles-and-responsibilities)
 
-[4Records Management 2](#_Toc58601549)
+- [Records Management](#records-management)
 
-[5Appendices 2](#_Toc58601550)
+- [Appendices](#appendices)
 
-1.
 # Purpose, Scope And Users
 
 1. This document defines the policy and provides the guidelines for the retention of information and documents that will be owned and used by Agile Lab Pte Ltd (Agile Lab).
@@ -93,14 +50,12 @@
 3. Information stored electronically includes files and data permanently and temporarily stored in (desktop and laptop) personal computers, ICT hardware devices and services, primary and secondary storage media, email service and office administration software (or service).
 4. This policy is to be used all business units and all employees.
 
-1.
 # Related Documents
 
 1. ISMS-01 Information Security Policy
 2. ISMS-03 Procedures for Document and Record Control
 3. ISMS-11 Disposal and Destruction Policy
 
-1.
 # Roles &amp; Responsibilities
 
 1. The Tech Leader (TL), or his/her appointed deputy, is responsible to ensure the requirements stated in this policy are communicated to all internal parties.
@@ -112,15 +67,12 @@
 7. This list shall be provided whenever there are significant changes, or at least once annually.
 8. The retention period for each type of information and files shall be assumed to be in compliance to the regulatory and/or legal requirements from the relevant government agencies and authorities.
 
-1.
 # Records Management
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| ISMS policy, procedures &amp; framework manuals | Shared folder | SA | TL | 1-year |
-| --- | --- | --- | --- | --- |
+| ISMS policy, procedures &amp; framework manuals | Cloud repository | SA | TL | 1-year |
 
-1.
 # Appendices
 
 None
