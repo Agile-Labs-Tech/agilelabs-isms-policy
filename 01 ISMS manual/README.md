@@ -11,129 +11,80 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
-| 1 Nov 2020 | 0 | – | Final version for release |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+| 25 Mar 2021 | 0.1 | - | Final version for release |
+| 12 Dec 2020 | 0.0 | - | Initial version for release |
 
-| **Prepared By:** |
- |
- |
- |
-| --- | --- | --- | --- |
-| Preparer Name | **System Administrator** | 1 Nov 2020 |
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
-|
-| |
-| **Reviewed By :** |
- |
- |
- |
-| --- | --- | --- | --- |
-|
- | **Tech Leader** | 1 Nov 2020 |
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
-|
-| |
-| **Approved By :** |
- |
- |
- |
-| --- | --- | --- | --- |
-| \&lt; CEO name \&gt; | Chief Executive Officer | 1 Nov 2020 |
+### **Prepared By:**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+|      | System Administrator | 12 Dec 2020 |
 
- |
-| Name | Designation | Date | Signature |
-| --- | --- | --- | --- |
+### **Reviewed By :**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+| Wayne Tng | Tech Leader | 12 Dec 2020 |
+
+### **Approved By :**
+| **Name** | **Designation** | **Date** |
+| --- | --- | --- |
+|     | Chief Executive Officer | 12 Dec 2020 |
 
 # Contents
 
-[Revision History i](#_Toc55883046)
+- [Revision History](#revision-history)
 
-**[1](#_Toc55883047)****Policy 1**
+- [Policy](#policy)
 
-**[2](#_Toc55883048)****Scope 2**
+- [Scope](#scope)
 
-**[3](#_Toc55883049)****Objectives And Measurement 2**
+- [Objectives And Measurement](#objectives-and-measurement)
 
-**[4](#_Toc55883050)****Risk Management 3**
+- [Risk Management](#risk-management)
 
-**[5](#_Toc55883051)****Information Security Definitions 3**
+- [Information Security Definitions](#information-security-definitions)
 
-**[6](#_Toc55883052)****Information Security Responsibilities 4**
+- [Information Security Responsibilities](#information-security-responsibilities)
 
-**[7](#_Toc55883053)****Information Classification 6**
+- [Information Classification](#information-classification)
 
-**[8](#_Toc55883054)****Computer And Information Control 6**
+- [Computer And Information Control](#computer-and-information-control)
 
-**[9](#_Toc55883055)****Asset Management 14**
+- [Asset Management](#asset_management)
 
-**[10](#_Toc55883056)****Security Incident Reporting 16**
+- [Security Incident Reporting](#security-incident-reporting)
 
-**[11](#_Toc55883057)****Compliance 16**
+- [Comliance](#compliance)
 
-**[12](#_Toc55883058)****Password Control Standards 17**
+- [Password Control Standards](#password-control-standards)
 
-**[13](#_Toc55883059)****Encryption 17**
+- [Encryption](#encryption)
 
-[13.1Definition 17](#_Toc55883060)
+  - [Definition](#definition)
 
-[13.2Encryption Key 17](#_Toc55883061)
+  - [Encryption Key](#encryption-key)
 
-[13.3Installation of authentication and encryption certificates on the e-mail system 18](#_Toc55883062)
+  - [Installation of authentication and encryption certificates on the e-mail system](#installation-of-authentication-and-encryption-certificates-on-the-e-mail-system)
 
-[13.4Use of WinZip encrypted and zipped e-mail 18](#_Toc55883063)
+  - [Use of WinZip encrypted and zipped e-mail](#use-of-winzip-encrypted-and-zipped-e-mail)
 
-[13.5File Transfer Protocol (FTP) 18](#_Toc55883064)
+  - [File Transfer Protocol (FTP)](#file-transfer-protocol-ftp)
 
-[13.6Secure Socket Layer (SSL) Web Interface 18](#_Toc55883065)
+  - [Secure Socket Layer (SSL) Web Interface](#secure-socket-layer-ssl-web-interface)
 
-**[14](#_Toc55883066)****Change Management 18**
+- [Change Management](#change-management)
 
-**[15](#_Toc55883067)****Data Privacy 19**
+- [Data Privacy](#data-privacy)
 
-**[16](#_Toc55883068)****Specific Protocols And Devices 20**
+- [Specific Protocols And Devices](#specific-protocols-and-devices)
 
-[16.1Wireless Usage Standards and Policy 20](#_Toc55883069)
+  - [Wireless Usage Standards and Policy](#wireless-usage-standards-and-policy)
 
-[16.2Use of Transportable Media, Personal Digital Assistants (PDAs) 20](#_Toc55883070)
+  - [Use of Transportable Media, Personal Digital Assistants (PDAs)](#use-of-transportable-media-personal-digital-assistants-pdas)
 
-**[17](#_Toc55883071)****Intellectual Property Rights 22**
+- [Intellectual Property Rights](#intellectual-property-rights)
 
-**[18](#_Toc55883072)****Related Documents 22**
+- [Related Documents](#related-documents)
 
-1.
 # Policy
 
   1. It is the policy of Agile Lab Pte Ltd (hereinafter referred to as Agile Lab or the Organisation) that information, in all its forms – written, spoken, recorded electronically or printed – will be protected from accidental and intentional unauthorized modification, destruction or disclosure throughout its life cycle.
@@ -141,17 +92,16 @@
   3. The Policy and the Information Security Management System (ISMS) shall comply with the relevant legal and regulatory requirements, and also comply with the relevant internal policies and appropriate contractual obligations.
   4. The governance structure is illustrated in the diagram below.
 
-![](RackMultipart20210317-4-1dhkloa_html_2cbbfc81afe844be.gif)
+  ![governance-structure](governance-structure.png)
 
-  1. All policies and procedures must be documented and made available to individuals responsible for their implementation and compliance. All activities identified by the policies and procedures must also be documented.
-  2. Documentation pertaining to ISMS policies and procedures in electronic form, must be retained for at least one (1) year after initial creation or after changes are made.
-  3. All documentation must be reviewed annually (once a year), or whenever required to ensure relevance and effectiveness; that is, whenever there are significant changes.
-  4. At each entity and/or department level, standard operating procedures may be developed detailing the implementation of this policy and set of standards, and addressing any additional information systems functionality in such entity and/or department.
-  5. All departmental procedures must be consistent with this policy.
-  6. All systems implemented after the effective date of these policies are expected to comply with the provisions of this policy where practicable.
-  7. Existing systems are expected to be brought into compliance where possible and within practical timeframes.
+  5. All policies and procedures must be documented and made available to individuals responsible for their implementation and compliance. All activities identified by the policies and procedures must also be documented.
+  6. Documentation pertaining to ISMS policies and procedures in electronic form, must be retained for at least one (1) year after initial creation or after changes are made.
+  7. All documentation must be reviewed annually (once a year), or whenever required to ensure relevance and effectiveness; that is, whenever there are significant changes.
+  8. At each entity and/or department level, standard operating procedures may be developed detailing the implementation of this policy and set of standards, and addressing any additional information systems functionality in such entity and/or department.
+  9. All departmental procedures must be consistent with this policy.
+  10. All systems implemented after the effective date of these policies are expected to comply with the provisions of this policy where practicable.
+  11. Existing systems are expected to be brought into compliance where possible and within practical timeframes.
 
-1.
 # Scope
 
 1. The primary scope of information security is the protection of the confidentiality, integrity and availability of information.
@@ -159,7 +109,6 @@
 3. The entities are listed in the appendix.
 4. This policy and all standards apply to the classes of information in any form as defined in SECTION 7 Information Classification.
 
-1.
 # Objectives And Measurement
 
 1. The general objective of the information security management system is to minimize losses and damages caused by potential information security incident; to continue to achieve the organization&#39;s business objectives, mission and vision.
@@ -170,14 +119,13 @@
 | Files containing particulars, information and/or private data of registered events participants | Zero (0) number of breaches per month |
 | Data privacy and protection for intellectual property and confidential records for the organization and clients | Zero (0) number of breaches per month |
 
-1. The Tech Leader (TL) is responsible to review existing and set new ISMS objectives.
-2. The objectives for the specific security controls or groups of controls are proposed by the System Administrator (SA), and will be approved by the TL.
-3. All objectives will be reviewed at least once annually, or as and when there are significant changes.
-4. Agile Lab will measure the fulfilment of the objectives.
-5. The measurements will be performed at least once a year by the SA.
-6. The SA will analyse and evaluate the measurement results and report them to the TL as input materials for the Management review.
+3. The Tech Leader (TL) is responsible to review existing and set new ISMS objectives.
+4. The objectives for the specific security controls or groups of controls are proposed by the System Administrator (SA), and will be approved by the TL.
+5. All objectives will be reviewed at least once annually, or as and when there are significant changes.
+6. Agile Lab will measure the fulfilment of the objectives.
+7. The measurements will be performed at least once a year by the SA.
+8. The SA will analyse and evaluate the measurement results and report them to the TL as input materials for the Management review.
 
-1.
 # Risk Management
 
 1. Risk assessments shall be conducted annually or whenever appropriate to identify the threat vulnerabilities and evaluate the risks to information networks and systems.
@@ -188,7 +136,6 @@
 6. Based on the periodic assessment, measures that reduce the impact of the threats by reducing the amount and scope of the vulnerable areas, will be implemented.
 7. The selected controls are listed in the Statement of Applicability.
 
-1.
 # Information Security Definitions
 
 1. **Availability:** Data or information is accessible and usable when required by an authorized person.
@@ -200,51 +147,49 @@
 7. **Information Security Management System** : part of overall management processes that takes care of planning, implementing, maintaining, reviewing, and improving the information security.
 8. **Risk:** The probability of a loss of confidentiality, integrity, or availability of information resources.
 
-1.
 # Information Security Responsibilities
 
 1. Technical Leader (TL): The role of the TL will be performed by the SA, and is responsible to:
 
-  1. Assist the Management Representative (TL) to develop and implement the information security policy.
-  2. Assist the department management and users to develop and implement relevant procedures and standards to comply with the information security policy.
-  3. Provide basic security support for all systems and users.
-  4. Advise owners in the identification and classification of computer resources.
-  5. Advise systems development and application owners in the implementation of security controls for information on systems, from the point of system design, through testing and production implementation.
-  6. Provide relevant information and educate management about security controls affecting system users and application systems.
-  7. Perform security audits.
-  8. Report regularly to the management on the organizational status with regard to information security.
+    1. Assist the Management Representative (TL) to develop and implement the information security policy.
+    2. Assist the department management and users to develop and implement relevant procedures and standards to comply with the information security policy.
+    3. Provide basic security support for all systems and users.
+    4. Advise owners in the identification and classification of computer resources.
+    5. Advise systems development and application owners in the implementation of security controls for information on systems, from the point of system design, through testing and production implementation.
+    6. Provide relevant information and educate management about security controls affecting system users and application systems.
+    7. Perform security audits.
+    8. Report regularly to the management on the organizational status with regard to information security.
 
-1. Information Owner: The owner of a collection of information is usually the manager responsible for the creation of that information or the primary user of that information. This role often corresponds with the management of the department. In this context, ownership does not signify proprietary interest, and ownership may be shared. The owner may delegate ownership responsibilities to the department employees. The owner of information has the responsibility for:
+2. Information Owner: The owner of a collection of information is usually the manager responsible for the creation of that information or the primary user of that information. This role often corresponds with the management of the department. In this context, ownership does not signify proprietary interest, and ownership may be shared. The owner may delegate ownership responsibilities to the department employees. The owner of information has the responsibility for:
 
-  1. Knowing the information for which she/he is responsible.
-  2. Work with the TL or SA to determine the data retention period for the information.
-  3. Ensure appropriate procedures are practised to protect the integrity, confidentiality, and availability of the information used or created within the unit.
-  4. Authorize access and assigning to employees as custodians for the information.
-  5. Specify and communicate the control requirements to the custodian and users of the information.
-  6. Report promptly to the TL or SA – the loss or misuse of organizational information.
-  7. Initiate corrective actions when problems are identified.
-  8. Promote employee information security education and awareness by utilizing programs approved by the SA, where appropriate.
-  9. Follow existing approval processes within the Organisation for the selection, budgeting, purchase, and implementation of any computer system/software to manage information.
+    1. Knowing the information for which she/he is responsible.
+    2. Work with the TL or SA to determine the data retention period for the information.
+    3. Ensure appropriate procedures are practised to protect the integrity, confidentiality, and availability of the information used or created within the unit.
+    4. Authorize access and assigning to employees as custodians for the information.
+    5. Specify and communicate the control requirements to the custodian and users of the information.
+    6. Report promptly to the TL or SA – the loss or misuse of organizational information.
+    7. Initiate corrective actions when problems are identified.
+    8. Promote employee information security education and awareness by utilizing programs approved by the SA, where appropriate.
+    9. Follow existing approval processes within the Organisation for the selection, budgeting, purchase, and implementation of any computer system/software to manage information.
 
-1. Custodian: The custodian of information is generally responsible for the processing and storage of the information. The custodian is responsible for the administration of controls as specified by the owner. Responsibilities may include:
+3. Custodian: The custodian of information is generally responsible for the processing and storage of the information. The custodian is responsible for the administration of controls as specified by the owner. Responsibilities may include:
 
-  1. Providing and/or recommending physical safeguards.
-  2. Providing and/or recommending procedural safeguards.
-  3. Administering access to information.
-  4. Releasing information as authorized by the Information Owner, the TL or SA for use and disclosure using procedures that protect the privacy of the information.
-  5. Comply with information security policies, procedures and standards as appropriate and in consultation with the TL or SA.
-  6. Reporting promptly to the Information Owner, TL or SA, the loss or misuse of any information.
-  7. Identifying and responding to security incidents and initiating appropriate actions when problems are identified.
+    1. Providing and/or recommending physical safeguards.
+    2. Providing and/or recommending procedural safeguards.
+    3. Administering access to information.
+    4. Releasing information as authorized by the Information Owner, the TL or SA for use and disclosure using procedures that protect the privacy of the information.
+    5. Comply with information security policies, procedures and standards as appropriate and in consultation with the TL or SA.
+    6. Reporting promptly to the Information Owner, TL or SA, the loss or misuse of any information.
+    7. Identifying and responding to security incidents and initiating appropriate actions when problems are identified.
 
-1. User: The user is any person who has been authorized to read, enter, or update information. A user of information is expected to:
+4. User: The user is any person who has been authorized to read, enter, or update information. A user of information is expected to:
 
-  1. Access information only in support of their authorized job responsibilities.
-  2. Comply with information security policies, procedures and standards, and with all controls established by the owner and custodian.
-  3. Keep personal authentication devices (e.g. passwords, security tokens, PINS, etc.) confidential.
-  4. Report promptly to the TL or SA the loss or misuse of information.
-  5. Initiate corrective actions when problems or incidents are identified.
+    1. Access information only in support of their authorized job responsibilities.
+    2. Comply with information security policies, procedures and standards, and with all controls established by the owner and custodian.
+    3. Keep personal authentication devices (e.g. passwords, security tokens, PINS, etc.) confidential.
+    4. Report promptly to the TL or SA the loss or misuse of information.
+    5. Initiate corrective actions when problems or incidents are identified.
 
-1.
 # Information Classification
 
 1. Classification is used to assert proper controls for safeguarding the confidentiality of information.
@@ -255,32 +200,30 @@
 | **Category** | **Description** |
 | --- | --- |
 | Confidential | Information and data that shall be shared with designated individuals or groups (which may consist of internal and/or external parties) |
-| --- | --- |
 | Internal | Information and data that may be disseminated only internally, that is, to management and employees |
 | Public | Information and data that is published or publicly available |
 | Unclassified | Same as for &quot;Public&quot; |
 
-1. Contents stored in the public, organizational, departmental, confidential and private folders in the network shared drive shall be categorized using the classification categories shown above.
-2. Email contents in the public, organizational, department, confidential and private folders shall be categorized using the classification categories shown above.
+5. Contents stored in the public, organizational, departmental, confidential and private folders in the network shared drive shall be categorized using the classification categories shown above.
+6. Email contents in the public, organizational, department, confidential and private folders shall be categorized using the classification categories shown above.
 
-1.
 # Computer And Information Control
 
 1. All involved systems and information are assets belonging to the Organisation.
 2. The assets are expected to be protected from misuse, unauthorized manipulation and destruction. These protection measures may be physical and/or logical (procedural or software based) controls.
 
-1. **Ownership of Software:** All computer software developed by the Organisation&#39;s employees or contract personnel on behalf of the Organisation or licensed for the Organisation to use is the property of the Organisation; such software must not be copied for use at home or any other location, unless otherwise specified by the license agreement.
-2. **Installed Software:** All software packages that reside on computers and networks within the Organisation must comply with applicable licensing agreements and restrictions and must comply with Agile Lab&#39;s acquisition policies.
-3. **Virus Protection:** Virus checking systems approved by the TL or SA must be deployed using a multi-layered approach (desktops, servers, gateways, etc.), that ensures all electronic files are appropriately scanned for viruses. Users are not authorized to turn off or disable virus checking systems. The SA may check and verify if the virus definition files are updated on the servers, desktops or notebooks, and if the systems are infected.
-4. **Access Controls:** Physical and electronic access to Confidential and Internal information and computing resources is controlled. To ensure appropriate levels of access by employees, a variety of security measures as recommended by the SA, and approved by the TL, will be implemented. Mechanisms to control access to Confidential and Internal information include (but are not limited to) the following methods:
+    1. **Ownership of Software:** All computer software developed by the Organisation&#39;s employees or contract personnel on behalf of the Organisation or licensed for the Organisation to use is the property of the Organisation; such software must not be copied for use at home or any other location, unless otherwise specified by the license agreement.
+    2. **Installed Software:** All software packages that reside on computers and networks within the Organisation must comply with applicable licensing agreements and restrictions and must comply with Agile Lab&#39;s acquisition policies.
+    3. **Virus Protection:** Virus checking systems approved by the TL or SA must be deployed using a multi-layered approach (desktops, servers, gateways, etc.), that ensures all electronic files are appropriately scanned for viruses. Users are not authorized to turn off or disable virus checking systems. The SA may check and verify if the virus definition files are updated on the servers, desktops or notebooks, and if the systems are infected.
+    4. **Access Controls:** Physical and electronic access to Confidential and Internal information and computing resources is controlled. To ensure appropriate levels of access by employees, a variety of security measures as recommended by the SA, and approved by the TL, will be implemented. Mechanisms to control access to Confidential and Internal information include (but are not limited to) the following methods:
 
-1. **Authorization:** Access will be granted on a least privilege access basis and must be authorized by the immediate supervisor and application owner with the assistance of the SA. Any of the following methods are acceptable for providing access under this policy:
+        1. **Authorization:** Access will be granted on a least privilege access basis and must be authorized by the immediate supervisor and application owner with the assistance of the SA. Any of the following methods are acceptable for providing access under this policy:
 
-- _Context-based access:_ Access control based on the context of a transaction (as opposed to being based on attributes of the initiator or target). The &quot;external&quot; factors might include time of day, location of the user, strength of user authentication, etc.
-- _Role-based access:_ An alternative to traditional access control models (e.g., discretionary or non-discretionary access control policies) that permits the specification and enforcement of enterprise-specific security policies in a way that maps more naturally to an Organisation&#39;s structure and business activities. Each user is assigned to one or more predefined roles, each of which has been assigned the various privileges needed to perform that role.
-- _User-based access:_ A security mechanism used to grant users of a system access based upon the identity of the user.
+            - _Context-based access:_ Access control based on the context of a transaction (as opposed to being based on attributes of the initiator or target). The &quot;external&quot; factors might include time of day, location of the user, strength of user authentication, etc.
+            - _Role-based access:_ An alternative to traditional access control models (e.g., discretionary or non-discretionary access control policies) that permits the specification and enforcement of enterprise-specific security policies in a way that maps more naturally to an Organisation&#39;s structure and business activities. Each user is assigned to one or more predefined roles, each of which has been assigned the various privileges needed to perform that role.
+            - _User-based access:_ A security mechanism used to grant users of a system access based upon the identity of the user.
 
-1. **Identification/Authentication:** Unique user identification (user id) and authentication is required for all systems that maintain or access to Confidential and/or Internal Information. Users will be held accountable for all actions performed on the system with their user id.
+        2. **Identification/Authentication:** Unique user identification (user id) and authentication is required for all systems that maintain or access to Confidential and/or Internal Information. Users will be held accountable for all actions performed on the system with their user id.
 
 - At least one of the following authentication methods must be implemented:
 
@@ -292,176 +235,165 @@
 - An automatic timeout re-authentication function, after a certain period of no activity (maximum 15 minutes), is preferred.
 - The user must log off or secure the system when leaving it.
 
-1. **Review of Access Rights:** Owners of each system and/or facilities for which special access rights are required must review whether the access rights granted are in line with the current business and security requirements. The frequency of review is as listed in the following table:
+    1. **Review of Access Rights:** Owners of each system and/or facilities for which special access rights are required must review whether the access rights granted are in line with the current business and security requirements. The frequency of review is as listed in the following table:
 
 | **Name of system / network / service / physical area** | **Intervals for regular review** |
 | --- | --- |
 | Computer server room | Once per year; or whenever there are significant changes |
-| --- | --- |
 | Network operations centre | Once per year; or whenever there are significant changes |
 | Security reception &amp; guard house | Once per year; or whenever there are significant changes |
 | Data centre space | Once per year; or whenever there are significant changes |
 | Other secured areas, equipment and rooms | Once per year; or whenever there are significant changes |
 
-1. **Data Integrity:** the Organisation shall ensure that Confidential and Internal Information has not been altered or destroyed in an unauthorized manner. Listed below are some methods that support or protect data integrity:
+  1. **Data Integrity:** the Organisation shall ensure that Confidential and Internal Information has not been altered or destroyed in an unauthorized manner. Listed below are some methods that support or protect data integrity:
 
-  1. transaction audit
-1. disk redundancy (RAID)
-2. ECC (Error Correcting Memory)
-3. checksums (file integrity)
-4. encryption of data in storage
-5. digital signatures
+      1. transaction audit
+      2. disk redundancy (RAID)
+      3. ECC (Error Correcting Memory)
+      4. checksums (file integrity)
+      5. encryption of data in storage
+      6. digital signatures
 
-1. **Transmission Security:** Technical security mechanisms must be put in place to guard against unauthorized access to data that is transmitted over a communications network, including wireless networks. The following features must be implemented:
+  2. **Transmission Security:** Technical security mechanisms must be put in place to guard against unauthorized access to data that is transmitted over a communications network, including wireless networks. The following features must be implemented:
 
-1. integrity controls and
-2. encryption, where deemed appropriate
+    1. integrity controls and
+    2. encryption, where deemed appropriate
 
-1. **Remote Access:** Access into the Organisation network from outside will be granted using organizational approved devices and pathways on an individual user and application basis. Remote access will be provisioned using the organizational approved secure virtual private network (VPN) infrastructure. All other network access options are strictly prohibited. Further, Confidential and/or Internal Information that is stored or accessed remotely must maintain the same level of protections as information stored and accessed within the organizational network.
-2. **Physical Access:** Access to areas in which information processing is carried out must be restricted to only appropriately authorized individuals.
+  3. **Remote Access:** Access into the Organisation network from outside will be granted using organizational approved devices and pathways on an individual user and application basis. Remote access will be provisioned using the organizational approved secure virtual private network (VPN) infrastructure. All other network access options are strictly prohibited. Further, Confidential and/or Internal Information that is stored or accessed remotely must maintain the same level of protections as information stored and accessed within the organizational network.
+  4. **Physical Access:** Access to areas in which information processing is carried out must be restricted to only appropriately authorized individuals.
 
-The following physical controls must be in place:
+      The following physical controls must be in place:
 
-1. Computer server systems must be installed in an access-controlled area. The area in and around the computer facility must afford protection against fire, water damage, and other environmental hazards such as power outages and extreme temperature situations.
-2. File servers containing Confidential and/or Internal Information must be installed in a secure area to prevent theft, destruction, or access by unauthorized individuals.
-3. Workstations or personal computers (PC) must be secured against use by unauthorized individuals.
+      1. Computer server systems must be installed in an access-controlled area. The area in and around the computer facility must afford protection against fire, water damage, and other environmental hazards such as power outages and extreme temperature situations.
+      2. File servers containing Confidential and/or Internal Information must be installed in a secure area to prevent theft, destruction, or access by unauthorized individuals.
+      3. Workstations or personal computers (PC) must be secured against use by unauthorized individuals.
 
-- Position workstations to minimize unauthorized viewing of protected or confidential information.
-- Grant workstation access only to those who need it in order to perform their job function.
-- Establish workstation location criteria to eliminate or minimize the possibility of unauthorized access to protected and confidential information.
-- Employ physical safeguards as determined by risk analysis, such as locating workstations in controlled access areas or installing covers or enclosures to preclude passer-by access.
-- Use automatic screen savers with passwords to protect unattended machines.
+          - Position workstations to minimize unauthorized viewing of protected or confidential information.
+          - Grant workstation access only to those who need it in order to perform their job function.
+          - Establish workstation location criteria to eliminate or minimize the possibility of unauthorized access to protected and confidential information.
+          - Employ physical safeguards as determined by risk analysis, such as locating workstations in controlled access areas or installing covers or enclosures to preclude passer-by access.
+          - Use automatic screen savers with passwords to protect unattended machines.
 
-1. Facility access controls must be implemented to limit physical access to electronic information systems and the facilities in which they are housed, while ensuring that properly authorized access is allowed. The key controls are:
+      4. Facility access controls must be implemented to limit physical access to electronic information systems and the facilities in which they are housed, while ensuring that properly authorized access is allowed. The key controls are:
 
-- Monitoring key secure access areas using surveillance cameras.
-- Access Control and Validation – Documented procedures to control and validate a person&#39;s access to facilities based on their role or function, including visitor control, and control of access to software programs for testing and revision.
-- Maintenance records – Documented policies and procedures to document repairs and modifications to the physical components of the facility which are related to security (for example, hardware, walls, doors, and locks).
-- Visitors will be escorted at all times within the premises. Unescorted visitors will have no access to the premises.
-- Visitors will report to the guard house, and will be issued with a visitor pass before being permitted to enter the premises.
-- The premises are monitored by security surveillance cameras deployed at the office, Data Centre and data-sensitive areas.
-- Gates at the Data Centre entrance will restrict entry by visitors.
+          - Monitoring key secure access areas using surveillance cameras.
+          - Access Control and Validation – Documented procedures to control and validate a person&#39;s access to facilities based on their role or function, including visitor control, and control of access to software programs for testing and revision.
+          - Maintenance records – Documented policies and procedures to document repairs and modifications to the physical components of the facility which are related to security (for example, hardware, walls, doors, and locks).
+          - Visitors will be escorted at all times within the premises. Unescorted visitors will have no access to the premises.
+          - Visitors will report to the guard house, and will be issued with a visitor pass before being permitted to enter the premises.
+          - The premises are monitored by security surveillance cameras deployed at the office, Data Centre and data-sensitive areas.
+          - Gates at the Data Centre entrance will restrict entry by visitors.
 
-1. Emergency Access:
+  5. Emergency Access:
 
-1. IT will provide a mechanism to provide emergency access to systems and applications in the event that the assigned custodian or owner is unavailable during an emergency.
-2. Procedures must be documented to address:
+    1. IT will provide a mechanism to provide emergency access to systems and applications in the event that the assigned custodian or owner is unavailable during an emergency.
+    2. Procedures must be documented to address:
 
-- Authorization,
-- Implementation, and
-- Revocation
+        - Authorization,
+        - Implementation, and
+        - Revocation
 
-1. **Equipment and Media Controls:** The disposal of information must ensure the continued protection of Confidential and Internal Information. Each department shall adhere to the policies and procedures that govern the receipt and removal of hardware and electronic media that contain information into and out of a facility, and the movement of these items within the facility. The following specification must be addressed:
+  6. **Equipment and Media Controls:** The disposal of information must ensure the continued protection of Confidential and Internal Information. Each department shall adhere to the policies and procedures that govern the receipt and removal of hardware and electronic media that contain information into and out of a facility, and the movement of these items within the facility. The following specification must be addressed:
 
-1. Information Disposal / Media Re-Use of:
+    1. Information Disposal / Media Re-Use of:
 
-- Hard copy (paper and microfilm/fiche)
-- Magnetic media (floppy disks, hard drives, USB drive, etc.) and
-- CD ROM Disks
+        - Hard copy (paper and microfilm/fiche)
+        - Magnetic media (floppy disks, hard drives, USB drive, etc.) and
+        - CD ROM Disks
 
-1. **Accountability:** Each entity must maintain a record of the movements of hardware and electronic media and any person responsible therefore.
-2. **Data backup and Storage:** When needed, create a retrievable, exact copy of electronic before movement of equipment.
+    2. **Accountability:** Each entity must maintain a record of the movements of hardware and electronic media and any person responsible therefore.
+    3. **Data backup and Storage:** When needed, create a retrievable, exact copy of electronic before movement of equipment.
 
-1. Other Media Controls:
+  7. Other Media Controls:
 
-1. Confidential Information stored on external media (diskettes, cd-roms, portable storage, memory sticks, etc.) must be protected from theft and unauthorized access. Such media must be appropriately labelled so as to identify it as Confidential Information. Further, external media containing Confidential Information must never be left unattended in unsecured areas.
-2. Confidential Information must never be stored on mobile computing devices (laptops, personal digital assistants (PDA), smart phones, tablet PC&#39;s, etc.) unless the devices have the following minimum security requirements implemented:
+    1. Confidential Information stored on external media (diskettes, cd-roms, portable storage, memory sticks, etc.) must be protected from theft and unauthorized access. Such media must be appropriately labelled so as to identify it as Confidential Information. Further, external media containing Confidential Information must never be left unattended in unsecured areas.
+    2. Confidential Information must never be stored on mobile computing devices (laptops, personal digital assistants (PDA), smart phones, tablet PC&#39;s, etc.) unless the devices have the following minimum security requirements implemented:
 
-- Power-on passwords
-- Auto logoff or screen saver with password
-- Encryption of stored data or other acceptable safeguards approved by TL or SA
+        - Power-on passwords
+        - Auto logoff or screen saver with password
+        - Encryption of stored data or other acceptable safeguards approved by TL or SA
 
-Furthermore, mobile computing devices must never be left unattended in unsecured areas.
+        Furthermore, mobile computing devices must never be left unattended in unsecured areas.
 
-1. If Confidential Information is stored on external medium or mobile computing devices and there is a breach of confidentiality as a result, then the owner of the medium/device will be held personally accountable and is subject to the terms and conditions of the Organisation&#39;s Information Security Policies and Confidentiality Statement signed as a condition of employment or affiliation with the organization.
+    3. If Confidential Information is stored on external medium or mobile computing devices and there is a breach of confidentiality as a result, then the owner of the medium/device will be held personally accountable and is subject to the terms and conditions of the Organisation&#39;s Information Security Policies and Confidentiality Statement signed as a condition of employment or affiliation with the organization.
 
-1. Data Transfer/Printing:
+  8. Data Transfer/Printing:
 
-1. **Electronic Mass Data Transfers:** Downloading and uploading Confidential and Internal Information between systems must be strictly controlled. Requests for mass downloads of, or individual requests for information must be approved by the Information Owner, and include only the minimum amount of information necessary to fulfill the request.
-2. **Other Electronic Data Transfers and Printing:** Confidential and Internal Information must be stored in a manner inaccessible to unauthorized individuals. Confidential information must not be downloaded, copied or printed indiscriminately or left unattended and open to compromise.
+    1. **Electronic Mass Data Transfers:** Downloading and uploading Confidential and Internal Information between systems must be strictly controlled. Requests for mass downloads of, or individual requests for information must be approved by the Information Owner, and include only the minimum amount of information necessary to fulfill the request.
+    2. **Other Electronic Data Transfers and Printing:** Confidential and Internal Information must be stored in a manner inaccessible to unauthorized individuals. Confidential information must not be downloaded, copied or printed indiscriminately or left unattended and open to compromise.
 
-1. **Oral Communications:** Employees should be aware of their surroundings when discussing Confidential Information. This includes the use of cellular telephones in public areas. Employees should not discuss Confidential Information in public areas if the information can be overheard. Caution should be used when conducting conversations in: semi-private rooms, waiting rooms, corridors, elevators, stairwells, cafeterias, restaurants, or on public transportation.
-2. **Audit Controls:** Hardware, software, and/or procedural mechanisms that record and examine activity in information systems must be implemented. Further, procedures must be implemented to regularly review records of information system activity, such as audit logs, access reports, and security incident tracking reports. These reviews must be documented and maintained for one (1) year.
-3. **Evaluation:** The Organisation requires that periodic technical and non-technical evaluations be performed in response to environmental or operational changes affecting the security of electronic information to ensure its continued protection.
-4.
-#### Business Continuity Plan (BCP): Controls must ensure that the Organisation can recover from any damage to computer equipment or files within a reasonable period of time. The Organisation will develop and maintain a BCP for responding to a system emergency or other occurrence (for example, fire, vandalism, system failure and natural disaster) that damages systems that contain Confidential, or Internal Information. This will include developing policies and procedures to address the following:
+  9. **Oral Communications:** Employees should be aware of their surroundings when discussing Confidential Information. This includes the use of cellular telephones in public areas. Employees should not discuss Confidential Information in public areas if the information can be overheard. Caution should be used when conducting conversations in: semi-private rooms, waiting rooms, corridors, elevators, stairwells, cafeterias, restaurants, or on public transportation.
+  10. **Audit Controls:** Hardware, software, and/or procedural mechanisms that record and examine activity in information systems must be implemented. Further, procedures must be implemented to regularly review records of information system activity, such as audit logs, access reports, and security incident tracking reports. These reviews must be documented and maintained for one (1) year.
+  11. **Evaluation:** The Organisation requires that periodic technical and non-technical evaluations be performed in response to environmental or operational changes affecting the security of electronic information to ensure its continued protection.
+  12. **Business Continuity Plan (BCP)**: Controls must ensure that the Organisation can recover from any damage to computer equipment or files within a reasonable period of time. The Organisation will develop and maintain a BCP for responding to a system emergency or other occurrence (for example, fire, vandalism, system failure and natural disaster) that damages systems that contain Confidential, or Internal Information. This will include developing policies and procedures to address the following:
 
-1. **Data Backup Plan:**
+    1. **Data Backup Plan:**
 
-- A data backup plan must be documented and routinely updated to create and maintain, for a specific period of time, retrievable exact copies of information.
-- Backup data must be stored in an off-site location and protected from physical damage.
-- Backup data must be afforded the same level of protection as the original data.
+          - A data backup plan must be documented and routinely updated to create and maintain, for a specific period of time, retrievable exact copies of information.
+          - Backup data must be stored in an off-site location and protected from physical damage.
+          - Backup data must be afforded the same level of protection as the original data.
 
-1. **Disaster Recovery Procedures:** Disaster recovery procedures must be developed and documented which contains a process enabling the entity to restore any loss of data in the event of fire, vandalism, natural disaster, or system failure.
-2. **Emergency Mode Operation Plan:** A plan must be developed and documented which contains a process enabling the entity to continue to operate in the event of fire, vandalism, natural disaster, or system failure.
-3. **Testing and Revision Procedures:** Procedures should be developed and documented requiring periodic testing of written contingency plans to discover weaknesses and the subsequent process of revising the documentation, if necessary.
-4. **Applications and Data Criticality Analysis:** The criticality of specific applications and data in support of other contingency plan components must be assessed and documented.
+    2. **Disaster Recovery Procedures:** Disaster recovery procedures must be developed and documented which contains a process enabling the entity to restore any loss of data in the event of fire, vandalism, natural disaster, or system failure.
+    3. **Emergency Mode Operation Plan:** A plan must be developed and documented which contains a process enabling the entity to continue to operate in the event of fire, vandalism, natural disaster, or system failure.
+    4. **Testing and Revision Procedures:** Procedures should be developed and documented requiring periodic testing of written contingency plans to discover weaknesses and the subsequent process of revising the documentation, if necessary.
+    5. **Applications and Data Criticality Analysis:** The criticality of specific applications and data in support of other contingency plan components must be assessed and documented.
 
-1.
-#### Email, Internet and Intranet Usage and Other Electronic Communications: Email, internet usage and other electronic communications for business use is encouraged. Electronic communications applies to information and messages communicated, but not limited to, telephone, fax, email, voicemail, instant messaging, internet, personal computers and servers. All information and messages communicated is considered the property of the Organisation.
+  13. **Email, Internet and Intranet Usage and Other Electronic Communications**: Email, internet usage and other electronic communications for business use is encouraged. Electronic communications applies to information and messages communicated, but not limited to, telephone, fax, email, voicemail, instant messaging, internet, personal computers and servers. All information and messages communicated is considered the property of the Organisation.
 
-  1.
-#### Users shall not violate any of the following:
+    1. Users shall not violate any of the following:
 
-- **Copyright violations** – This includes the act of pirating software, music, books and/or videos or the use of pirated software, music, books and/or videos and the illegal duplication and/or distribution of information and other intellectual property that is under copyright.
-- **Illegal activities** – Use of information resources for or in support of illegal purposes as defined by international or local law is strictly prohibited.
-- **Commercial use** – Use of information resources for personal or (personal) commercial profit is strictly prohibited.
-- **Political Activities** – All political activities are strictly prohibited within the workplace.
-- **Harassment** – The Organisation strives to maintain a workplace free of harassment. Therefore, the Organisation prohibits the use of computers, e-mail, voice mail, instant messaging, texting and the Internet in ways that are disruptive, offensive to others, or harmful to Organisation employee morale. Examples of misuse includes, but is not limited to, ethnic slurs, racial comments, pornography, or anything that may be construed as harassing, discriminatory, derogatory, defamatory, threatening or showing disrespect for others.
-- **Junk E-mail** - All communications using IT resources shall be purposeful and appropriate. Distributing &quot;junk&quot; mail, such as chain letters, advertisements, or unauthorized solicitations is prohibited. A chain letter is defined as a letter sent to several persons with a request that each send copies of the letter to an equal number of persons. Advertisements offer services from someone else to you. Solicitations are when someone asks you for something. Such email messages received shall be deleted immediately, and shall not be forwarded to others.
+          - **Copyright violations** – This includes the act of pirating software, music, books and/or videos or the use of pirated software, music, books and/or videos and the illegal duplication and/or distribution of information and other intellectual property that is under copyright.
+          - **Illegal activities** – Use of information resources for or in support of illegal purposes as defined by international or local law is strictly prohibited.
+          - **Commercial use** – Use of information resources for personal or (personal) commercial profit is strictly prohibited.
+          - **Political Activities** – All political activities are strictly prohibited within the workplace.
+          - **Harassment** – The Organisation strives to maintain a workplace free of harassment. Therefore, the Organisation prohibits the use of computers, e-mail, voice mail, instant messaging, texting and the Internet in ways that are disruptive, offensive to others, or harmful to Organisation employee morale. Examples of misuse includes, but is not limited to, ethnic slurs, racial comments, pornography, or anything that may be construed as harassing, discriminatory, derogatory, defamatory, threatening or showing disrespect for others.
+          - **Junk E-mail** - All communications using IT resources shall be purposeful and appropriate. Distributing &quot;junk&quot; mail, such as chain letters, advertisements, or unauthorized solicitations is prohibited. A chain letter is defined as a letter sent to several persons with a request that each send copies of the letter to an equal number of persons. Advertisements offer services from someone else to you. Solicitations are when someone asks you for something. Such email messages received shall be deleted immediately, and shall not be forwarded to others.
 
-1.
-#### Special precautions are required to block Internet (public) access to information resources not intended for public access, and to protect confidential information when it is to be transmitted over the Internet. The following security and administration guidelines pertaining to internet usage shall be used – prior approval from management and TL shall be obtained before:
+    2. Special precautions are required to block Internet (public) access to information resources not intended for public access, and to protect confidential information when it is to be transmitted over the Internet. The following security and administration guidelines pertaining to internet usage shall be used – prior approval from management and TL shall be obtained before:
 
-- An Internet, or other external network connection, is established;
-- Information (including notices, memoranda, documentation and software) is made available on any Internet-accessible computer (e.g. web or ftp server) or device;
-- Users may not install or download any software (applications, screen savers, etc.). If users have a need for additional software, the user is to contact their supervisor;
-- Use shall be granted for business purposes. The network can be used to market services related to the Organisation. Use of the network for personal profit or gain is prohibited.
-- Confidential or sensitive data - including credit card numbers, telephone calling card numbers, logon passwords, and other parameters that can be used to access goods or services - shall be encrypted before being transmitted through the Internet.
-- The encryption software used, and the specific encryption keys (e.g. passwords, pass phrases), shall be obtained from the TL.
-- All encryption keys are to be safely maintained and stored.
-- The use of encryption software and keys, which have not been approved as prescribed above, is prohibited.
+          - An Internet, or other external network connection, is established;
+          - Information (including notices, memoranda, documentation and software) is made available on any Internet-accessible computer (e.g. web or ftp server) or device;
+          - Users may not install or download any software (applications, screen savers, etc.). If users have a need for additional software, the user is to contact their supervisor;
+          - Use shall be granted for business purposes. The network can be used to market services related to the Organisation. Use of the network for personal profit or gain is prohibited.
+          - Confidential or sensitive data - including credit card numbers, telephone calling card numbers, logon passwords, and other parameters that can be used to access goods or services - shall be encrypted before being transmitted through the Internet.
+          - The encryption software used, and the specific encryption keys (e.g. passwords, pass phrases), shall be obtained from the TL.
+          - All encryption keys are to be safely maintained and stored.
+          - The use of encryption software and keys, which have not been approved as prescribed above, is prohibited.
 
-1.
-#### Employee termination: When an employee&#39;s term of service ends, the organization carry out the following procedures:
+  14. Employee termination: When an employee&#39;s term of service ends, the organization carry out the following procedures:
 
-  1.
-#### The System Administrator (SA) will back up or transfer the data, documents and outlook.pst files.
-  2.
-#### The SA will deactivate the employee&#39;s Windows and email login ID and passwords – at least 1 hour before the employee leaves; whenever an instruction is received from HR or the Department Manager whichever is earlier.
-  3.
-#### For 1 month from the last day of an employee&#39;s service, emails for this account will be forwarded to Department Manager – who will notify clients or external parties the change of employees taking over the case or account.
-  4.
-#### On an employee&#39;s last day of work, the employee is to submit an exit clearance form and return all information and communications technology (ICT) assets to SA. A SA representative is to inspect the returned ICT assets, and will sign the exit clearance form to acknowledge that all ICT assets issued to the employee is returned in satisfactory condition. The SA representative may seek advice from HR, if necessary.
+      1. The System Administrator (SA) will back up or transfer the data, documents and outlook.pst files.
+      2. The SA will deactivate the employee&#39;s Windows and email login ID and passwords – at least 1 hour before the employee leaves; whenever an instruction is received from HR or the Department Manager whichever is earlier.
+      3. For 1 month from the last day of an employee&#39;s service, emails for this account will be forwarded to Department Manager – who will notify clients or external parties the change of employees taking over the case or account.
+      4. On an employee&#39;s last day of work, the employee is to submit an exit clearance form and return all information and communications technology (ICT) assets to SA. A SA representative is to inspect the returned ICT assets, and will sign the exit clearance form to acknowledge that all ICT assets issued to the employee is returned in satisfactory condition. The SA representative may seek advice from HR, if necessary.
 
-1.
 # Asset Management
 
 1. In addition to computing and related equipment, application software, vital records stored on media (magnetic or otherwise), and necessary operational documentation stored and used in the data centre are also considered assets; including assets which belonged to the company or clients.
 2. Assets placed in the DC shall be uniquely identified, located and retrieved in a timely manner when required by user organisations.
 3. An assets list shall be maintained and updated whenever appropriate.
 4. The assets belonging clients shall also be recorded in the assets list. The asset table should contain the following information:
-  1. Asset tag number – a unique alphanumeric set of characteristics which shall not be duplicated, even for similar types of assets:
+    1. Asset tag number – a unique alphanumeric set of characteristics which shall not be duplicated, even for similar types of assets:
 
-| **YYYY** | **Dept / Location/ Function** | **Asset type or class** | **Incremental number** | **Example** |
-| --- | --- | --- | --- | --- |
-| 2020 | PM | LPC | 0001 | 2020-PM-LPC-0001 |
-| 2020 | PM | MAP | 0002 | 2020-PM-MAP-0002 |
+    | **YYYY** | **Dept / Location/ Function** | **Asset type or class** | **Incremental number** | **Example** |
+    | --- | --- | --- | --- | --- |
+    | 2020 | PM | LPC | 0001 | 2020-PM-LPC-0001 |
+    | 2020 | PM | MAP | 0002 | 2020-PM-MAP-0002 |
 
-  2. Asset name and description
-  3. Location where asset is stored
-  4. Owner of asset (department and job titles)
+    2. Asset name and description
+    3. Location where asset is stored
+    4. Owner of asset (department and job titles)
 5. A copy of the assets list for a specific customer and contract shall be included in the service contracts with appropriate clauses inserted to identify their ownership rights and privileges.
 6. The location of the clients&#39; assets shall be accurately tracked for retrieval.
 7. All assets belonging to the company, third parties and clients shall be uniquely tagged.
 8. The tagging or markings shall not explicitly display user organisation names, to ensure that security and protect clients&#39; confidentiality.
 9. A system shall be implemented and maintained – to protect, maintain, locate, retrieve and return all user organisation tagged/marked assets located at their premises, and ensure that clients&#39; assets are:
 
-a) located and kept in safe environments;
+  a) located and kept in safe environments;
 
-b) maintained in good operating conditions, with the installation of appropriate environmental controls;
+  b) maintained in good operating conditions, with the installation of appropriate environmental controls;
 
-c) not used or redeployed for other than contracted purposes.
+  c) not used or redeployed for other than contracted purposes.
 
 1. Clients shall be informed when their assets are being relocated.
 2. Clients&#39; assets shall be retrieved and returned within a predetermined and agreed time frame when requested by the client.
@@ -469,7 +401,6 @@ c) not used or redeployed for other than contracted purposes.
 4. Corporate IT may deploy monitoring tools; which should provide email notification when any system anomaly is detected.
 5. Critical alerts received by Corporate IT will be escalated to the TL.
 
-1.
 # Security Incident Reporting
 
 1. It is the responsibility of employees as users to report all security incidents or violations of the security policy immediately to the department manager or SA. Potential or perceived security incident should also be reported.
@@ -478,97 +409,86 @@ c) not used or redeployed for other than contracted purposes.
 4. The SA is responsible to provide training on any procedural changes that may be required as a result of the investigation of an incident.
 5. If criminal action is suspected, the TL or management shall contact the appropriate law enforcement and investigative authorities immediately, which may include but is not limited to the police.
 
-1.
 # Compliance
 
 1. The Information Security Management System Manual applies to all users of the Organisation&#39;s information including: employees and vendors (and suppliers). Failure to comply with Information Security Policies and Standards may result in disciplinary or the appropriate action up to and including dismissal in accordance with applicable organizational procedures; or, in the case of vendors and suppliers, termination of the affiliation. Furthermore, penalties associated with local government regulations.
 2. Possible disciplinary/corrective action may be instituted for, but is not limited to, the following:
 
-1. Unauthorized disclosure of Confidential Information as specified in Confidentiality Statement.
-2. Unauthorized disclosure of a sign-on code (user id) or password.
-3. Attempting to obtain a sign-on code or password that belongs to another person.
-4. Using or attempting to use another person&#39;s sign-on code or password.
-5. Unauthorized use of an authorized password to view or extract confidential data.
-6. Installing or using unlicensed software on the Organisation&#39;s computers.
-7. The intentional unauthorized destruction of the Organisation&#39;s information.
-8. Attempting to get access to sign-on codes for purposes other than official business, including completing fraudulent documentation to gain access.
+    1. Unauthorized disclosure of Confidential Information as specified in Confidentiality Statement.
+    2. Unauthorized disclosure of a sign-on code (user id) or password.
+    3. Attempting to obtain a sign-on code or password that belongs to another person.
+    4. Using or attempting to use another person&#39;s sign-on code or password.
+    5. Unauthorized use of an authorized password to view or extract confidential data.
+    6. Installing or using unlicensed software on the Organisation&#39;s computers.
+    7. The intentional unauthorized destruction of the Organisation&#39;s information.
+    8. Attempting to get access to sign-on codes for purposes other than official business, including completing fraudulent documentation to gain access.
 
-1.
 # Password Control Standards
 
 1. The Organisation&#39;s Information Security Management System Manual requires the use of **strictly** controlled passwords for accessing Confidential Information (CI) and Internal Information (II).
 2. Listed below are the minimum standards that must be implemented in order to ensure the effectiveness of password controls.
 3. Standards for accessing CI, II:
 
-1. Users are responsible for complying with the following password standards:
+    1. Users are responsible for complying with the following password standards:
 
-1. Passwords must never be shared with another person (Note: The user&#39;s password may be reset, if required).
-2. Passwords must, where possible, have a minimum length of eight (8) characters.
-3. Passwords must not be programmed into a PC or recorded anywhere that someone may find and use them.
-4. When creating a password, it is important not to use words that can be found in dictionaries or words that are easily guessed due to their association with the user (i.e. children&#39;s names, pets&#39; names, birthdays, etc.). A combination of alpha and numeric characters are more difficult to guess.
+        1. Passwords must never be shared with another person (Note: The user&#39;s password may be reset, if required).
+        2. Passwords must, where possible, have a minimum length of eight (8) characters.
+        3. Passwords must not be programmed into a PC or recorded anywhere that someone may find and use them.
+        4. When creating a password, it is important not to use words that can be found in dictionaries or words that are easily guessed due to their association with the user (i.e. children&#39;s names, pets&#39; names, birthdays, etc.). A combination of alpha and numeric characters are more difficult to guess.
 
-1. Where possible, system software must enforce the following password standards:
+    2. Where possible, system software must enforce the following password standards:
 
-1. Passwords routed over a network must be encrypted.
-2. Passwords must be entered in a non-display field.
+        1. Passwords routed over a network must be encrypted.
+        2. Passwords must be entered in a non-display field.
 
-1.
 # Encryption
 
-  1.
 ## Definition
 
 1. Encryption is the translation of data into a secret code. Encryption is the most effective way to achieve data security.
-2. To read an encrypted file, a secret key or password is required to decrypt it. Unencrypted data is called plain text_;_ encrypted data is referred to as cipher text **.**
+2. To read an encrypted file, a secret key or password is required to decrypt it. Unencrypted data is called plain text; encrypted data is referred to as cipher text.
 
-  1.
 ## Encryption Key
 
 1. An encryption key specifies the particular transformation of plain text into cipher text, or vice versa during decryption.
 2. If justified by risk analysis, sensitive data and files shall be encrypted before being transmitted through networks. When encrypted data are transferred between organizations, the organizations shall devise a mutually agreeable procedure for secure key management. In the case of conflict, the Organisation shall establish the criteria in conjunction with the TL or appropriate personnel. The Organisation employs several methods of secure data transmission.
 
-  1.
 ## Installation of authentication and encryption certificates on the e-mail system
 
 1. Any user desiring to transfer secure e-mail with a specific identified external user may request to exchange public keys with the external user, shall contact the TL.
 2. Once verified, the certificate is installed on each recipient workstation, and the two may safely exchange secure e-mail.
 
-  1.
 ## Use of WinZip encrypted and zipped e-mail
 
 1. This software allows employees to exchange e-mail with remote users who have the appropriate encryption software on their system.
 2. The two users exchange private keys that will be used to both encrypt and decrypt each transmission.
 3. Any employee who desires to utilize this technology may request this software from the SA.
 
-  1.
 ## File Transfer Protocol (FTP)
 
 1. Files may be transferred to secure FTP sites through the use of appropriate security precautions. Requests for any FTP transfers should be directed to the SA.
 
-  1.
 ## Secure Socket Layer (SSL) Web Interface
 
 1. Some web-host systems may require access to a secure SSL webpage. Any such access requested shall be made to the SA. Prior approval from the department manager and the SA is required before the SSL access will be granted to the employee.
 
-1.
 # Change Management
 
 1. The Organisation tracks changes to networks, systems, and workstations – including software releases and software vulnerability patching in information systems that contain electronic information.
 2. Change tracking allows the Information Communications Technology (&quot;ICT&quot;) department to troubleshoot issues that arise due to an update, new implementation, reconfiguration, or other change to the system.
 3. Procedure
 
-1. The ICT staff or other designated employee who is updating, implementing, reconfiguring, or otherwise changing the system shall carefully log all changes made to the system.
+    1. The ICT staff or other designated employee who is updating, implementing, reconfiguring, or otherwise changing the system shall carefully log all changes made to the system.
 
-1. When changes are tracked within a system (for example Windows updates in the Add or Remove Programs component or updates performed and logged by the vendor), they do not need to be logged on the change management tracking log.
-2. However, the employee implementing the change will ensure that the change tracking is available for review if necessary.
-3. Affected employees will be informed at least one week before the change is implemented. Reminders will be sent to ensure the affected employees are aware. The TL or SA will verbally inform the affected employees on the day the changes will be implemented.
-4. The SA will do a broadcast to inform all the affected employees in the situation of an emergency change management.
+        1. When changes are tracked within a system (for example Windows updates in the Add or Remove Programs component or updates performed and logged by the vendor), they do not need to be logged on the change management tracking log.
+        2. However, the employee implementing the change will ensure that the change tracking is available for review if necessary.
+        3. Affected employees will be informed at least one week before the change is implemented. Reminders will be sent to ensure the affected employees are aware. The TL or SA will verbally inform the affected employees on the day the changes will be implemented.
+        4. The SA will do a broadcast to inform all the affected employees in the situation of an emergency change management.
 
-1. The employee implementing the change will ensure that all necessary data backups are performed prior to the change.
+    2. The employee implementing the change will ensure that all necessary data backups are performed prior to the change.
 
-1. The employee implementing the change shall also be familiar with the rollback process in the event that the change causes an adverse effect within the system and needs to be removed.
+    3. The employee implementing the change shall also be familiar with the rollback process in the event that the change causes an adverse effect within the system and needs to be removed.
 
-1.
 # Data Privacy
 
 1. The Organisation shall implement and maintain appropriate electronic mechanisms to ensure information shall not be altered or destroyed in an unauthorized manner.
@@ -576,16 +496,14 @@ c) not used or redeployed for other than contracted purposes.
 3. These measures will also enable the Organisation to comply with the Personal Data Privacy Act (PDPA).
 4. Procedure
 
-1. To prevent transmission errors as data passes from one computer to another, employees will use encryption, as determined to be appropriate, to preserve the integrity of data.
-2. To prevent programming or software bugs, the Organisation will test its information systems for accuracy and functionality before it starts to use them.
-3. The Organisation will update its systems when ICT vendors release fixes to address known bugs or problems.
-4. The Organisation will install and regularly update antivirus software on all workstations to detect and prevent malicious code from altering or destroying data.
-5. To prevent exposing magnetic media to a strong magnetic field, employees shall keep magnetic media away from strong magnetic fields and heat.
+    1. To prevent transmission errors as data passes from one computer to another, employees will use encryption, as determined to be appropriate, to preserve the integrity of data.
+    2. To prevent programming or software bugs, the Organisation will test its information systems for accuracy and functionality before it starts to use them.
+    3. The Organisation will update its systems when ICT vendors release fixes to address known bugs or problems.
+    4. The Organisation will install and regularly update antivirus software on all workstations to detect and prevent malicious code from altering or destroying data.
+    5. To prevent exposing magnetic media to a strong magnetic field, employees shall keep magnetic media away from strong magnetic fields and heat.
 
-1.
 # Specific Protocols And Devices
 
-  1.
 ## Wireless Usage Standards and Policy
 
 1. Due to an emergence of wireless access points in public areas, hotels, airports, and in homes, a Wireless Usage policy is adopted to ensure the security and functionality of such connections for employees. This policy outlines the processes and procedures for acquiring wireless access privileges, utilizing wireless access, and ensuring the security of the Organisation&#39;s laptops and mobile devices.
@@ -593,15 +511,14 @@ c) not used or redeployed for other than contracted purposes.
 3. Guest Access – Wireless access for guests are provisioned using a separate network, or filtered using the wireless access point filter control. This network is separate from the internal office network.
 4. Software Requirements **-** The following is a list of minimum software requirements for any laptop that is granted the privilege to use wireless access:
 
-1. Windows 10 (Firewall enabled)
-2. Antivirus software
-3. Full Disk Encryption
-4. Appropriate VPN Client, if applicable
-5. Internet Explorer 11.0 or higher
+    1. Windows 10 (Firewall enabled)
+    2. Antivirus software
+    3. Full Disk Encryption
+    4. Appropriate VPN Client, if applicable
+    5. Internet Explorer 11.0 or higher
 
-1. Training Requirements **-** Once an employee has approval for wireless access on the employee&#39;s computer, the employee will be required to attend a usage and security training session to be provided by the TL or appropriate personnel. This training session will cover the basics of connecting to wireless networks, securing the computer when connected to a wireless network, and the proper method for disconnecting from wireless networks. This training will be conducted within a reasonable period of time once wireless access approval has been granted.
+5. Training Requirements **-** Once an employee has approval for wireless access on the employee&#39;s computer, the employee will be required to attend a usage and security training session to be provided by the TL or appropriate personnel. This training session will cover the basics of connecting to wireless networks, securing the computer when connected to a wireless network, and the proper method for disconnecting from wireless networks. This training will be conducted within a reasonable period of time once wireless access approval has been granted.
 
-  1.
 ## Use of Transportable Media, Personal Digital Assistants (PDAs)
 
 1. Transportable media included within the scope of this policy includes, but is not limited to, SD cards, DVDs, CD-ROMs, and USB key devices. It may also include memory storage in PDAs. PDAs will include any phone or portable device (e.g. tablet) capable of storage, accessing online storage, and transmission of information.
@@ -610,24 +527,22 @@ c) not used or redeployed for other than contracted purposes.
 4. Transportable media used to backup job images will not contain any confidential data. Only large sized image files – like artwork, books and documents (without confidential data) will be stored. The media will be kept securely in a room and storage area. This room and area is managed and accessible only by the TL, SA or the staff appointed to perform the role of an IT administrator.
 5. Rules governing the use of transportable media include:
 
-1. No _ **confidential data** _ should ever be stored on transportable media and PDAs; unless the data is maintained in an encrypted format.
-2. All USB keys used to store data must be an encrypted USB key issued by the TL, SA or a designated personnel.
-3. The use of a personal USB key is strictly prohibited.
-4. Users shall not connect their transportable media or PDAs to a workstation belonging to the Organisation, unless prior authorization is granted. (NOTE: Workstations and laptops not belonging to the Organisation may not have the same security protection standards required by the Organisation. The virus patterns could potentially be transferred from the external devices to the media and then back to a workstation belonging to the Organisation.)
-5. Data may be exchanged between workstations/networks within the Organisation. The very nature of data exchange requires that under certain situations data be exchanged in this manner.
-6. Before initial use and before any _ **data** _ may be transferred to transportable media, the media must be sent to the department manager or appropriate personnel to ensure appropriate and approved encryption is used.
-7. Copy _ **data** _ only to the encrypted space on the media.
-8. Report all loss of transportable media to the department manager.
-9. It is important that the TL is notified either directly by the employee or department manager immediately.
-10. When an employee leaves the Organisation, all transportable media in their possession must be returned to the TL for data erasure that conforms.
+    1. No _ **confidential data** _ should ever be stored on transportable media and PDAs; unless the data is maintained in an encrypted format.
+    2. All USB keys used to store data must be an encrypted USB key issued by the TL, SA or a designated personnel.
+    3. The use of a personal USB key is strictly prohibited.
+    4. Users shall not connect their transportable media or PDAs to a workstation belonging to the Organisation, unless prior authorization is granted. (NOTE: Workstations and laptops not belonging to the Organisation may not have the same security protection standards required by the Organisation. The virus patterns could potentially be transferred from the external devices to the media and then back to a workstation belonging to the Organisation.)
+    5. Data may be exchanged between workstations/networks within the Organisation. The very nature of data exchange requires that under certain situations data be exchanged in this manner.
+    6. Before initial use and before any _ **data** _ may be transferred to transportable media, the media must be sent to the department manager or appropriate personnel to ensure appropriate and approved encryption is used.
+    7. Copy _ **data** _ only to the encrypted space on the media.
+    8. Report all loss of transportable media to the department manager.
+    9. It is important that the TL is notified either directly by the employee or department manager immediately.
+    10. When an employee leaves the Organisation, all transportable media in their possession must be returned to the TL for data erasure that conforms.
 
-1.
 # Intellectual Property Rights
 
 1. All users must respect Company&#39;s, its affiliates&#39; and third parties&#39; intellectual property rights (patents, copyrights, trademarks, trade secrets, as well as rights of privacy and publicity) and must take precautions to protect software, information and data that are owned, licensed or managed by Company.
 2. No software, information or data may be used or distributed in a manner that infringes upon any intellectual property rights or violates a license agreement or jeopardizes Company&#39;s trade secrets.
 
-1.
 # Related Documents
 
 1. The documents related to this ISMS policy is listed in the following table.
@@ -635,26 +550,25 @@ c) not used or redeployed for other than contracted purposes.
 | **No.** | **Record Title** | **Doc No.** |
 | --- | --- | --- |
 | 1 | ISO 27001:2019 standard | NA |
-| --- | --- | --- |
-| 1 | Risk Assessment and Treatment Methodology (Framework) Manual | ISMS-02 |
-| 2 | Procedures for Document and Record Control | ISMS-03 |
-| 3 | Procedures for Identification of Requirements | ISMS-04 |
-| 4 | Procedure for Internal Audit | ISMS-05 |
-| 5 | Procedure for Corrective Action | ISMS-06 |
-| 6 | Secure Development Policy | ISMS-07 |
-| 7 | Supplier Security Policy | ISMS-08 |
-| 8 | Policy on the Use of Cryptographic Controls | ISMS-09 |
-| 9 | Clear Desk and Clear Screen Policy | ISMS-10 |
-| 10 | Disposal and Destruction Policy | ISMS-11 |
-| 11 | Procedures for Working in Secure Areas | ISMS-12 |
-| 12 | Incident Management Procedure | ISMS-13 |
-| 13 | Operating Procedures for Information and Communication Technology | ISMS-14 |
-| 14 | ISMS Communications &amp; Continual Improvement Policy | ISMS-15 |
-| 15 | Firewall Administration Policy | ISMS-16 |
-| 16 | ICT Procurement Policy and Procedures | ISMS-17 |
-| 17 | Information Retention Policy | ISMS-18 |
-| 18 | Remote Access Policy | ISMS-19 |
-| 19 | Vulnerability Assessment &amp; Penetration Testing Policy | ISMS-20 |
-| 20 | Privileged Access Management Policy | ISMS-21 |
-| 21 | Patch Management Policy | ISMS-22 |
-| 22 | Anti-malware Policy | ISMS-23 |
+| 2 | Risk Assessment and Treatment Methodology (Framework) Manual | ISMS-02 |
+| 3 | Procedures for Document and Record Control | ISMS-03 |
+| 4 | Procedures for Identification of Requirements | ISMS-04 |
+| 5 | Procedure for Internal Audit | ISMS-05 |
+| 6 | Procedure for Corrective Action | ISMS-06 |
+| 7 | Secure Development Policy | ISMS-07 |
+| 8 | Supplier Security Policy | ISMS-08 |
+| 9 | Policy on the Use of Cryptographic Controls | ISMS-09 |
+| 10 | Clear Desk and Clear Screen Policy | ISMS-10 |
+| 11 | Disposal and Destruction Policy | ISMS-11 |
+| 12 | Procedures for Working in Secure Areas | ISMS-12 |
+| 13 | Incident Management Procedure | ISMS-13 |
+| 14 | Operating Procedures for Information and Communication Technology | ISMS-14 |
+| 15 | ISMS Communications &amp; Continual Improvement Policy | ISMS-15 |
+| 16 | Firewall Administration Policy | ISMS-16 |
+| 17 | ICT Procurement Policy and Procedures | ISMS-17 |
+| 18 | Information Retention Policy | ISMS-18 |
+| 19 | Remote Access Policy | ISMS-19 |
+| 20 | Vulnerability Assessment &amp; Penetration Testing Policy | ISMS-20 |
+| 21 | Privileged Access Management Policy | ISMS-21 |
+| 22 | Patch Management Policy | ISMS-22 |
+| 23 | Anti-malware Policy | ISMS-23 |
