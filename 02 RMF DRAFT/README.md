@@ -138,7 +138,7 @@
 2. Values from 5 to 12 are acceptable risks that should be monitored more frequently (for example, quarterly) or whenever the risk changes significantly.
 3. Values from 15 to 25 are unacceptable risks that must be treated and reduced. A risk treatment plan is required.
 
-![risk acceptance criteria](./risk-acceptance-criteria.png);
+![risk acceptance criteria](./risk-acceptance-criteria.png)
 
 ## Risk Treatment
 
@@ -163,20 +163,20 @@
 
 1. System Administrator(SA) must document the following in the Statement of Applicability: which security controls from Annex A of the ISO/IEC 27001 standard are applicable and which are not, the justification for such decisions, and whether they are implemented or not.
 2. On behalf of the risk owners, Technical Lead (TL) will accept all residual risks through the risk treatment plan and risk assessment.
-3. SAwill prepare the Risk treatment plan in which the implementation of controls will be planned. On behalf of the risk owners, TL will approve the risk treatment plan.
+3. SA will prepare the Risk treatment plan in which the implementation of controls will be planned. On behalf of the risk owners, TL will approve the risk treatment plan.
 
 ## Reporting
 
-1. SAwill document the results of risk assessment and risk treatment, and all of the subsequent reviews, in the Risk Assessment and Treatment Report.
-2. SAwill monitor the progress of implementation of the Risk treatment plan and report the results to TL each quarter.
+1. SA will document the results of risk assessment and risk treatment, and all of the subsequent reviews, in the Risk Assessment and Treatment Report.
+2. SA will monitor the progress of implementation of the Risk treatment plan and report the results to TL each quarter.
 
 # Records Management
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Control for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Risk Assessment Table (electronic form – Excel document) | Department cabinet &amp; shared folder | MIT | Only SA has the right to make entries into and changes to the Risk Assessment Table | Data is stored permanently |
-| Risk Assessment and Treatment Report (electronic form – PDF format) | Department cabinet &amp; shared folder | MIT | The Report is prepared in read-only PDF format | The Report is stored for a period of 1 year |
-| Risk treatment plan (electronic form – Word document) | Department cabinet &amp; shared folder | MIT | Only SA has the right to make entries into and changes to the Risk treatment plan | Older versions of Risk treatment plan are stored for a period of 1 year |
+| Risk Assessment Table | Cloud directory | TL | Only TL has the right to make entries into and changes to the Risk Assessment Table | Data is stored permanently |
+| Risk Assessment and Treatment Report | Cloud directory | TL | The Report is prepared in read-only PDF format | The Report is stored for a period of 1 year |
+| Risk treatment plan | Cloud directory | TL | Only TL has the right to make entries into and changes to the Risk treatment plan | Older versions of Risk treatment plan are stored for a period of 1 year |
 
 Only the TL can grant other employees access to any of the abovementioned documents.
 
