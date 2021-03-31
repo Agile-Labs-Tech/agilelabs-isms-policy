@@ -3,7 +3,7 @@
 | Document Title | ISMS Firewall Administration Policy |
 | --- | --- |
 | Document No. | ISMS-16 |
-| Revision No. | 0.0 |
+| Revision No. | 0.2 |
 | Effective Date | 12 December 2020 |
 | Classification | Confidential |
 
@@ -11,6 +11,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
 
