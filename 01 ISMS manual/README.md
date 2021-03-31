@@ -119,8 +119,8 @@
 | Files containing particulars, information and/or private data of registered events participants | Zero (0) number of breaches per month |
 | Data privacy and protection for intellectual property and confidential records for the organization and clients | Zero (0) number of breaches per month |
 
-3. The Tech Leader (TL) is responsible to review existing and set new ISMS objectives.
-4. The objectives for the specific security controls or groups of controls are proposed by the System Administrator (SA), and will be approved by the TL.
+3. The Information Security Manager (ISM) is responsible to review existing and set new ISMS objectives.
+4. The objectives for the specific security controls or groups of controls are proposed by the Technical Leader (TL), and will be approved by the Chief Security Officer (CSO).
 5. All objectives will be reviewed at least once annually, or as and when there are significant changes.
 6. Agile Lab will measure the fulfilment of the objectives.
 7. The measurements will be performed at least once a year by the SA.
@@ -212,7 +212,7 @@
 1. All involved systems and information are assets belonging to the Organisation.
 2. The assets are expected to be protected from misuse, unauthorized manipulation and destruction. These protection measures may be physical and/or logical (procedural or software based) controls.
 
-    1. **Ownership of Software:** All computer software developed by the Organisation&#39;s employees or contract personnel on behalf of the Organisation or licensed for the Organisation to use is the property of the Organisation; such software must not be copied for use at home or any other location, unless otherwise specified by the license agreement.
+    1. **Ownership of Software:** All computer software developed by the Organisation&#39;s employees or contract personnel on behalf of the Organisation or licensed for the Organisation to use is the property of the Organisation; such software must not be copied for personal use, unless otherwise specified by the license agreement.
     2. **Installed Software:** All software packages that reside on computers and networks within the Organisation must comply with applicable licensing agreements and restrictions and must comply with Agile Lab&#39;s acquisition policies.
     3. **Virus Protection:** Virus checking systems approved by the TL or SA must be deployed using a multi-layered approach (desktops, servers, gateways, etc.), that ensures all electronic files are appropriately scanned for viruses. Users are not authorized to turn off or disable virus checking systems. The SA may check and verify if the virus definition files are updated on the servers, desktops or notebooks, and if the systems are infected.
     4. **Access Controls:** Physical and electronic access to Confidential and Internal information and computing resources is controlled. To ensure appropriate levels of access by employees, a variety of security measures as recommended by the SA, and approved by the TL, will be implemented. Mechanisms to control access to Confidential and Internal information include (but are not limited to) the following methods:
