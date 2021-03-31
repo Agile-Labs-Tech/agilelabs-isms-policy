@@ -65,7 +65,7 @@
 # Validity And Document Management
 
 1. This document is valid as of the date stated on the cover of this document.
-2. The owner of this document is SA; who must check and, if necessary, update the document at least once a year.
+2. The owner of this document is TL; who must check and, if necessary, update the document at least once a year.
 3. When evaluating the effectiveness and adequacy of this document, the following criteria must be considered:
     * number of incidents related to loss, compromise or destruction of cryptographic keys
     * number of systems to which cryptographic controls are applied contrary to this Policy
@@ -76,23 +76,23 @@
 
 1. The organization must protect confidential information during transmission by means of cryptographic controls; using password encryption software to encrypt the files containing the information before transmitting them.
 
-1. SA is responsible for preparing instructions on the use of the mentioned cryptographic tools.
+1. TL is responsible for preparing instructions on the use of the mentioned cryptographic tools.
 2. Owners of individual assets to which cryptographic controls are applied are responsible for appropriate application of individual cryptographic controls.
 
 ## Cryptographic keys
 
-1. SA is responsible for prescribing the following rules regarding key management:
+1. TL is responsible for prescribing the following rules regarding key management:
     * creation and distribution of cryptographic keys
     * archiving inactive keys which are necessary for encrypted electronic archives
     * destruction of keys
 
 2. Keys are managed by their owners in line with the above mentioned rules.
 
-3. The Department Manager and SA may grant access rights to other users to access key/password management records for a specific user for official company purposes, if required.
+3. The Department Manager and TL may grant access rights to other users to access key/password management records for a specific user for official company purposes, if required.
 3. Cryptographic keys will be protected
     * SA or TL will store the list of cryptographic keys in a secure directory.
     * This secure directory will be accessible only to the SA and TL.
-    * The SA may authorize and grant access rights of the key to any other people persons.
+    * The SA or TL may authorize and grant access rights of the key to any other people persons.
 4. In the case of loss, corruption or destruction, keys will be recovered
     * The SA or the authorized assistant will retrieve the cryptographic key from the directory.
     * Which shall then be re-issued to the relevant authorized person.

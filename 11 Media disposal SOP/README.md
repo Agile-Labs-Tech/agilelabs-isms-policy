@@ -67,8 +67,8 @@
 # Validity And Document Management
 
 1. This document is valid as of the date stated on the cover of this document.
-2. The owner of this document is System Administrator (SA), who must check and, if necessary, update the document at least once a year.
-3. SA may appoint a deputy to update the document.
+2. The owner of this document is Technical Leader (TL), who must check and, if necessary, update the document at least once a year.
+3. TL may appoint a deputy to update the document.
 4. When evaluating the effectiveness and adequacy of this document, the following criteria must be considered:
 
     1. number of incidents arising from failure to erase or destroy information in a manner specified in this document
@@ -78,18 +78,18 @@
 
 1. All data and licensed software stored on mobile storage media (e.g. on CD, DVD, USB flash drive, memory card, etc.; but also on paper) and on all equipment containing storage media (e.g. computers, mobile phones, etc.) must be erased or the medium destroyed before it is disposed of or reused.
 2. The person responsible for erasing data / destroying media must inform the owner of the asset in question about erasing /destroying data.
-3. SA, or an appointed deputy, will be responsible to manage media erasure or destruction for office automation systems, application systems and network infrastructure.
+3. TL, or an appointed deputy, will be responsible to manage media erasure or destruction for office automation systems, application systems and network infrastructure.
 
 ## Equipment
 
-1. SA, or his/her appointed deputy, is responsible for checking and erasing data from equipment.
+1. TL, or his/her appointed deputy, is responsible for checking and erasing data from equipment.
 2. Data must be erased by reformatting the storage media using tools supplied with the operating systems and/or third party tools capable of wiping data from and then reformatting the media.
 3. If the process is not secure enough considering the sensitivity of the data, then the storage medium must be destroyed.
 4. The media to be erased and/or destroyed will be consolidated, and a 3rd party service provider will be appointed for the proper disposal and destruction.
 
 ## Mobile storage media
 
-1. SA, or his/her appointed deputy, is responsible for erasing data from mobile storage media.
+1. TL, or his/her appointed deputy, is responsible for erasing data from mobile storage media.
 2. Data must be erased by using Windows operating systems to reformat the media.
 3. If the erasure process is not secure enough considering the sensitivity of the data, then the storage medium must be destroyed.
 
@@ -108,7 +108,7 @@
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Control for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Erasure/destruction records – in paper form | Department cabinet &amp; shared folder | SA | The cabinet is locked, the keys are kept by TL and his/her appointed deputy | 1 year |
+| Erasure/destruction records – in paper form | Cloud Directory &amp; shared folder | TL | The cabinet is locked, the keys are kept by ISM and his/her appointed deputy | 1 year |
 
 # Appendices
 

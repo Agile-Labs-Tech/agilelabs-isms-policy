@@ -67,7 +67,7 @@
 # Validity And Document Management
 
 1. This document is valid as of the date stated on the cover of this document.
-2. The owner of this document is System Administrator (SA), who must check and, if necessary, update the document at least once a year.
+2. The owner of this document is Technical Leader (TL), who must check and, if necessary, update the document at least once a year.
 3. When evaluating the effectiveness and adequacy of this document, the following criteria need to be considered:
     1. number of initiated corrective actions
     2. number of incomplete corrective actions
@@ -100,9 +100,9 @@
 | 4. Evaluating the need for action to eliminate the nonconformity | Person responsible for the area where the nonconformity has been identified |
 | 5. Determining the actions needed to eliminate the causes of nonconformity and to ensure that nonconformities do not recur | Person responsible for the area where the nonconformity has been identified |
 | 6. Implementation of planned actions | Person in charge of implementation, appointed by the person responsible |
-| 7. Reviewing whether the action taken resulted in the elimination of causes of nonconformity | SA |
+| 7. Reviewing whether the action taken resulted in the elimination of causes of nonconformity | TL |
 | 8. Informing all persons concerned that corrective action has been implemented | Person in charge of implementation, appointed by the person responsible |
-| 9. Making changes to the ISMS, if necessary | SA |
+| 9. Making changes to the ISMS, if necessary | TL |
 
 2. Each of the above steps must be recorded in the corrective action form.
 
@@ -110,7 +110,7 @@
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Control for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Corrective action form | Department cabinet &amp; shared folder | SA | After all data has been recorded, any new additions or editing must be disabled | 1 year |
+| Corrective action form | Cloud Directory | TL | After all data has been recorded, any new additions or editing must be disabled | 1 year |
 
 # Appendices
 

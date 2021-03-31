@@ -60,7 +60,7 @@
 # Validity And Document Management
 
 1. This document is valid as of date stated on the cover of this document.
-2. The owner of this document is System Administrator (SA), who must check and, if necessary, update the document at least once a year.
+2. The owner of this document is Technical Leader (TL), who must check and, if necessary, update the document at least once a year.
 3. When evaluating the effectiveness and adequacy of this document, the following criteria need to be considered:
 
     1. number of corrective actions identified during the audit
@@ -75,7 +75,7 @@
 
 ## Internal audit planning
 
-1. The Risk Management Committee (RMC) shallapprove an annual program for internal audits, written as outlined in the form in Appendix 1.
+1. The Risk Management Committee (RMC) shall approve an annual program for internal audits, written as outlined in the form in Appendix 1.
 2. One or more internal audits should be conducted in the course of one year, ensuring cumulative coverage of the entire ISMS scope.
 3. Internal audits are planned based on risk assessment, as well as results of previous audits; they are usually conducted before management review.
 4. The annual internal audit program has to contain the following information about each individual internal audit:
@@ -120,9 +120,9 @@
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Annual Internal Audit Program (in electronic form) | Department cabinet &amp; shared folder | SA | Only TL and the internal auditor have the right to make entries into and changes to the Annual Internal Audit program. | Programs are stored for a period of 1 year |
-| Internal Audit Report (in electronic form) | Department cabinet &amp; shared folder | SA | Reports are stored in read-only versions | Reports are stored for a period of 1 year |
-| Internal Audit Checklist (filled form during the internal audit) | Department cabinet &amp; shared folder | SA | The checklist is stored in read-only version | The checklist is stored for a period of 1 year |
+| Annual Internal Audit Program (in electronic form) | Cloud Directory | TL | Only TL and the internal auditor have the right to make entries into and changes to the Annual Internal Audit program. | Programs are stored for a period of 1 year |
+| Internal Audit Report (in electronic form) | Cloud Directory | TL | Reports are stored in read-only versions | Reports are stored for a period of 1 year |
+| Internal Audit Checklist (filled form during the internal audit) | Cloud Directory | TL | The checklist is stored in read-only version | The checklist is stored for a period of 1 year |
 
 # Appendices
 

@@ -74,8 +74,8 @@
 # Validity And Document Management
 
 1. This document is valid as of the date stated on the cover of this document.
-2. The owner of this document is System Administrator (SA), who must check and, if necessary, update the document at least once a year, before the regular review of existing risk assessment.
-3. SA may appoint a deputy to update the documents.
+2. The owner of this document is Technical Leader (TL), who must check and, if necessary, update the document at least once a year, before the regular review of existing risk assessment.
+3. TL may appoint a deputy to update the documents.
 4. When evaluating the effectiveness and adequacy of this document, the following criteria must be considered:
 
 1. number of weaknesses or incidents which were not reported to authorized persons
@@ -87,13 +87,13 @@
 # Incident Management
 
 1. An information security incident is a single or a series of unwanted or unexpected information security events that have a significant probability of compromising business operations and threatening information security.
-2. Incidents affecting office automation, application systems (services), ICT/IS assets and network infrastructure shall be managed by the SA, or his/her appointed deputy.
+2. Incidents affecting office automation, application systems (services), ICT/IS assets and network infrastructure shall be managed by the TL, or his/her appointed deputy.
 
 ## Receipt And Classification Of Incidents, Weaknesses And Events
 
-1. All employees, supplier or other third party who is in contact with information and/or systems of Agile Lab must report any system weakness, incident or event which could lead to a possible incident must be reported to SA or his/her appointed deputy.
-2. Incidents, weaknesses and events must be reported as soon as possible, by sending an email to the helpdesk account to report incidents and create a ticket; which may be followed via phone or in person.
-3. Users may report phishing, spam and malicious email by clicking on the &quot;Report Phishing&quot; icon in the Home menu in the Outlook email client application.
+1. All employees, supplier or other third party who is in contact with information and/or systems of Agile Lab must report any system weakness, incident or event which could lead to a possible incident must be reported to Manager or his/her appointed deputy.
+2. Incidents, weaknesses and events must be reported as soon as possible, by informing the manager to report incidents and create a ticket on PagerDuty; which may be followed via phone or in person.
+3. Users may report phishing, spam and malicious email by sending to dedicated email address.
 4. The person who received the information must classify it in the following way:
 
     1. security weakness or event – no incident occurred, but the event related to a system, process or organization may trigger the occurrence of an incident in the near or further future
@@ -108,23 +108,26 @@
 
 1. If a minor incident was reported, the person who received the information must take the following steps:
 
-    1. take measures to contain the incident
-    2. analyze the cause of the incident
-    3. take corrective actions to eliminate the cause of the incident
-    4. inform persons who were involved in the incident, as well as SA, about the incident treatment process
+    1. Report the fault to incident management system
+    2. inform persons who were involved in the incident, as well as , about the incident treatment process
+    3. analyze the cause of the incident
+    4. take corrective actions to eliminate the cause of the incident
 
-2. The person who received information about a minor incident must log the incident
-
-3. For office automation systems, ICT assets, application systems (services) and network infrastructure, the SA, or an appointed deputy, will record the incident in a log book.
+3. For office automation systems, ICT assets, application systems (services) and network infrastructure, the TL, or an appointed deputy, will record the incident in a log book.
 
 ## Treating **Major**** Incidents**
 
 1. In the case of major incidents that could disrupt activities for an unacceptable period of time, an incident response process, which may be part of the Business Continuity Plan activation, will be invoked.
 
+    1. Report the fault to incident management system
+    2. inform persons who were involved in the incident, as well as , about the incident treatment process
+    3. analyze the cause of the incident
+    4. take corrective actions to eliminate the cause of the incident
+
 ## Learning From Incidents
 
-1. SA must review all minor incidents every three months, and enter recurring ones, or those which may turn into major incidents on the next occasion, in the Incident Log.
-2. SA must analyze each incident recorded in the Incident Log (identifying type, relatedness, and cost of incident) and, if necessary, suggest preventive or corrective action.
+1. TL or SA must review all minor incidents every three months, and enter recurring ones, or those which may turn into major incidents on the next occasion, in the Incident Log.
+2. TL or SA must analyze each incident recorded in the Incident Log (identifying type, relatedness, and cost of incident) and, if necessary, suggest preventive or corrective action.
 
 ## Disciplinary Actions
 
@@ -132,16 +135,18 @@
 
 ## Collection Of Evidence
 
-1. SA will define the rules on how to identify, collect and preserve evidence that will be accepted as evidence in legal and other proceedings.
+1. TL will define the rules on how to identify, collect and preserve evidence that will be accepted as evidence in legal and other proceedings.
 2. TL or SA can grant other employees access to the records belonging to another employee.
 
 # Records Management
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Incident Log | Department cabinet &amp; shared folder | SA | Only TL or his/her appointed deputy has the right to edit the log | 1 year |
-| Rules for identifying, collecting and preserving evidences | Department cabinet &amp; shared folder | SA | Only TL or his/her appointed deputy has the right to edit and publish the rules | 1 year |
+| Incident Log | Cloud Directory | TL | Only TL or his/her appointed deputy has the right to edit the log | 1 year |
+| Post Morterm | Cloud Directory | TL | Only TL or his/her appointed deputy has the right to edit and update the post morterm | 1 year |
 
 # Appendices
 
-Incident Logs
+- Incident Logs
+
+![Incident Management](./incident-handling-management.jpg)

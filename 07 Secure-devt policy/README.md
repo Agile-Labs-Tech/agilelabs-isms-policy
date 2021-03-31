@@ -77,7 +77,7 @@
 # Validity And Document Management
 
 1. This document is valid as of the date stated on the cover of this document.
-2. The owner of this document is System Administrator (SA), who must check and, if necessary, update the document at least once a year.
+2. The owner of this document is Technical Leader (TL), who must check and, if necessary, update the document at least once a year.
 3. When evaluating the effectiveness and adequacy of this document, the following criteria must be considered:
     1. number of incidents arising from failed security controls built into the systems
 
@@ -85,7 +85,7 @@
 
 ## Risk assessment for the development process
 
-1. In addition to the risk assessment performed according to the Risk Assessment and Risk Treatment Methodology, the SA or Manager, IT &amp; Information Security (MIT) must periodically perform the assessment of the following:
+1. In addition to the risk assessment performed according to the Risk Assessment and Risk Treatment Methodology, the TL or ISM, IT &amp; Information Security (MIT) must periodically perform the assessment of the following:
 
     1. the risks related to unauthorized access to the development environment
     2. the risks related to unauthorized changes to the development environment
@@ -129,14 +129,14 @@
 
 ## Required security training
 
-1. SA determines the level of security skills and knowledge required for the implementation process and proposes the trainings to the TL.
-2. SA shall include the appropriate trainings in the Training and Awareness Plan.
+1. TL determines the level of security skills and knowledge required for the implementation process and proposes the trainings to the SA.
+2. TL shall include the appropriate trainings in the Training and Awareness Plan.
 
 # Records Management
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Control for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| System implementation plan | Department cabinet &amp; shared folder | SA | After all data has been recorded, any new additions or editing must be disabled | 1 year |
+| System implementation plan | Cloud Directory | TL | After all data has been recorded, any new additions or editing must be disabled | 1 year |
 
 # Appendices
 

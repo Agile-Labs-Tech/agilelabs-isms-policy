@@ -63,7 +63,7 @@
 # Validity And Document Management
 
 1. This document is valid as of the date of the version stated in this document.
-2. The owner of this document is System Administrator (SA), who must check and, if necessary, update the document at least once a year.
+2. The owner of this document is Technical Leader (TL), who must check and, if necessary, update the document at least once a year.
 3. When evaluating the effectiveness and adequacy of this document, the following criteria may be considered:
     * Number of organization&#39;s obligations that existed, but were not identified
     * Number or amount of penalties paid, resulting from lack of compliance with obligations
@@ -71,24 +71,24 @@
 
 # Identification Of Requirements And Interested Parties
 
-1. System Administrator(SA) is responsible for identifying:
+1. Technical Leader (TL) is responsible for identifying:
     * All persons or organizations that can affect or can be affected by information security or business continuity management (interested parties).
     * All related legal, regulatory, contractual and other requirements.
-2. SA will define who will be responsible for compliance with each individual requirement, and which interested parties are to be notified when changes occur.
-3. SA must list all requirements, interested parties, and responsible persons in &quot;List of legal, regulatory, contractual and other requirements,&quot; and published as in the Legal Register.
-4. Every employee in Agile Lab must notify SA if he/she comes across any new legal, regulatory, contractual or other requirement that might be relevant to information security and business continuity management.
+2. TL will define who will be responsible for compliance with each individual requirement, and which interested parties are to be notified when changes occur.
+3. TL must list all requirements, interested parties, and responsible persons in &quot;List of legal, regulatory, contractual and other requirements,&quot; and published as in the Legal Register.
+4. Every employee in Agile Lab must notify TL if he/she comes across any new legal, regulatory, contractual or other requirement that might be relevant to information security and business continuity management.
 
 # Reviewing And Evaluation
 
-1. SA is responsible for reviewing the List of legal, regulatory, contractual and other requirements at least once every year, and for updating it as necessary.
-2. SA will notify all relevant interested parties upon each update.
-3. SA is responsible for evaluating the compliance of ISMS with relevant legal, regulatory and contractual requirements at least once a year.
+1. TL is responsible for reviewing the List of legal, regulatory, contractual and other requirements at least once every year, and for updating it as necessary.
+2. TL will notify all relevant interested parties upon each update.
+3. TL is responsible for evaluating the compliance of ISMS with relevant legal, regulatory and contractual requirements at least once a year.
 
 # Managing Records Kept On The Basis Of This Document
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Control for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| List of legal, regulatory, contractual and other requirements (in electronic form) | Cloud repository | SA | Only SA or TL is authorized to edit data | Old versions of the List are archived for 1 year |
+| List of legal, regulatory, contractual and other requirements (in electronic form) | Cloud repository | TL | Only TL or ISM is authorized to edit data | Old versions of the List are archived for 1 year |
 | --- | --- | --- | --- | --- |
 
 # Appendices

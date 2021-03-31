@@ -61,8 +61,8 @@
 # Validity And Document Management
 
 1. This document is valid as of the date stated on the cover of this document.
-2. The owner of this document is System Administrator (SA), who must check and, if necessary, update the document at least once a year.
-3. SA may appoint a deputy to update the document.
+2. The owner of this document is Technical Leader (TL), who must check and, if necessary, update the document at least once a year.
+3. TL may appoint a deputy to update the document.
 4. When evaluating the effectiveness and adequacy of this document, the following criteria must be considered:
 
     1. number of incidents related to unauthorized access to information on desks, printers, photocopiers, fax machines, work stations, etc.
