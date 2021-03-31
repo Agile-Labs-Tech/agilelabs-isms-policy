@@ -70,8 +70,8 @@
 # Validity And Document Management
 
 1. This document is valid as of the date stated on the cover of this document.
-2. The owner of this document is System Administrator (SA), who must check and, if necessary, update the document at least once a year.
-3. SA may appoint a deputy to update the document.
+2. The owner of this document is Technical Leader (TL), who must check and, if necessary, update the document at least once a year.
+3. TL may appoint a deputy to update the document.
 4. When evaluating the effectiveness and adequacy of this document, the following criteria must be considered:
     1. number of incidents arising from non-compliance with this document
 
@@ -112,9 +112,7 @@
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Security &amp; fire surveillance &amp; alarm system | Outsourced monitoring centre | SA | Only TL and his/her deputy has access to the system | 1 year |
-| --- | --- | --- | --- | --- |
-| Recordings from CCTV cameras | CCTV surveillance system | SA | Only TL and his/her deputy has access to the system | 1 year |
+| Recordings from CCTV cameras | CCTV surveillance system | Landlord | N.A | N.A |
 
 # Appendices
 
