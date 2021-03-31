@@ -72,7 +72,7 @@
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Firewall policy | shared folder | SA | TL | 1-year from amendment time |
-| Daily firewall logs | shared folder | SA | TL | 1-year |
-| Firewall preventive maintenance | shared folder | SA | TL | 1-year |
-| Firewall corrective maintenance | shared folder | SA | TL | 1-year |
+| Firewall policy | Cloud Directory | SA | TL | 1-year from amendment time |
+| Daily firewall logs | Cloud Directory | SA | TL | 1-year |
+| Firewall preventive maintenance | Cloud Directory | SA | TL | 1-year |
+| Firewall corrective maintenance | Cloud Directory | SA | TL | 1-year |

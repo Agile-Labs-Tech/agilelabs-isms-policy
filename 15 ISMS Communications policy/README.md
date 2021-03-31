@@ -70,8 +70,8 @@
 # Procedures
 
 ## Internal Communication
-1. The System Administrator (SA) shall ensure that the ISMS are well and clearly disseminated to all the employees of the organization. The SA shall implement the ISMS with the employees being fully aware of the factors involved in the efficiency energy use.
-2. The **SA** shall communicate the essential elements of the ISMS to the employees in order to make it happen.
+1. The Technical Leader shall ensure that the ISMS are well and clearly disseminated to all the employees of the organization. The TL shall implement the ISMS with the employees being fully aware of the factors involved in the efficiency energy use.
+2. The **TL** shall communicate the essential elements of the ISMS to the employees in order to make it happen.
 3. The information and implementation of ISMS can be given thru different type of modes, it may include, but not limited to, the following:
     1. Induction and Briefing of Staff
     2. Proficiency level of the skills as identified in the job criteria.
@@ -98,16 +98,16 @@
 
 ## External Communications
 
-1. A table listing the external parties and the types of communications with these parties, with the employee or team responsible for the communications will be maintained by the SA.
+1. A table listing the external parties and the types of communications with these parties, with the employee or team responsible for the communications will be maintained by the TL.
 
-1. Should there be a need to communicate with any other external organizations; the TL shall be responsible to ensure that the requirements are addressed.
+2. Should there be a need to communicate with any other external organizations; the TL shall be responsible to ensure that the requirements are addressed.
 
 ## Continual Improvement
 
 1. Whenever applicable, all personnel are encouraged to provide suggestions to the improvement of the ISMS.
 2. The relevant suggestions shall be given to the TL during the &quot;Management Meetings&quot;.
-3. The TL shall review the proposal and determine if the improvements are applicable and practicable for implementation.
-4. The SA shall collate the implementation of the improvements and it should be updated in the Management Review Meeting.
+3. The ISM shall review the proposal and determine if the improvements are applicable and practicable for implementation.
+4. The TL shall collate the implementation of the improvements and it should be updated in the Management Review Meeting.
 
 # Appendices
 

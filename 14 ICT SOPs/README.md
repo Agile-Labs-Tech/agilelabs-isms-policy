@@ -91,7 +91,7 @@
 # Validity And Document Management
 
 1. This document is valid as of the date stated on the cover of this document.
-2. The owner of this document is System Administrator (SA), who must check and, if necessary, update the document at least once a year.
+2. The owner of this document is Technical Leader (TL), who must check and, if necessary, update the document at least once a year.
 3. When evaluating the effectiveness and adequacy of this document, the following criteria must be considered:
 
     1. number of incidents related to the secure functioning of ICT systems
@@ -104,11 +104,11 @@
 1. A comprehensive set of documents shall be created and/or stored for any additional system that is developed and implemented in-house, or provided by an external vendor.
 2. A complete system and network configuration and diagram shall also be created and made available.
 3. Essential information for critical servers shall also be provided; including the number and size of partitions, number of cylinders, directory trees, directory names, software extensions, etc.
-4. All system and related documentation provided by vendors are to be kept in the computer room. The documentation consists of manuals in physical and electronic formats (e.g. CD).
+4. All system and related documentation provided by vendors are to be kept in the secure storage. The documentation consists of manuals in physical and electronic formats (e.g. CD).
 5. All system or related work performed (including OS upgrade, patching update, etc.) shall be properly recorded in detail in the Daily Log book.
 6. Each change to office automation systems and network infrastructure must be made in the following way:
 
-    1. change may be proposed by the System Administrator (SA)
+    1. change may be proposed by any member in the Risk Management Communittee (RMC)
     2. change must be authorized by the Tech Leader (TL); who must assess its justification for business and potential negative security impacts
     3. changes must be implemented by the SA
     4. TL is responsible for checking that the change has been implemented in accordance with the requirement
@@ -126,7 +126,7 @@
 
 ## Installation of Software on Operational System
 
-1. Any new or upgrade software shall be approved by the CEO, or anyone appointed by the CEO, before the tests and installations may be attempted.
+1. Any new or upgrade software shall be approved by the CSO, or anyone appointed by the CSO, before the tests and installations may be attempted.
 2. Any new or upgrade software shall be tested on a test PC or server in a standalone or independent network before the software may be installed in any user PC or operational server.
 3. The test on a PC or server may be conducted in a test environment in the office or one of the vendor&#39;s offices.
 4. The test PC or server shall be validated to be operating normally; that is, it is operating without any faults detected or failures during the start-up and normal operation modes.
@@ -201,7 +201,7 @@
 ### Relations With External Parties
 
 1. External parties include various service providers, vendor companies for hardware and software maintenance and clients.
-2. Before exchanging information and/or software with any external party, an agreement must be signed, which is the responsibility of TL. The agreement may be in paper or electronic form (e.g. agreeing to general terms and conditions) and must contain clauses in line with the risk assessment, including at least the following:
+2. Before exchanging information and/or software with any external party, an agreement must be signed, which is the responsibility of ISM. The agreement may be in paper or electronic form (e.g. agreeing to general terms and conditions) and must contain clauses in line with the risk assessment, including at least the following:
 
     - method of identification of the other party
     - authorizations to access information
@@ -243,9 +243,9 @@
 
 1. Access rights shall be reviewed annually.
 
-    1. IT will generate and provide a report listing the users and their access rights granted to each Department Manager.
+    1. SA will generate and provide a report listing the users and their access rights granted to each Department Manager.
     2. Each Department Manager shall review access rights report provided by IT, and inform IT to continue and/or update the access rights for each user.
-    3. IT will grant or revoke access rights based on the instructions from each Department Manager.
+    3. TL will grant or revoke access rights based on the instructions from each Department Manager.
 
 # Managing Records
 

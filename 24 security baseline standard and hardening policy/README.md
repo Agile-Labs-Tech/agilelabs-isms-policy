@@ -52,7 +52,7 @@
 1. This policy defines the guidelines for the security baseline and hardening for Agile Lab Pte Ltd&#39;s (Agile Lab&#39;s) systems and internal information and communications technology (ICT) systems, assets and infrastructure.
 2. This standard was written to provide a minimum standard baseline for system, network or devices and to help administrators avoid some of the common configuration flaws that could leave systems more exposed, taking into consideration that information and system security is complex and constantly changing.
 3. Agile Lab adopts Centre for Internet Security (CIS) Benchmark Level 1 as a baseline standard to create hardening guidelines for ICT assets; including operating systems, database, application and network devices.
-4. Staff must use the hardened protocol whenever practical. In case of compatibility issue with the application that the hardened policy cannot be used, System Owner, Application Owner and Information Security Officer must jointly discuss the operating configuration and document the agreed configuration.
+4. Staff must use the hardened protocol whenever practical. In case of compatibility issue with the application that the hardened policy cannot be used, System Owner, Application Owner, Technical Leader and Information Security Manager must jointly discuss the operating configuration and document the agreed configuration.
 5. This document describes the minimal security configuration settings to be applied to operating systems, database systems, application systems and network devices administered by Agile Lab.
 6. Due to current growing cyber security threats in the industry, assets must be reviewed once a month if standards are applied.
 7. The policy applies to all Agile Lab entities, and all fully or partially owned subsidiaries.
@@ -64,7 +64,7 @@
 
 # Roles and Responsibilities
 
-1. Information Security Officer is responsible to:
+1. Technical Leader is responsible to:
     - Identify and evaluate appropriate corrective actions to rectify the issues as timely as possible.
     - Identify potential non-compliance to Agile Lab&#39;s information security policies and procedures; including to perform a risk assessment to identify the potential risk impacts, and to evaluate additional risk treatment measures to manage and control the identified deviations.
     - Propose and seek approval to implement the appropriate corrective actions and the proposed schedule to implement the changes.

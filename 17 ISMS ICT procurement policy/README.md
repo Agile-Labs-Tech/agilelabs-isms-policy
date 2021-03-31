@@ -59,24 +59,24 @@
 
 # Roles &amp; Responsibilities
 
-1. The Tech Leader (TL), or his/her appointed deputy, is responsible to ensure the requirements stated in this policy are communicated to all internal parties procuring ICT equipment.
+1. The Information Security Manager (ISM), or his/her appointed deputy, is responsible to ensure the requirements stated in this policy are communicated to all internal parties procuring ICT equipment.
 2. S/He is also responsible to ensure the requirements stated in this policy are communicated to the relevant external parties supplying ICT equipment.
-3. The System Administrator (SA), or his/her appointed deputy, shall be responsible to evaluate improvements suggested by internal staff and external parties to ensure the specifications in this policy remain relevant and effective; including to implement and enforce the adopted suggestions.
+3. The Technical Leader (TL), or his/her appointed deputy, shall be responsible to evaluate improvements suggested by internal staff and external parties to ensure the specifications in this policy remain relevant and effective; including to implement and enforce the adopted suggestions.
 
 # Procedures
 
-1. SA will go through a selection and evaluation process to select the vendors for the supply of the OA PCs and graphics workstations. This process may be conducted annually or at a frequency decided by the TL.
+1. TL will go through a selection and evaluation process to select the vendors for the supply of the OA PCs and graphics workstations. This process may be conducted annually or at a frequency decided by the ISM.
 2. Appropriate vendors will be invited to submit quotations for the specified models and configurations.
 3. The appointed vendors shall enter into a contractual agreement with Agile Lab – to supply the PCs and workstations at agreed prices, which shall be valid for the duration of the contract. The appointed vendors may supply the PCs and workstations at prices lower than the contracted price. The appointed vendors may not supply the PCs and workstations at prices higher than the contracted pricing.
-4. SA shall specify the models and configurations for ICT hardware and software.
-5. Purchase requisitions for office automation (OA) laptop, desktop personal computers (PCs), and Apple iMacs or Macbook Pros for graphics workstations shall be restricted to pre-approved models and configurations specified by SA.
+4. TL shall specify the models and configurations for ICT hardware and software.
+5. Purchase requisitions for office automation (OA) laptop, desktop personal computers (PCs), and Apple iMacs or Macbook Pros for graphics workstations shall be restricted to pre-approved models and configurations specified by TL.
 6. For ICT hardware and software other than OA PCs and graphics workstations, users shall specify the usage requirements and features.
-7. Purchases for all ICT hardware and software shall be evaluated by SA.
-8. All requisition for purchases for ICT hardware and software must be approved by the TL.
+7. Purchases for all ICT hardware and software shall be evaluated by TL.
+8. All requisition for purchases for ICT hardware and software must be approved by the ISM.
 
 # Records Management
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Vendor agreement contract for supply of OA PCs and graphics workstations | shared folder | SA | TL | 1-year or period of contract |
-| Quotations from invited vendors | shared folder | SA | TL | 1-year |
+| Vendor agreement contract for supply of OA PCs and graphics workstations | shared folder | TL | ISM | 1-year or period of contract |
+| Quotations from invited vendors | shared folder | TL | ISM | 1-year |

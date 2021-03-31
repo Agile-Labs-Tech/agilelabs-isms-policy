@@ -77,16 +77,16 @@
 
 # Procedures
 
-1. The Information Security Officer shall subscribe to the mailing list of vendors or third-party security advisory websites about the technical vulnerability alerts, patch related information, and technology / product end-of-life and end-of-support announcement of the computer hardware and software.
+1. The Technical Leader shall subscribe to the mailing list of vendors or third-party security advisory websites about the technical vulnerability alerts, patch related information, and technology / product end-of-life and end-of-support announcement of the computer hardware and software.
 2. These information resources should be updated based on changes in the inventory, or when other new or useful resources are found.
-3. After understanding the details of a security vulnerability, the affected hardware / software / network / information systems and the existence of relevant mitigating controls, the Information Security Officer shall determine the severity rating of the vulnerability, and the urgency of applying the security patch (or updating program).
+3. After understanding the details of a security vulnerability, the affected hardware / software / network / information systems and the existence of relevant mitigating controls, the Technical Leader shall determine the severity rating of the vulnerability, and the urgency of applying the security patch (or updating program).
 4. All analyses and decisions shall be recorded on the Patch Management Worksheet.
-5. Upon receiving a technology / product end-of-life or end-of-support announcement, the Information Security Officer shall study the details of the announcements, identify the affected hardware, operating systems and application software, and the evaluate the adequacy of existing relevant mitigating controls, if any.
-6. The Information Security Officer shall assess the risk of the continued use of the affected hardware, software or network equipment. S/He shall review and determine the availability of continued support from other vendors, the amount of redundancy, the availability of spare parts, and the existence of skilled technical support staff.
+5. Upon receiving a technology / product end-of-life or end-of-support announcement, the Technical Leader shall study the details of the announcements, identify the affected hardware, operating systems and application software, and the evaluate the adequacy of existing relevant mitigating controls, if any.
+6. Technical Leader shall assess the risk of the continued use of the affected hardware, software or network equipment. S/He shall review and determine the availability of continued support from other vendors, the amount of redundancy, the availability of spare parts, and the existence of skilled technical support staff.
 7. If an upgrade is needed, s/he shall prepare the upgrade plan for review with the AVP IT.
-8. Following the Change Management Procedure, the Information Security Officer shall identify all affected IT components, and submit a Change Request Form for applying the security patch / updating the program in the production environment.
-9. Before applying the security patch or update program to the production environment, the Information Security Officer shall coordinate with the responsible system / network administrators to test the security update program in a test environment.
-10. After applying the security patch or update the program in the test environment, the Information Security Officer or a delegated staff shall verify the behaviour and proper operation of the updated systems:
+8. Following the Change Management Procedure, the Technical Leader shall identify all affected IT components, and submit a Change Request Form for applying the security patch / updating the program in the production environment.
+9. Before applying the security patch or update program to the production environment, the Technical Leader shall coordinate with the responsible system / network administrators to test the security update program in a test environment.
+10. After applying the security patch or update the program in the test environment, the Technical Leader or a delegated staff shall verify the behaviour and proper operation of the updated systems:
 
     Operating Systems Software
     - Check the event logs;
@@ -100,15 +100,15 @@
 
 1. The roll back procedure must also be tested, for the sake of problems that are caused by the application of the security update program or by faulty implementation.
 2. Patches should be approved before deployment to show that testing and rollback has been performed
-3. After applying the security patch / updating the program, Information Security Officer shall verify that the change has been applied properly, and potential problems that may arise (caused by the vulnerability) have been avoided.
-4. On regular basis, the Information Security Officers shall use security vulnerability assessment tools to look for missing patches/ updates on computers.
+3. After applying the security patch / updating the program, Technical Leader shall verify that the change has been applied properly, and potential problems that may arise (caused by the vulnerability) have been avoided.
+4. On regular basis, the Technical Leader shall use security vulnerability assessment tools to look for missing patches/ updates on computers.
 5. Privileged accounts shall not be used for day-to-day access; like those required to perform daily or periodic administration and/or operation activities.
 6. All privileged accounts must be approved and designated to an individual owner for accountability.
 7. Privileged accounts and user access rights shall be reviewed on a periodic basis. Particular attention should be given to the security-related event of the log file and facility including:
     1. the logging facility being de-activated;
     2. alterations to the message types that are recorded;
     3. log files being edited or deleted.
-8. The Information Security Officer protects the log analysis tools and its output from unauthorized access. Furthermore, he / she must keep the audit logs for a retention periods that can meet the legal, regulatory, and business needs.
+8. The Technical Leader protects the log analysis tools and its output from unauthorized access. Furthermore, he / she must keep the audit logs for a retention periods that can meet the legal, regulatory, and business needs.
 
 # Definitions
 

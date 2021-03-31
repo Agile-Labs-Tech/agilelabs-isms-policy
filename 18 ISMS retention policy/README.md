@@ -71,7 +71,7 @@
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| ISMS policy, procedures &amp; framework manuals | Cloud repository | SA | TL | 1-year |
+| ISMS policy, procedures &amp; framework manuals | Cloud repository | SA | TL | Forever |
 
 # Appendices
 
