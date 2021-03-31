@@ -22,7 +22,7 @@
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| SzeTho ChangSheng | Information Communication Manager | 12 Dec 2020 |
+| SzeTho ChangSheng | Information Security Manager | 12 Dec 2020 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
