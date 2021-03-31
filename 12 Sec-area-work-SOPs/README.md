@@ -81,7 +81,6 @@
 
 1. Existing secure areas that require special rules are the following:
     1. Office
-    2. Computer server and network equipment room
 
 2. Responsible persons for each secure area are listed as asset owners in the Inventory of Assets.
 
@@ -92,7 +91,7 @@
 ## Entry controls
 
 1. Access to secure areas is protected with the following entry controls:
-    1. Security and fire detection and alarm system
+    1. Door keys
     2. CCTV cameras
 
 ## Access of visitors
@@ -104,13 +103,10 @@
 
 1. In secure areas it is not allowed to:
     1. perform any kind of photographic, audio or video recording;
-    2. plug any electrical device into a power supply unless specifically authorized to do so;
-    3. touch or in any other way tamper with any equipment installed in secure areas unless specifically authorized to do so;
-    4. connect any device to a network unless specifically authorized to do so;
-    5. archive a larger amount of paper materials;
-    6. store flammable materials or equipment;
-    7. use any kind of heating devices;
-    8. smoke, eat or drink.
+    2. connect any device to a network unless specifically authorized to do so;
+    3. archive a larger amount of paper materials;
+    4. store flammable materials or equipment;
+    5. use any kind of heating devices;
 
 # Records Management
 
