@@ -76,20 +76,20 @@
 
 ## **Document approval**
 
-1. All documents, regardless of whether they are new documents or new versions of existing documents, must be approved by TL.
+1. All documents, regardless of whether they are new documents or new versions of existing documents, must be approved by CSO.
 
-2. Electronic documents are approved by the TL and Chief Executive Officer (CEO) via e-mail. Physical documents will be approved and signed by the TL and CEO.
+2. Electronic documents are approved by the TL and Chief Security Officer (CSO) via e-mail. Physical documents will be approved and signed by the TL and ISM.
 
 ## **Publishing and distributing documents; withdrawal from use**
 
 ### Documents with the lowest confidentiality level
 
-1. In case of documents to which access is allowed for all employees within ISMS scope, Systems Administrator (SA) must publish them on the intranet, in the folder titled &quot;ISMS&quot; with reading rights only. When a new document or new document version is published, SA must inform all employees listed as users of the document by e-mail. If a printed version of the document must be delivered to some employees, this is the responsibility of SA.
-2. If there is an older version of the document, SA must delete it from the valid documents folder and move it to ISMS archive. If there are older versions of printed documents, SA must collect all such documents, and destroy all copies; except the signed original from the most recent version, which must be duly stored – such originals must be marked as &quot;Obsolete&quot;.
+1. In case of documents to which access is allowed for all employees within ISMS scope, TL must publish them on the Agile Lab git repository, in the folder titled &quot;ISMS&quot; with reading rights only. When a new document or new document version is published, TL must inform all employees listed as users of the document by e-mail. If a printed version of the document must be delivered to some employees, this is the responsibility of TL.
+2. If there is an older version of the document, TL must delete it from the valid documents folder and move it to ISMS archive. If there are older versions of printed documents, TL must collect all such documents, and destroy all copies; except the signed original from the most recent version, which must be duly stored – such originals must be marked as &quot;Obsolete&quot;.
 
 ### Documents with higher confidentiality level
 
-1. Documents which have a higher confidentiality level, as specified in the Policy for handling classified information, and of which distribution is limited, are published by the document owner on the intranet with read access rights only, in a folder to which access is granted only to persons specified on the document&#39;s distribution list. The document owner must send an e-mail notification about such a document to all persons on the distribution list.
+1. Documents which have a higher confidentiality level, as specified in the Policy for handling classified information, and of which distribution is limited, are published by the document owner on the restricted cloud directory with read access rights only, in a folder to which access is granted only to persons specified on the document&#39;s distribution list. The document owner must send an e-mail notification about such a document to all persons on the distribution list.
 
 2. If there is an older version of the document, the document owner must delete it from the valid documents folder and move it to the folder containing obsolete documents, which shall be accessible only by persons specified on the document distribution list.
 
@@ -112,11 +112,11 @@
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| ISMS files, documents &amp; records | IT department cabinet &amp; shared folder | SA | TL | 1-year from amendment time |
+| ISMS files, documents &amp; records | Cloud directory | TL | ISM | 1-year from amendment time |
 
 1. Employees of the organization may access stored records only after obtaining permission from the person designated as the person responsible for storing individual records. If the sensitivity of certain records is such that permission for access must be obtained from a different person, this must be stated in the concerned internal document in the chapter describing records control.
 2. Access and retrieval rights for records are determined by the owner of individual records.
-3. SA is responsible for destroying all records of which the retention time has expired.
+3. TL is responsible for destroying all records of which the retention time has expired.
 
 # Appendices
 
