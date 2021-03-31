@@ -17,17 +17,17 @@
 ### **Prepared By:**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-|      | System Administrator | 12 Dec 2020 |
+| Wayne Tng | Technical Leader | 12 Dec 2020 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| Wayne Tng | Tech Leader | 12 Dec 2020 |
+| SzeTho ChangSheng | Information Communication Manager | 12 Dec 2020 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-|     | Chief Executive Officer | 12 Dec 2020 |
+| Jack Cam | Chief Security Officer | 12 Dec 2020 |
 
 # Content
 
