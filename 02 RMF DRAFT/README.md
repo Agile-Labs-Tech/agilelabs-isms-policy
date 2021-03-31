@@ -83,7 +83,7 @@
 
 1. This document is valid as of the date stated on the cover of this document.
 2. The owner of this document is SA; who shall check and, if necessary, update the document at least once a year, before the regular review of existing risk assessment.
-3. SAmay appoint a deputy to carry out the updating of the documents.
+3. SA may appoint a deputy to carry out the updating of the documents.
 4. When evaluating the effectiveness and adequacy of this document, the following criteria need to be considered:
 
     1. the number of incidents which occurred, but were not included in risk assessment
@@ -137,6 +137,8 @@
 1. Values 1 to 4 marked as green cells in the diagram below are acceptable risks, which may be reviewed annually or whenever the risk changes significantly.
 2. Values from 5 to 12 are acceptable risks that should be monitored more frequently (for example, quarterly) or whenever the risk changes significantly.
 3. Values from 15 to 25 are unacceptable risks that must be treated and reduced. A risk treatment plan is required.
+
+![risk acceptance criteria](./risk-acceptance-criteria.png);
 
 ## Risk Treatment
 
