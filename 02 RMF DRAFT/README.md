@@ -183,5 +183,5 @@ Only the TL can grant other employees access to any of the abovementioned docume
 
 # Appendices
 
-1. Appendix 1: Form – Risk Assessment and Treatment Template
+1. Appendix 1: Form – [Risk Assessment and Treatment Template](../RA-RTP/RA-RTP.xlsx)
 2. Appendix 2: Form – Vulnerability Assessment and Penetration Test Report

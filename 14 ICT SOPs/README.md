@@ -109,7 +109,7 @@
 5. All system or related work performed (including OS upgrade, patching update, etc.) shall be properly recorded in detail in the Daily Log book.
 6. Each change to office automation systems and network infrastructure must be made in the following way:
 
-    1. change may be proposed by any member in the Risk Management Communittee (RMC)
+    1. change may be proposed by any member in the Risk Management Commmittee (RMC)
     2. change must be authorized by the Tech Leader (TL); who must assess its justification for business and potential negative security impacts
     3. changes must be implemented by the SA
     4. TL is responsible for checking that the change has been implemented in accordance with the requirement

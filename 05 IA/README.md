@@ -130,3 +130,4 @@
 1. Appendix 1 – Annual Internal Audit Plan
 2. Appendix 2 – Internal Audit Report
 3. Appendix 3 – Internal Audit Checklist
+4. Appendix 4 - Risk Management Committee
