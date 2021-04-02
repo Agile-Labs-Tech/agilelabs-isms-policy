@@ -54,7 +54,7 @@
 
 - [Security Incident Reporting](#security-incident-reporting)
 
-- [Comliance](#compliance)
+- [Compliance](#compliance)
 
 - [Password Control Standards](#password-control-standards)
 
