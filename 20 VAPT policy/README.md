@@ -3,7 +3,7 @@
 | Document Title | Vulnerability Assessment &amp; Penetration Testing Policy |
 | --- | --- |
 | Document No. | ISMS-20 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Confidential |
 
@@ -11,7 +11,8 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
-| 31 Mar 2021 | 0.2 | - | Content update |
+| 2 Apr 2021 | 0.3 | - | Content update for release |
+| 31 Mar 2021 | 0.2 | - | Content update for release |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
 
@@ -61,7 +62,7 @@
 # Roles and Responsibilities
 
 1. Tech Leader (TL), or his/her assigned deputy, will specify the requirements for the VAPT.
-2. The types and methods to conduct the relevant tests shall be specified – this may include, but may not be limited to, OS fingerprinting, port scanning, services enumeration, vulnerability scanning, vulnerability identification and analysis, and exploitation.
+2. The types and methods to conduct the relevant tests shall be specified – this may include, but may not be limited to, port scanning, services enumeration, vulnerability scanning, vulnerability identification and analysis, and exploitation.
 3. External cyber security specialists engaged to perform the VAPT; including to improve information security awareness and providing technical security advisory and cyber security solutions.
 4. Remediation measures shall be implemented within 6 months by System Administrator (SA).
 5. Critical or high severity issues shall be resolved immediately, or as soon as possible.
@@ -70,15 +71,13 @@
 
 4.1 VAPT shall be conducted annually for the following test types:
 
-    (a) Black box and grey box testing
-
-    (b) Red teaming exercise
+    - Black box
 
 # Records Management
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| VAPT test report | Shared directory in NAS;office (hard copy) | SA | TL | 1 year |
+| VAPT test report | Cloud Directory ;office (hard copy) | SA | TL | 1 year |
 
 # Appendices
 
