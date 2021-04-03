@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | ISMS Firewall Administration Policy |
@@ -77,3 +79,5 @@
 | Daily firewall logs | Cloud Directory | SA | TL | 1-year |
 | Firewall preventive maintenance | Cloud Directory | SA | TL | 1-year |
 | Firewall corrective maintenance | Cloud Directory | SA | TL | 1-year |
+
+<div align="center"> **Internal** </div>

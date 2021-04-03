@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Security Baseline Standard and Hardening Policy |
@@ -109,3 +111,5 @@
 # Appendices
 
 None
+
+<div align="center"> **Internal** </div>

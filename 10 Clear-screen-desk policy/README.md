@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Clear Desk and Clear Screen Policy |
@@ -95,3 +97,5 @@
 # Appendices
 
 None
+
+<div align="center"> **Internal** </div>

@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Procedures for Document and Record Control |
@@ -122,3 +124,5 @@
 # Appendices
 
 None
+
+<div align="center"> **Internal** </div>

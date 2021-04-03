@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Information Retention Policy |
@@ -77,3 +79,5 @@
 # Appendices
 
 None
+
+<div align="center"> **Internal** </div>

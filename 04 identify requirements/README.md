@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Procedures for Identification of Requirements |
@@ -95,3 +97,5 @@
 # Appendices
 
 [Identify requirements & legal register](https://docs.google.com/spreadsheets/d/1BSccrN7TirLbX1zSfx6Jj4SXIvDyk2dy/edit?usp=drive_web&ouid=111900017263094652571&rtpof=true)
+
+<div align="center"> **Internal** </div>

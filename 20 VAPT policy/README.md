@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Vulnerability Assessment &amp; Penetration Testing Policy |
@@ -82,3 +84,5 @@
 # Appendices
 
 None
+
+<div align="center"> **Internal** </div>

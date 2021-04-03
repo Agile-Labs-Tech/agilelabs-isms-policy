@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Privileged Access Management Policy |
@@ -89,3 +91,5 @@
 # Appendices
 
 None
+
+<div align="center"> **Internal** </div>

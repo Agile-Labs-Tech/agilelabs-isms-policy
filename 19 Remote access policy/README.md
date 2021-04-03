@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Remote Access Policy |
@@ -80,3 +82,5 @@
 # Appendices
 
 None
+
+<div align="center"> **Internal** </div>

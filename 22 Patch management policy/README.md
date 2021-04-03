@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Patch Management Policy |
@@ -128,3 +130,5 @@
 # Appendices
 
 Patch Management Guidelines
+
+<div align="center"> **Internal** </div>

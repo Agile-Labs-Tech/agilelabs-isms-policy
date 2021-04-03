@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Incident Management Procedure |
@@ -151,3 +153,5 @@
 - Incident Logs
 
 ![Incident Management](./incident-handling-management.jpg)
+
+<div align="center"> **Internal** </div>

@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Supplier Security Policy |
@@ -137,3 +139,5 @@
 # Appendices
 
 None
+
+<div align="center"> **Internal** </div>

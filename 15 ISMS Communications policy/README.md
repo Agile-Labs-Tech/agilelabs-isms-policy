@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | ISMS Communications &amp; Continual Improvement Policy |
@@ -113,3 +115,5 @@
 # Appendices
 
 None
+
+<div align="center"> **Internal** </div>

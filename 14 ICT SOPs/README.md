@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Operating Procedures for Information and Communication Technology |
@@ -260,3 +262,5 @@
 
 1. Incident Log
 2. Daily Log book
+
+<div align="center"> **Internal** </div>

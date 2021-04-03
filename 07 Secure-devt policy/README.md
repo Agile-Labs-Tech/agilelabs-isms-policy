@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Secure Development Policy |
@@ -142,3 +144,5 @@
 # Appendices
 
 1. Security Requirements Specification
+
+<div align="center"> **Internal** </div>

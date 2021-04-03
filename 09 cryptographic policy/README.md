@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Policy on the Use of Cryptographic Controls |
@@ -111,3 +113,5 @@
 # Appendices
 
 None
+
+<div align="center"> **Internal** </div>

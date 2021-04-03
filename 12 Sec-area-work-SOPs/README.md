@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Procedures for Working in Secure Areas |
@@ -118,3 +120,5 @@
 # Appendices
 
 None
+
+<div align="center"> **Internal** </div>

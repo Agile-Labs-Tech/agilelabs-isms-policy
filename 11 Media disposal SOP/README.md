@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Disposal and Destruction Policy |
@@ -115,4 +117,4 @@
 
 None
 
-#
+<div align="center"> **Internal** </div>

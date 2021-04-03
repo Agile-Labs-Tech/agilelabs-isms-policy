@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Procedure for Corrective Action |
@@ -116,3 +118,5 @@
 # Appendices
 
 1. Appendix – Corrective Action Form
+
+<div align="center"> **Internal** </div>

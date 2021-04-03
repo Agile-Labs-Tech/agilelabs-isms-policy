@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Information Security Management System Manual |
@@ -573,3 +575,5 @@
 | 21 | Privileged Access Management Policy | ISMS-21 |
 | 22 | Patch Management Policy | ISMS-22 |
 | 23 | Anti-malware Policy | ISMS-23 |
+
+<div align="center"> **Internal** </div>

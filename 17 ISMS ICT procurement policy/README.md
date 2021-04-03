@@ -1,3 +1,5 @@
+<div align="center"> **Internal** </div>
+
 # **Information Security**
 
 | Document Title | Information &amp; Communications Technology Procurement Policy &amp; Guidelines |
@@ -81,3 +83,5 @@
 | --- | --- | --- | --- | --- |
 | Vendor agreement contract for supply of OA PCs and graphics workstations | shared folder | TL | ISM | 1-year or period of contract |
 | Quotations from invited vendors | shared folder | TL | ISM | 1-year |
+
+<div align="center"> **Internal** </div>
