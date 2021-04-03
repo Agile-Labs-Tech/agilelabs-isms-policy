@@ -5,7 +5,7 @@
 | Document Title | Procedures for Working in Secure Areas |
 | --- | --- |
 | Document No. | ISMS-12 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Confidential |
 
@@ -13,6 +13,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -99,7 +100,7 @@
 
 ## Access of visitors
 
-1. Persons who are not employed in Agile Lab (that is, visitors) must obtain access according to the Information Security Policy.
+1. Persons who are not employed in Agile Lab (that is, visitors) must obtain permission to access by Agile Lab Management.
 2. Visitors may enter the secure areas and stay in those areas only in the presence of a designated employee – this employee must accompany the visitor throughout their whole stay in the secure area.
 
 ## Prohibited activities
