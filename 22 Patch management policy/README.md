@@ -3,7 +3,7 @@
 | Document Title | Patch Management Policy |
 | --- | --- |
 | Document No. | ISMS-22 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Confidential |
 
@@ -11,6 +11,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -99,17 +100,10 @@
     - Execute test transactions to verify its operation;
     - Verify the operation of extracted business applications.
 
-1. The roll back procedure must also be tested, for the sake of problems that are caused by the application of the security update program or by faulty implementation.
-2. Patches should be approved before deployment to show that testing and rollback has been performed
-3. After applying the security patch / updating the program, Technical Leader shall verify that the change has been applied properly, and potential problems that may arise (caused by the vulnerability) have been avoided.
-4. On regular basis, the Technical Leader shall use security vulnerability assessment tools to look for missing patches/ updates on computers.
-5. Privileged accounts shall not be used for day-to-day access; like those required to perform daily or periodic administration and/or operation activities.
-6. All privileged accounts must be approved and designated to an individual owner for accountability.
-7. Privileged accounts and user access rights shall be reviewed on a periodic basis. Particular attention should be given to the security-related event of the log file and facility including:
-    1. the logging facility being de-activated;
-    2. alterations to the message types that are recorded;
-    3. log files being edited or deleted.
-8. The Technical Leader protects the log analysis tools and its output from unauthorized access. Furthermore, he / she must keep the audit logs for a retention periods that can meet the legal, regulatory, and business needs.
+11. The roll back procedure must also be tested, for the sake of problems that are caused by the application of the security update program or by faulty implementation.
+12. Patches should be approved before deployment to show that testing and rollback has been performed
+13. After applying the security patch / updating the program, Technical Leader shall verify that the change has been applied properly, and potential problems that may arise (caused by the vulnerability) have been avoided.
+14. On regular basis, the Technical Leader shall use security vulnerability assessment tools to look for missing patches/ updates on computers.
 
 # Definitions
 
@@ -133,4 +127,4 @@
 
 # Appendices
 
-None
+Patch Management Guidelines
