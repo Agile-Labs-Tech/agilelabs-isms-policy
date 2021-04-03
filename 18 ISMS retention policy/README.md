@@ -5,7 +5,7 @@
 | Document Title | Information Retention Policy |
 | --- | --- |
 | Document No. | ISMS-18 |
-| Revision No. | 0.0 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Confidential |
 
@@ -13,6 +13,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -74,7 +75,9 @@
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| ISMS policy, procedures &amp; framework manuals | Cloud repository | SA | TL | Forever |
+| ISMS policy, procedures &amp; guidelines and manuals | Cloud repository | SA | TL | 1 Year |
+| Contracts of any kind | Cloud repository; Office (hard copies) | Manager | TL | 1 Year |
+| Confidential hard copies | Office | Manager | TL | 1 Year |
 
 # Appendices
 
