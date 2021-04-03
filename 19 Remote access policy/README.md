@@ -5,7 +5,7 @@
 | Document Title | Remote Access Policy |
 | --- | --- |
 | Document No. | ISMS-19 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Confidential |
 
@@ -13,6 +13,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -61,23 +62,21 @@
 
 # Roles and Responsibilities
 
-1. Department managers shall determine and approve the request for remote access for an Agile Lab employee.
-2. Department managers shall determine and approve the request for remote access on an ad hoc and as needed basis for a vendor employee providing remote support for critical systems.
-3. Department managers shall verify the identity and suitability of the remote access user before granting the request.
-4. Corporate IT will train approved users on how to use and/or delete remote access or control software, and to change the password.
-5. All Agile Lab secure remote access users shall change their login password periodically, and the previous password shall not be re-used.
+1. Managers/TL shall determine and approve the request for remote access for an Agile Lab employee.
+2. Managers/TL shall determine and approve the request for remote access on an ad hoc and as needed basis for a vendor or employee providing remote support for critical systems.
+3. Managers shall verify the identity and suitability of the remote access user with TL before granting the request.
+4. Manual will be provided to staff/vendor on how to install remote acacess software and usage.
+5. All Agile Lab users shall only provide the credentials for remote access upon the permission granted by Managers only.
 6. All Agile Lab users are required to ensure that remote access or control software will be inactive under normal circumstances.
 7. All vendor employees granted temporary remote access shall delete the remote control software as soon as the job is completed.
-8. Department managers, or the assigned deputy, shall create a new login password for the vendor employee remote access. A previous password shall not be used.
-9. Department managers, or their assigned deputies, shall ensure that the remote control software is deleted as soon as the job is completed.
-10. Department managers, or their assigned deputies, shall maintain a remote access log; which shall contain the date, time, user (requestor) name and activities performed for every remote access login by a vendor employee.
-11. This log shall be available for audit purposes at any time.
+8. Managers/TL, or their assigned deputies, shall maintain a remote access log; which shall contain the date, time, user (requestor) name and activities performed for every remote access login by a vendor employee.
+9. This log shall be available for audit purposes at any time.
 
 # Records Management
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Remote access (or control) log book | Cloud directory;office (hard copy) | Department Managers | Department Managers | 1 year |
+| Remote access (or control) log book | Cloud directory;office (hard copy) | Managers | Managers | 1 year |
 
 # Appendices
 
