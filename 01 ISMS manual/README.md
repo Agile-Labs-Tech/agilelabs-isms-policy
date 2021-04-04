@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-01 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 1 November 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 Apr 2021 | 0.2 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -110,8 +111,7 @@
 
 1. The primary scope of information security is the protection of the confidentiality, integrity and availability of information.
 2. The framework for managing information security in this policy applies to all the departments and functions, including the employees from all the entities (that is, subsidiaries), fully or partially owned by Agile Lab.
-3. The entities are listed in the appendix.
-4. This policy and all standards apply to the classes of information in any form as defined in SECTION 7 Information Classification.
+3. This policy and all standards apply to the classes of information in any form as defined in [Information Classification](#information-classification).
 
 # Objectives And Measurement
 
@@ -120,14 +120,14 @@
 
 | **Capability or Competency Area** | **Measurement Criteria** |
 | --- | --- |
-| Files containing particulars, information and/or private data of registered events participants | Zero (0) number of breaches per month |
+| Files containing particulars, information and/or private data | Zero (0) number of breaches per month |
 | Data privacy and protection for intellectual property and confidential records for the organization and clients | Zero (0) number of breaches per month |
 
 3. The Information Security Manager (ISM) is responsible to review existing and set new ISMS objectives.
 4. The objectives for the specific security controls or groups of controls are proposed by the Technical Leader (TL), and will be approved by the Chief Security Officer (CSO).
 5. All objectives will be reviewed at least once annually, or as and when there are significant changes.
 6. Agile Lab will measure the fulfilment of the objectives.
-7. The measurements will be performed at least once a year by the SA.
+7. The measurements will be performed at least once a year by the SA/TL.
 8. The SA will analyse and evaluate the measurement results and report them to the TL as input materials for the Management review.
 
 # Risk Management
@@ -156,7 +156,7 @@
 1. Technical Leader (TL): The role of the TL will be performed by the SA, and is responsible to:
 
     1. Assist the Management Representative (TL) to develop and implement the information security policy.
-    2. Assist the department management and users to develop and implement relevant procedures and standards to comply with the information security policy.
+    2. Assist the Manager and users to develop and implement relevant procedures and standards to comply with the information security policy.
     3. Provide basic security support for all systems and users.
     4. Advise owners in the identification and classification of computer resources.
     5. Advise systems development and application owners in the implementation of security controls for information on systems, from the point of system design, through testing and production implementation.
@@ -164,7 +164,7 @@
     7. Perform security audits.
     8. Report regularly to the management on the organizational status with regard to information security.
 
-2. Information Owner: The owner of a collection of information is usually the manager responsible for the creation of that information or the primary user of that information. This role often corresponds with the management of the department. In this context, ownership does not signify proprietary interest, and ownership may be shared. The owner may delegate ownership responsibilities to the department employees. The owner of information has the responsibility for:
+2. Information Owner: The owner of a collection of information is usually the manager responsible for the creation of that information or the primary user of that information. This role often corresponds with the management of the team. In this context, ownership does not signify proprietary interest, and ownership may be shared. The owner may delegate ownership responsibilities to the department employees. The owner of information has the responsibility for:
 
     1. Knowing the information for which she/he is responsible.
     2. Work with the TL or SA to determine the data retention period for the information.
@@ -206,10 +206,9 @@
 | Confidential | Information and data that shall be shared with designated individuals or groups (which may consist of internal and/or external parties) |
 | Internal | Information and data that may be disseminated only internally, that is, to management and employees |
 | Public | Information and data that is published or publicly available |
-| Unclassified | Same as for &quot;Public&quot; |
 
-5. Contents stored in the public, organizational, departmental, confidential and private folders in the network shared drive shall be categorized using the classification categories shown above.
-6. Email contents in the public, organizational, department, confidential and private folders shall be categorized using the classification categories shown above.
+5. Contents stored in the public, organizational, confidential and private folders in the network shared drive shall be categorized using the classification categories shown above.
+6. Email contents in the public, organizational, confidential and private folders shall be categorized using the classification categories shown above.
 
 # Computer And Information Control
 
@@ -231,9 +230,9 @@
 
 - At least one of the following authentication methods must be implemented:
 
-  - **strictly** controlled passwords (Attachment 1 – Password Control Standards),
-  - biometric identification, and/or
+  - **strictly** controlled passwords (E.G: Password Control Standards Guidelines),
   - tokens in conjunction with a PIN.
+  - SSH access
 
 - The user must secure his/her authentication control (e.g. password, token) such that it is known only to that user and possibly a designated security manager.
 - An automatic timeout re-authentication function, after a certain period of no activity (maximum 15 minutes), is preferred.
@@ -243,34 +242,26 @@
 
 | **Name of system / network / service / physical area** | **Intervals for regular review** |
 | --- | --- |
-| Computer server room | Once per year; or whenever there are significant changes |
-| Network operations centre | Once per year; or whenever there are significant changes |
-| Security reception &amp; guard house | Once per year; or whenever there are significant changes |
-| Data centre space | Once per year; or whenever there are significant changes |
-| Other secured areas, equipment and rooms | Once per year; or whenever there are significant changes |
+| Office | Once per year; or whenever there are significant changes |
 
   1. **Data Integrity:** the Organisation shall ensure that Confidential and Internal Information has not been altered or destroyed in an unauthorized manner. Listed below are some methods that support or protect data integrity:
 
-      1. transaction audit
-      2. disk redundancy (RAID)
-      3. ECC (Error Correcting Memory)
-      4. checksums (file integrity)
-      5. encryption of data in storage
-      6. digital signatures
+      1. [disk redundancy](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/raid-config.html) (RAID)
+      2. [ECC](https://aws.amazon.com/ec2/faqs) (Error Correcting Memory)
+      3. encryption of data in storage
+      4. digital signatures
 
   2. **Transmission Security:** Technical security mechanisms must be put in place to guard against unauthorized access to data that is transmitted over a communications network, including wireless networks. The following features must be implemented:
 
     1. integrity controls and
     2. encryption, where deemed appropriate
 
-  3. **Remote Access:** Access into the Organisation network from outside will be granted using organizational approved devices and pathways on an individual user and application basis. Remote access will be provisioned using the organizational approved secure virtual private network (VPN) infrastructure. All other network access options are strictly prohibited. Further, Confidential and/or Internal Information that is stored or accessed remotely must maintain the same level of protections as information stored and accessed within the organizational network.
+  3. **Remote Access:** Access into the Organisation servers from outside will be granted using organizational approved devices and pathways on an individual user and application basis. Remote access will be provisioned using the organizational approved device SSH access secure. All other network access options are strictly prohibited. Further, Confidential and/or Internal Information that is stored or accessed remotely must maintain the same level of protections as information stored and accessed within the organizational network.
   4. **Physical Access:** Access to areas in which information processing is carried out must be restricted to only appropriately authorized individuals.
 
       The following physical controls must be in place:
 
-      1. Computer server systems must be installed in an access-controlled area. The area in and around the computer facility must afford protection against fire, water damage, and other environmental hazards such as power outages and extreme temperature situations.
-      2. File servers containing Confidential and/or Internal Information must be installed in a secure area to prevent theft, destruction, or access by unauthorized individuals.
-      3. Workstations or personal computers (PC) must be secured against use by unauthorized individuals.
+      1. Workstations or personal computers (PC) must be secured against use by unauthorized individuals.
 
           - Position workstations to minimize unauthorized viewing of protected or confidential information.
           - Grant workstation access only to those who need it in order to perform their job function.
@@ -280,15 +271,10 @@
 
       4. Facility access controls must be implemented to limit physical access to electronic information systems and the facilities in which they are housed, while ensuring that properly authorized access is allowed. The key controls are:
 
-          - Monitoring key secure access areas using surveillance cameras.
-          - Access Control and Validation – Documented procedures to control and validate a person&#39;s access to facilities based on their role or function, including visitor control, and control of access to software programs for testing and revision.
-          - Maintenance records – Documented policies and procedures to document repairs and modifications to the physical components of the facility which are related to security (for example, hardware, walls, doors, and locks).
-          - Visitors will be escorted at all times within the premises. Unescorted visitors will have no access to the premises.
-          - Visitors will report to the guard house, and will be issued with a visitor pass before being permitted to enter the premises.
-          - The premises are monitored by security surveillance cameras deployed at the office, Data Centre and data-sensitive areas.
-          - Gates at the Data Centre entrance will restrict entry by visitors.
+          - Visitors will be required to fill up the visitor logs book.
+          - Visitors will be escorted at all times within the office. Unescorted visitors will have no access to the premises.
 
-  5. Emergency Access:
+  5. **Emergency Access**:
 
     1. IT will provide a mechanism to provide emergency access to systems and applications in the event that the assigned custodian or owner is unavailable during an emergency.
     2. Procedures must be documented to address:
@@ -308,7 +294,7 @@
     2. **Accountability:** Each entity must maintain a record of the movements of hardware and electronic media and any person responsible therefore.
     3. **Data backup and Storage:** When needed, create a retrievable, exact copy of electronic before movement of equipment.
 
-  7. Other Media Controls:
+  7. **Other Media Controls**:
 
     1. Confidential Information stored on external media (diskettes, cd-roms, portable storage, memory sticks, etc.) must be protected from theft and unauthorized access. Such media must be appropriately labelled so as to identify it as Confidential Information. Further, external media containing Confidential Information must never be left unattended in unsecured areas.
     2. Confidential Information must never be stored on mobile computing devices (laptops, personal digital assistants (PDA), smart phones, tablet PC&#39;s, etc.) unless the devices have the following minimum security requirements implemented:
@@ -321,7 +307,7 @@
 
     3. If Confidential Information is stored on external medium or mobile computing devices and there is a breach of confidentiality as a result, then the owner of the medium/device will be held personally accountable and is subject to the terms and conditions of the Organisation&#39;s Information Security Policies and Confidentiality Statement signed as a condition of employment or affiliation with the organization.
 
-  8. Data Transfer/Printing:
+  8. **Data Transfer/Printing**:
 
     1. **Electronic Mass Data Transfers:** Downloading and uploading Confidential and Internal Information between systems must be strictly controlled. Requests for mass downloads of, or individual requests for information must be approved by the Information Owner, and include only the minimum amount of information necessary to fulfill the request.
     2. **Other Electronic Data Transfers and Printing:** Confidential and Internal Information must be stored in a manner inaccessible to unauthorized individuals. Confidential information must not be downloaded, copied or printed indiscriminately or left unattended and open to compromise.
@@ -342,7 +328,7 @@
     4. **Testing and Revision Procedures:** Procedures should be developed and documented requiring periodic testing of written contingency plans to discover weaknesses and the subsequent process of revising the documentation, if necessary.
     5. **Applications and Data Criticality Analysis:** The criticality of specific applications and data in support of other contingency plan components must be assessed and documented.
 
-  13. **Email, Internet and Intranet Usage and Other Electronic Communications**: Email, internet usage and other electronic communications for business use is encouraged. Electronic communications applies to information and messages communicated, but not limited to, telephone, fax, email, voicemail, instant messaging, internet, personal computers and servers. All information and messages communicated is considered the property of the Organisation.
+  13. **Email, Internet and Intranet Usage and Other Electronic Communications**: Email, internet usage and other electronic communications for business use is encouraged. Electronic communications applies to information and messages communicated, but not limited to, telephone, email, instant messaging, internet, personal computers and servers. All information and messages communicated is considered the property of the Organisation.
 
     1. Users shall not violate any of the following:
 
@@ -360,55 +346,37 @@
           - Users may not install or download any software (applications, screen savers, etc.). If users have a need for additional software, the user is to contact their supervisor;
           - Use shall be granted for business purposes. The network can be used to market services related to the Organisation. Use of the network for personal profit or gain is prohibited.
           - Confidential or sensitive data - including credit card numbers, telephone calling card numbers, logon passwords, and other parameters that can be used to access goods or services - shall be encrypted before being transmitted through the Internet.
-          - The encryption software used, and the specific encryption keys (e.g. passwords, pass phrases), shall be obtained from the TL.
+          - The encryption software used, and the specific encryption keys (e.g. passwords, pass phrases) via [OneTimeSecret](https://onetimesecret.com).
           - All encryption keys are to be safely maintained and stored.
           - The use of encryption software and keys, which have not been approved as prescribed above, is prohibited.
 
-  14. Employee termination: When an employee&#39;s term of service ends, the organization carry out the following procedures:
+  14. **Employee termination**: When an employee&#39;s term of service ends, the organization carry out the following procedures:
 
-      1. The System Administrator (SA) will back up or transfer the data, documents and outlook.pst files.
-      2. The SA will deactivate the employee&#39;s Windows and email login ID and passwords – at least 1 hour before the employee leaves; whenever an instruction is received from HR or the Department Manager whichever is earlier.
-      3. For 1 month from the last day of an employee&#39;s service, emails for this account will be forwarded to Department Manager – who will notify clients or external parties the change of employees taking over the case or account.
-      4. On an employee&#39;s last day of work, the employee is to submit an exit clearance form and return all information and communications technology (ICT) assets to SA. A SA representative is to inspect the returned ICT assets, and will sign the exit clearance form to acknowledge that all ICT assets issued to the employee is returned in satisfactory condition. The SA representative may seek advice from HR, if necessary.
+      1. The Technical Leader (TL) will back up or transfer the data within the PC and documents into Organization [IDrive](https://www.idrive.com) account.
+      2. The SA will deactivate the employee&#39;s email login ID and passwords – at least 1 hour before the employee leaves; whenever an instruction is received from HR or the Manager whichever is earlier.
+      3. For 1 month from the last day of an employee&#39;s service, emails for this account will be forwarded to Manager – who will notify clients or external parties the change of employees taking over the case or account.
+      4. On an employee&#39;s last day of work, the employee is to submit an exit clearance form and return all information and communications technology (ICT) assets to TL. TL is to inspect the returned ICT assets, and will sign the exit clearance form to acknowledge that all ICT assets issued to the employee is returned in satisfactory condition. The TL may seek advice from HR, if necessary.
 
 # Asset Management
 
 1. In addition to computing and related equipment, application software, vital records stored on media (magnetic or otherwise), and necessary operational documentation stored and used in the data centre are also considered assets; including assets which belonged to the company or clients.
-2. Assets placed in the DC shall be uniquely identified, located and retrieved in a timely manner when required by user organisations.
-3. An assets list shall be maintained and updated whenever appropriate.
-4. The assets belonging clients shall also be recorded in the assets list. The asset table should contain the following information:
-    1. Asset tag number – a unique alphanumeric set of characteristics which shall not be duplicated, even for similar types of assets:
-
-    | **YYYY** | **Dept / Location/ Function** | **Asset type or class** | **Incremental number** | **Example** |
-    | --- | --- | --- | --- | --- |
-    | 2020 | PM | LPC | 0001 | 2020-PM-LPC-0001 |
-    | 2020 | PM | MAP | 0002 | 2020-PM-MAP-0002 |
-
-    2. Asset name and description
-    3. Location where asset is stored
-    4. Owner of asset (department and job titles)
-5. A copy of the assets list for a specific customer and contract shall be included in the service contracts with appropriate clauses inserted to identify their ownership rights and privileges.
-6. The location of the clients&#39; assets shall be accurately tracked for retrieval.
-7. All assets belonging to the company, third parties and clients shall be uniquely tagged.
-8. The tagging or markings shall not explicitly display user organisation names, to ensure that security and protect clients&#39; confidentiality.
-9. A system shall be implemented and maintained – to protect, maintain, locate, retrieve and return all user organisation tagged/marked assets located at their premises, and ensure that clients&#39; assets are:
-
-  a) located and kept in safe environments;
-
-  b) maintained in good operating conditions, with the installation of appropriate environmental controls;
-
-  c) not used or redeployed for other than contracted purposes.
-
-1. Clients shall be informed when their assets are being relocated.
-2. Clients&#39; assets shall be retrieved and returned within a predetermined and agreed time frame when requested by the client.
-3. Corporate IT will monitor the server system resources, utilization, performance and capacity.
-4. Corporate IT may deploy monitoring tools; which should provide email notification when any system anomaly is detected.
-5. Critical alerts received by Corporate IT will be escalated to the TL.
+2. An assets list shall be maintained and updated whenever appropriate.
+3. The assets belonging clients shall also be recorded in the assets list. The asset table should contain the following information:
+    1. Asset name and description
+    2. Location where asset is stored
+    3. Owner of asset
+4. All assets belonging to the company, third parties and clients shall be uniquely tagged.
+5. The tagging or markings shall not explicitly display user organisation names, to ensure that security and protect clients&#39; confidentiality.
+6. Clients shall be informed when their assets are being relocated.
+7. Clients&#39; assets shall be retrieved and returned within a predetermined and agreed time frame when requested by the client.
+8. Corporate IT will monitor the server system resources, utilization, performance and capacity.
+9. Corporate IT may deploy monitoring tools; which should provide email notification when any system anomaly is detected.
+10. Critical alerts received by Corporate IT will be escalated to the TL or automated trigger Incident Management Procedure via [PagerDuty](https://www.pagerduty.com).
 
 # Security Incident Reporting
 
-1. It is the responsibility of employees as users to report all security incidents or violations of the security policy immediately to the department manager or SA. Potential or perceived security incident should also be reported.
-2. Each reported incident will be investigated by the SA. SA will determine if changes in the existing security structure are necessary.
+1. It is the responsibility of employees as users to report all security incidents or violations of the security policy immediately to the manager or TL. Potential or perceived security incident should also be reported.
+2. Each reported incident will be investigated by the SA/TL. TL will determine if changes in the existing security structure are necessary.
 3. All reported incidents are logged and the remedial action shall also be recorded.
 4. The SA is responsible to provide training on any procedural changes that may be required as a result of the investigation of an incident.
 5. If criminal action is suspected, the TL or management shall contact the appropriate law enforcement and investigative authorities immediately, which may include but is not limited to the police.
@@ -431,18 +399,18 @@
 
 1. The Organisation&#39;s Information Security Management System Manual requires the use of **strictly** controlled passwords for accessing Confidential Information (CI) and Internal Information (II).
 2. Listed below are the minimum standards that must be implemented in order to ensure the effectiveness of password controls.
-3. Standards for accessing CI, II:
+3. Standards for accessing:
 
     1. Users are responsible for complying with the following password standards:
 
         1. Passwords must never be shared with another person (Note: The user&#39;s password may be reset, if required).
         2. Passwords must, where possible, have a minimum length of eight (8) characters.
-        3. Passwords must not be programmed into a PC or recorded anywhere that someone may find and use them.
-        4. When creating a password, it is important not to use words that can be found in dictionaries or words that are easily guessed due to their association with the user (i.e. children&#39;s names, pets&#39; names, birthdays, etc.). A combination of alpha and numeric characters are more difficult to guess.
+        3. When creating a password, it is important not to use words that can be found in dictionaries or words that are easily guessed due to their association with the user (i.e. children&#39;s names, pets&#39; names, birthdays, etc.). A combination of alpha and numeric characters are more difficult to guess.
+        4. Can generate using [Lastpass](http://lastpass.com) random password generator.
 
     2. Where possible, system software must enforce the following password standards:
 
-        1. Passwords routed over a network must be encrypted.
+        1. Passwords routed over a network must be using [OneTimeSecret](https://onetimesecret.com).
         2. Passwords must be entered in a non-display field.
 
 # Encryption
@@ -470,7 +438,7 @@
 
 ## File Transfer Protocol (FTP)
 
-1. Files may be transferred to secure FTP sites through the use of appropriate security precautions. Requests for any FTP transfers should be directed to the SA.
+1. Files may be transferred to secure FTP sites through the use of appropriate security precautions. Requests for any SFTP transfers should be directed to the SA.
 
 ## Secure Socket Layer (SSL) Web Interface
 
@@ -504,42 +472,36 @@
     2. To prevent programming or software bugs, the Organisation will test its information systems for accuracy and functionality before it starts to use them.
     3. The Organisation will update its systems when ICT vendors release fixes to address known bugs or problems.
     4. The Organisation will install and regularly update antivirus software on all workstations to detect and prevent malicious code from altering or destroying data.
-    5. To prevent exposing magnetic media to a strong magnetic field, employees shall keep magnetic media away from strong magnetic fields and heat.
 
 # Specific Protocols And Devices
 
 ## Wireless Usage Standards and Policy
 
 1. Due to an emergence of wireless access points in public areas, hotels, airports, and in homes, a Wireless Usage policy is adopted to ensure the security and functionality of such connections for employees. This policy outlines the processes and procedures for acquiring wireless access privileges, utilizing wireless access, and ensuring the security of the Organisation&#39;s laptops and mobile devices.
-2. Approval Procedure **-** In order to be granted the ability to utilize the wireless network interface on the employees&#39; laptop or mobile device, each employee will be required to gain the approval of your department manager and TL. Once approved the employee will be contacted by the SA to setup the employee&#39;s laptop and schedule training.
+2. Approval Procedure **-** In order to be granted the ability to utilize the wireless network interface on the employees&#39; laptop or mobile device, each employee will be required to gain the approval of your department manager and TL. Once approved the employee will need to follow the guidelines.
 3. Guest Access – Wireless access for guests are provisioned using a separate network, or filtered using the wireless access point filter control. This network is separate from the internal office network.
 4. Software Requirements **-** The following is a list of minimum software requirements for any laptop that is granted the privilege to use wireless access:
 
-    1. Windows 10 (Firewall enabled)
+    1. Windows 10 (Firewall enabled) or MacOS
     2. Antivirus software
-    3. Full Disk Encryption
-    4. Appropriate VPN Client, if applicable
-    5. Internet Explorer 11.0 or higher
-
-5. Training Requirements **-** Once an employee has approval for wireless access on the employee&#39;s computer, the employee will be required to attend a usage and security training session to be provided by the TL or appropriate personnel. This training session will cover the basics of connecting to wireless networks, securing the computer when connected to a wireless network, and the proper method for disconnecting from wireless networks. This training will be conducted within a reasonable period of time once wireless access approval has been granted.
+    3. Google Chrome: version 89.0.4389 or higher
 
 ## Use of Transportable Media, Personal Digital Assistants (PDAs)
 
 1. Transportable media included within the scope of this policy includes, but is not limited to, SD cards, DVDs, CD-ROMs, and USB key devices. It may also include memory storage in PDAs. PDAs will include any phone or portable device (e.g. tablet) capable of storage, accessing online storage, and transmission of information.
 2. The purpose of this policy is to guide employees in the proper use of transportable media and PDAs for legitimate business requirements – that requires the transfer data using the devices. Every workstation or server used by employees is presumed to have sensitive information stored on its hard drive. Therefore procedures must be carefully followed when copying data to or from transportable media to protect the data; or when accessing the information using the PDAs.
 3. Transportable media, by their very design are easily lost, care and protection of these devices must be addressed. Transportable media will be provided to authorised employees – mainly for the purposes of exchange of information with an authorized external source. These employees shall be given guidance in the appropriate use of media from other companies.
-4. Transportable media used to backup job images will not contain any confidential data. Only large sized image files – like artwork, books and documents (without confidential data) will be stored. The media will be kept securely in a room and storage area. This room and area is managed and accessible only by the TL, SA or the staff appointed to perform the role of an IT administrator.
+4. Transportable media used to backup job images will not contain any confidential data. Only large sized image files – like artwork, books and documents (without confidential data) will be stored. The media will be kept securely in a office is managed and accessible only by the TL or ISM.
 5. Rules governing the use of transportable media include:
 
-    1. No _ **confidential data** _ should ever be stored on transportable media and PDAs; unless the data is maintained in an encrypted format.
-    2. All USB keys used to store data must be an encrypted USB key issued by the TL, SA or a designated personnel.
+    1. No **confidential data** should ever be stored on transportable media and PDAs; unless the data is maintained in an encrypted format.
+    2. All USB keys used to store data must be an encrypted.
     3. The use of a personal USB key is strictly prohibited.
     4. Users shall not connect their transportable media or PDAs to a workstation belonging to the Organisation, unless prior authorization is granted. (NOTE: Workstations and laptops not belonging to the Organisation may not have the same security protection standards required by the Organisation. The virus patterns could potentially be transferred from the external devices to the media and then back to a workstation belonging to the Organisation.)
     5. Data may be exchanged between workstations/networks within the Organisation. The very nature of data exchange requires that under certain situations data be exchanged in this manner.
-    6. Before initial use and before any _ **data** _ may be transferred to transportable media, the media must be sent to the department manager or appropriate personnel to ensure appropriate and approved encryption is used.
-    7. Copy _ **data** _ only to the encrypted space on the media.
-    8. Report all loss of transportable media to the department manager.
-    9. It is important that the TL is notified either directly by the employee or department manager immediately.
+    6. Copy **data** only to the encrypted space on the media.
+    8. Report all loss of transportable media to the manager.
+    9. It is important that the TL is notified either directly by the employee or manager immediately.
     10. When an employee leaves the Organisation, all transportable media in their possession must be returned to the TL for data erasure that conforms.
 
 # Intellectual Property Rights
