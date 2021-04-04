@@ -4,10 +4,11 @@
 
 | Document Title | Policy on the Use of Cryptographic Controls |
 | --- | --- |
+| Organization Name | Agile Lab |
 | Document No. | ISMS-09 |
 | Revision No. | 0.2 |
 | Effective Date | 12 December 2020 |
-| Classification | Confidential |
+| Classification | Internal |
 
 ## Revision History
 

@@ -4,10 +4,11 @@
 
 | Document Title | Vulnerability Assessment &amp; Penetration Testing Policy |
 | --- | --- |
+| Organization Name | Agile Lab |
 | Document No. | ISMS-20 |
 | Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
-| Classification | Confidential |
+| Classification | Internal |
 
 ## Revision History
 

@@ -4,10 +4,11 @@
 
 | Document Title | Secure Development Policy |
 | --- | --- |
+| Organization Name | Agile Lab |
 | Document No. | ISMS-07 |
 | Revision No. | 0.2 |
 | Effective Date | 12 December 2020 |
-| Classification | Confidential |
+| Classification | Internal |
 
 ## Revision History
 

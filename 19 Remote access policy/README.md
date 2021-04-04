@@ -4,10 +4,11 @@
 
 | Document Title | Remote Access Policy |
 | --- | --- |
+| Organization Name | Agile Lab |
 | Document No. | ISMS-19 |
 | Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
-| Classification | Confidential |
+| Classification | Internal |
 
 ## Revision History
 

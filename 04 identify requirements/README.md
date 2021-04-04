@@ -4,10 +4,11 @@
 
 | Document Title | Procedures for Identification of Requirements |
 | --- | --- |
+| Organization Name | Agile Lab |
 | Document No. | ISMS-04 |
 | Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
-| Classification | Confidential |
+| Classification | Internal |
 
 ## Revision History
 

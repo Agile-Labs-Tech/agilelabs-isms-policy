@@ -4,10 +4,11 @@
 
 | Document Title | Operating Procedures for Information and Communication Technology |
 | --- | --- |
+| Organization Name | Agile Lab |
 | Document No. | ISMS-14 |
 | Revision No. | 0.2 |
 | Effective Date | 12 December 2020 |
-| Classification | Confidential |
+| Classification | Internal |
 
 ## Revision History
 

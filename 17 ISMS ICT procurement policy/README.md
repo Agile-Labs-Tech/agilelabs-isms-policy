@@ -4,10 +4,11 @@
 
 | Document Title | Information &amp; Communications Technology Procurement Policy &amp; Guidelines |
 | --- | --- |
+| Organization Name | Agile Lab |
 | Document No. | ISMS-17 |
 | Revision No. | 0.2 |
 | Effective Date | 12 December 2020 |
-| Classification | Confidential |
+| Classification | Internal |
 
 ## Revision History
 

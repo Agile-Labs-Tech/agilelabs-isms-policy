@@ -4,10 +4,11 @@
 
 | Document Title | ISMS Communications &amp; Continual Improvement Policy |
 | --- | --- |
+| Organization Name | Agile Lab |
 | Document No. | ISMS-15 |
 | Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
-| Classification | Confidential |
+| Classification | Internal |
 
 ## Revision History
 

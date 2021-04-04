@@ -4,10 +4,11 @@
 
 | Document Title | Clear Desk and Clear Screen Policy |
 | --- | --- |
+| Organization Name | Agile Lab |
 | Document No. | ISMS-10 |
 | Revision No. | 0.2 |
 | Effective Date | 12 December 2020 |
-| Classification | Confidential |
+| Classification | Internal |
 
 ## Revision History
 

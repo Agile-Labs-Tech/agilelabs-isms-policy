@@ -4,6 +4,7 @@
 
 | Document Title | Information Security Management System Manual |
 | --- | --- |
+| Organization Name | Agile Lab |
 | Document No. | ISMS-01 |
 | Revision No. | 0.2 |
 | Effective Date | 1 November 2020 |
