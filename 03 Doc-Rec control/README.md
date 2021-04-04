@@ -4,15 +4,17 @@
 
 | Document Title | Procedures for Document and Record Control |
 | --- | --- |
+| Organization Name | Agile Lab |
 | Document No. | ISMS-03 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
-| Classification | Confidential |
+| Classification | Internal |
 
 ## Revision History
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -73,13 +75,12 @@
 
 ## **Document formatting**
 
-1. The document text is written using font Calibri, size 12. Chapter titles are written using font size 16 bold, while level 2 chapter titles are written in font size 14 bold. Level 3 chapter titles are written in font size 12 bold italic.
-2. The document cover page contains organization name, confidentiality level, document title, current version and date of document, and number of pages.
-3. Every document must also define its users.
+1. The document cover page contains organization name, confidentiality level, document title, current version and date of document.
+2. Every document must also define its users.
 
 ## **Document approval**
 
-1. All documents, regardless of whether they are new documents or new versions of existing documents, must be approved by CSO.
+1. All documents, regardless of whether they are new documents or new versions of existing documents, must be approved by ISM/CSO.
 
 2. Electronic documents are approved by the TL and Chief Security Officer (CSO) via e-mail. Physical documents will be approved and signed by the TL and ISM.
 
@@ -87,8 +88,8 @@
 
 ### Documents with the lowest confidentiality level
 
-1. In case of documents to which access is allowed for all employees within ISMS scope, TL must publish them on the Agile Lab git repository, in the folder titled &quot;ISMS&quot; with reading rights only. When a new document or new document version is published, TL must inform all employees listed as users of the document by e-mail. If a printed version of the document must be delivered to some employees, this is the responsibility of TL.
-2. If there is an older version of the document, TL must delete it from the valid documents folder and move it to ISMS archive. If there are older versions of printed documents, TL must collect all such documents, and destroy all copies; except the signed original from the most recent version, which must be duly stored – such originals must be marked as &quot;Obsolete&quot;.
+1. In case of documents to which access is allowed for all employees within ISMS scope, TL must publish them on the Agile Lab git repository, in the folder titled &quot;ISMS&quot; with reading rights only. When a new document or new document version is published, TL must inform all employees listed as users of the document by e-mail.
+2. If there is an older version of the document, TL must delete it from the valid documents folder and move it to ISMS obsolette folder. If there are older versions of printed documents, TL must collect all such documents, and destroy all copies; except the signed original from the most recent version, which must be duly stored – such originals must be marked as &quot;Obsolete&quot;.
 
 ### Documents with higher confidentiality level
 
