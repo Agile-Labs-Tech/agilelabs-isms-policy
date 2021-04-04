@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-09 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -106,9 +107,7 @@
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
 | Key/password management records | <a href="https://www.lastpass.com/" target="_blank">LastPass</a> | Individual users | Only individual user has access rights his or her own account | Records are stored until deleted |
-| --- | --- | --- | --- | --- |
 | Project credentials management cords | <a href="https://www.akeyless.io/" target="_blank">Akeyless</a> | Individual users | Only individual user and TL has access rights his or her own records | Records are stored for a period of 1 year |
-| --- | --- | --- | --- | --- |
 | Rules &amp; instructions on the use and management of the cryptographic tools | Cloud repository | TL | Only TL and SA have the right to edit and publish the instructions | Instructions that are no longer valid are stored for a period of 1 year |
 
 # Appendices
