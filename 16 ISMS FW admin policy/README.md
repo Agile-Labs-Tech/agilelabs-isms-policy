@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-16 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 Apr 2021 | 0.2 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -77,7 +78,6 @@
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
 | Firewall policy | Cloud Directory | SA | TL | 1-year from amendment time |
-| Daily firewall logs | Cloud Directory | SA | TL | 1-year |
 | Firewall preventive maintenance | Cloud Directory | SA | TL | 1-year |
 | Firewall corrective maintenance | Cloud Directory | SA | TL | 1-year |
 
