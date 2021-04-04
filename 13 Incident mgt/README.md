@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-13 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 Apr 2021 | 0.2 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -95,14 +96,14 @@
 
 ## Receipt And Classification Of Incidents, Weaknesses And Events
 
-1. All employees, supplier or other third party who is in contact with information and/or systems of Agile Lab must report any system weakness, incident or event which could lead to a possible incident must be reported to Manager or his/her appointed deputy.
-2. Incidents, weaknesses and events must be reported as soon as possible, by informing the manager to report incidents and create a ticket on PagerDuty; which may be followed via phone or in person.
-3. Users may report phishing, spam and malicious email by sending to dedicated email address.
+1. All employees, supplier or other third party who is in contact with information and/or systems of Agile Lab must report any system weakness, incident or event which could lead to a possible incident must be reported to Manager or his/her appointed deputy or email to report@agilelab.sg
+2. Incidents, weaknesses and events must be reported as soon as possible, by informing the manager to report incidents and create a ticket on [PagerDuty](https://www.pagerduty.com); which may be followed via phone or in person.
+3. Users may report phishing, spam and malicious email by sending to report@agilelab.sg
 4. The person who received the information must classify it in the following way:
 
-    1. security weakness or event – no incident occurred, but the event related to a system, process or organization may trigger the occurrence of an incident in the near or further future
+    1. security weakness(vulnerability) or event – no incident occurred, but the event related to a system, process or organization may trigger the occurrence of an incident in the near or further future
     2. minor incident – an incident which cannot significantly impact confidentiality or integrity of information, and cannot cause long-term unavailability
-    3. major incident – an incident which can incur significant damage due to loss of confidentiality or integrity of information, or may cause an interruption in the availability of information and/or processes for an unacceptable period of time
+    3. critical incident – an incident which can incur significant damage due to loss of confidentiality or integrity of information, or may cause an interruption in the availability of information and/or processes for an unacceptable period of time
 
 ## Treatment Process For Security Weaknesses Or Events
 
@@ -112,26 +113,28 @@
 
 1. If a minor incident was reported, the person who received the information must take the following steps:
 
-    1. Report the fault to incident management system
-    2. inform persons who were involved in the incident, as well as , about the incident treatment process
-    3. analyze the cause of the incident
-    4. take corrective actions to eliminate the cause of the incident
+    1. Report the fault to Manager/TL
+    2. Manager/TL will create an incident in PagerDuty
+    3. inform persons who were involved in the incident, as well as , about the incident treatment process
+    4. analyze the cause of the incident
+    5. take corrective actions to eliminate the cause of the incident
 
-3. For office automation systems, ICT assets, application systems (services) and network infrastructure, the TL, or an appointed deputy, will record the incident in a log book.
+3. For office automation systems, ICT assets, application systems (services) and network infrastructure, the TL, or an appointed deputy, will record the incident in PagerDuty.
 
-## Treating **Major**** Incidents**
+## Treating Critical Incidents
 
-1. In the case of major incidents that could disrupt activities for an unacceptable period of time, an incident response process, which may be part of the Business Continuity Plan activation, will be invoked.
+1. In the case of critical incidents that could disrupt activities for an unacceptable period of time, an incident response process, which may be part of the Business Continuity Plan activation, will be invoked.
 
-    1. Report the fault to incident management system
-    2. inform persons who were involved in the incident, as well as , about the incident treatment process
-    3. analyze the cause of the incident
-    4. take corrective actions to eliminate the cause of the incident
+    1. Report the fault to Manager/TL
+    2. Manager/TL will create an incident in PagerDuty
+    3. inform persons who were involved in the incident, as well as , about the incident treatment process
+    4. analyze the cause of the incident
+    5. take corrective actions to eliminate the cause of the incident
 
 ## Learning From Incidents
 
-1. TL or SA must review all minor incidents every three months, and enter recurring ones, or those which may turn into major incidents on the next occasion, in the Incident Log.
-2. TL or SA must analyze each incident recorded in the Incident Log (identifying type, relatedness, and cost of incident) and, if necessary, suggest preventive or corrective action.
+1. TL or SA must review all minor incidents every three months, and enter recurring ones, or those which may turn into major incidents on the next occasion, in the PagerDuty.
+2. TL or SA must analyze each incident recorded in the PagerDuty Incident Log (identifying type, relatedness, and cost of incident) and, if necessary, suggest preventive or corrective action.
 
 ## Disciplinary Actions
 
@@ -146,12 +149,10 @@
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Incident Log | Cloud Directory | TL | Only TL or his/her appointed deputy has the right to edit the log | 1 year |
+| Incident Log | [PagerDuty](https://pagerduty.com) | TL | TL | 1 year |
 | Post Morterm | Cloud Directory | TL | Only TL or his/her appointed deputy has the right to edit and update the post morterm | 1 year |
 
 # Appendices
-
-- Incident Logs
 
 ![Incident Management](./incident-handling-management.jpg)
 
