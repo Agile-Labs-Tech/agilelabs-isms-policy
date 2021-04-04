@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-06 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -83,7 +84,7 @@
 
 1. A nonconformity is any failure to meet the requirements of the standards, internal documentation, regulations, contractual and other obligations within the ISMS.
 2. Nonconformities can be identified during an internal or external audit, based on results of the management review, after incidents, during normal business operations or on any other occasion.
-3. An employee who notices a nonconformity must take immediate action to control it, contain it and correct it, and to deal with its consequences; if an employee is not responsible for such nonconformity he/she must forward information about that nonconformity to a responsible person, who must make a correction.
+3. An employee who notices a nonconformity must take immediate action to control it, contain it and correct it, and to deal with its consequences; if an employee is not responsible for such nonconformity he/she must forward information about that nonconformity to TL, who must appoint the responsible staff to make a correction.
 
 ## Corrective actions
 
@@ -103,10 +104,11 @@
 | 3. Identify if similar nonconformity already exists | Person responsible for the area where the nonconformity has been identified |
 | 4. Evaluating the need for action to eliminate the nonconformity | Person responsible for the area where the nonconformity has been identified |
 | 5. Determining the actions needed to eliminate the causes of nonconformity and to ensure that nonconformities do not recur | Person responsible for the area where the nonconformity has been identified |
-| 6. Implementation of planned actions | Person in charge of implementation, appointed by the person responsible |
-| 7. Reviewing whether the action taken resulted in the elimination of causes of nonconformity | TL |
-| 8. Informing all persons concerned that corrective action has been implemented | Person in charge of implementation, appointed by the person responsible |
-| 9. Making changes to the ISMS, if necessary | TL |
+| 6. Discuss actions required toeliminate the causes of nonconformity with the person whom identified the nonconformity or TL | Person responsible for the area where the nonconformity has been identified |
+| 7. Implementation of planned actions | Person in charge of implementation, appointed by the person responsible |
+| 8. Reviewing whether the action taken resulted in the elimination of causes of nonconformity | TL |
+| 9. Informing all persons concerned that corrective action has been implemented | Person in charge of implementation, appointed by the person responsible |
+| 10. Making changes to the ISMS, if necessary | TL |
 
 2. Each of the above steps must be recorded in the corrective action form.
 
