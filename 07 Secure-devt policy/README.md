@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-07 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -51,8 +52,6 @@
 
   - [Security requirements](#security-requirements)
 
-  - [Security requirements related to public networks](#security-requirements-related-to-public-networks)
-
   - [Checking and testing the implementation of security requirements](#checking-and-testing-the-implementation-of-security-requirements)
 
   - [Change control](#change-control)
@@ -89,7 +88,7 @@
 
 ## Risk assessment for the development process
 
-1. In addition to the risk assessment performed according to the Risk Assessment and Risk Treatment Methodology, the TL or ISM, IT &amp; Information Security (MIT) must periodically perform the assessment of the following:
+1. In addition to the risk assessment performed according to the Risk Assessment and Risk Treatment Methodology, the TL or ISM must periodically perform the assessment of the following:
 
     1. the risks related to unauthorized access to the development environment
     2. the risks related to unauthorized changes to the development environment
@@ -110,14 +109,6 @@
 2. This includes in-house developed application and database software; as well as software belonging to Agile Lab that is hosted in external data centres.
 3. This also applies to application software and database systems and services subscribed (by Agile Lab) from external software service providers.
 
-## Security requirements related to public networks
-
-1. The SA is responsible for defining security controls related to information in application services passing over public networks:
-
-    1. the description of authentication systems to be used
-    2. the description of how confidentiality and integrity of information is to be ensured
-    3. the description of how non-repudiation of actions will be ensured
-
 ## Checking and testing the implementation of security requirements
 
 1. The SA is responsible to define the methodology, responsibilities and the timing of checking whether all the security requirements from the Security Requirements Specification have been met, and whether the system is acceptable for operations.
@@ -129,7 +120,8 @@
 ## Protection of test data
 
 1. Confidential data, as well as data that can be related to individual persons must not be used as test data.
-2. Exceptions may be approved only by the TL in which case SA must define how such test data are protected.
+2. All test data, must be dummy data.
+3. Exceptions may be approved only by the TL in which case SA must define how such test data are protected.
 
 ## Required security training
 
@@ -140,7 +132,7 @@
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Control for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| System implementation plan | Cloud Directory | TL | After all data has been recorded, any new additions or editing must be disabled | 1 year |
+| Project architecture | Cloud Directory | TL | After all data has been recorded, any new additions or editing must be a new version | 1 year |
 
 # Appendices
 
