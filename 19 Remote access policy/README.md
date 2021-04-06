@@ -66,10 +66,10 @@
 1. Managers/TL shall determine and approve the request for remote access for an Agile Lab employee.
 2. Managers/TL shall determine and approve the request for remote access on an ad hoc and as needed basis for a vendor or employee providing remote support for critical systems.
 3. Managers shall verify the identity and suitability of the remote access user with TL before granting the request.
-4. Manual will be provided to staff/vendor on how to install remote acacess software and usage.
+4. Manual will be provided to staff/vendor on how to install remote access software and usage.
 5. All Agile Lab users shall only provide the credentials for remote access upon the permission granted by Managers only.
 6. All Agile Lab users are required to ensure that remote access or control software will be inactive under normal circumstances.
-7. All vendor employees granted temporary remote access shall delete the remote control software as soon as the job is completed.
+7. All vendor granted remote access shall be advice to remove the remote control software [Team Viewer](https://www.teamviewer.com).
 8. Managers/TL, or their assigned deputies, shall maintain a remote access log; which shall contain the date, time, user (requestor) name and activities performed for every remote access login by a vendor employee.
 9. This log shall be available for audit purposes at any time.
 

@@ -404,7 +404,7 @@
     1. Users are responsible for complying with the following password standards:
 
         1. Passwords must never be shared with another person (Note: The user&#39;s password may be reset, if required).
-        2. Passwords must, where possible, have a minimum length of eight (8) characters.
+        2. Passwords must, where possible, have a minimum length of 12 characters.
         3. When creating a password, it is important not to use words that can be found in dictionaries or words that are easily guessed due to their association with the user (i.e. children&#39;s names, pets&#39; names, birthdays, etc.). A combination of alpha and numeric characters are more difficult to guess.
         4. Can generate using [Lastpass](http://lastpass.com) random password generator.
 
