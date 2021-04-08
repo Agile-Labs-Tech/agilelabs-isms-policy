@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-17 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 08 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -69,20 +70,18 @@
 
 # Procedures
 
-1. TL will go through a selection and evaluation process to select the vendors for the supply of the OA PCs and graphics workstations. This process may be conducted annually or at a frequency decided by the ISM.
-2. Appropriate vendors will be invited to submit quotations for the specified models and configurations.
-3. The appointed vendors shall enter into a contractual agreement with Agile Lab – to supply the PCs and workstations at agreed prices, which shall be valid for the duration of the contract. The appointed vendors may supply the PCs and workstations at prices lower than the contracted price. The appointed vendors may not supply the PCs and workstations at prices higher than the contracted pricing.
-4. TL shall specify the models and configurations for ICT hardware and software.
-5. Purchase requisitions for office automation (OA) laptop, desktop personal computers (PCs), and Apple iMacs or Macbook Pros for graphics workstations shall be restricted to pre-approved models and configurations specified by TL.
-6. For ICT hardware and software other than OA PCs and graphics workstations, users shall specify the usage requirements and features.
-7. Purchases for all ICT hardware and software shall be evaluated by TL.
-8. All requisition for purchases for ICT hardware and software must be approved by the ISM.
+1. ISM will go through a selection and evaluation process to select the vendors for the supply of the OA PCs and workstations. This process may be conducted annually or at a frequency decided by the ISM.
+2. The appointed vendors shall enter into a contractual agreement with Agile Lab – to supply the PCs and workstations at agreed prices, which shall be valid for the duration of the contract. The appointed vendors may supply the PCs and workstations at prices lower than the contracted price. The appointed vendors may not supply the PCs and workstations at prices higher than the contracted pricing.
+3. TL shall specify the models for ICT hardware and software.
+4. Purchase requisitions for office automation (OA) laptop, desktop personal computers (PCs), and Apple iMacs or Macbook Pros for workstations shall be restricted to pre-approved models specified by TL.
+5. For ICT hardware and software other than OA PCs and workstations, users shall specify the usage requirements and features.
+6. Purchases for all ICT hardware and software shall be evaluated by TL.
+7. All requisition for purchases for ICT hardware and software must be approved by the ISM.
 
 # Records Management
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Vendor agreement contract for supply of OA PCs and graphics workstations | shared folder | TL | ISM | 1-year or period of contract |
-| Quotations from invited vendors | shared folder | TL | ISM | 1-year |
+| Vendor agreement contract for supply of OA PCs and workstations | shared folder | TL | ISM | 1-year or period of contract |
 
 <div align="center"> **Internal** </div>
