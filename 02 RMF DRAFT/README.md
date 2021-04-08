@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-02 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 08 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -86,8 +87,8 @@
 # Validity And Document Management
 
 1. This document is valid as of the date stated on the cover of this document.
-2. The owner of this document is SA; who shall check and, if necessary, update the document at least once a year, before the regular review of existing risk assessment.
-3. SA may appoint a deputy to carry out the updating of the documents.
+2. The owner of this document is ISM; who shall check and, if necessary, update the document at least once a year, before the regular review of existing risk assessment.
+3. ISM may appoint a deputy to carry out the updating of the documents.
 4. When evaluating the effectiveness and adequacy of this document, the following criteria need to be considered:
 
     1. the number of incidents which occurred, but were not included in risk assessment
@@ -101,7 +102,7 @@
 ### The Process
 
 1. Risk assessment is implemented through the Risk Assessment Table.
-2. The risk assessment process is coordinated by SA, identification of threats and vulnerabilities is performed by asset owners, and assessment of consequences and likelihood is performed by risk owners.
+2. The risk assessment process is coordinated by ISM, identification of threats and vulnerabilities is performed by asset owners, and assessment of consequences and likelihood is performed by risk owners.
 
 ### Assets, Vulnerabilities and Threats
 
@@ -146,7 +147,7 @@
 
 ## Risk Treatment
 
-1. Risk treatment is implemented through the Risk Treatment Table, which consists of all risks identified as unacceptable from the Risk Assessment Table. Risk treatment is conducted by SA.
+1. Risk treatment is implemented through the Risk Treatment Table, which consists of all risks identified as unacceptable from the Risk Assessment Table. Risk treatment is conducted by ISM.
 2. One or more treatment options must be selected for risks valued 3 and 4:
 
     1. Selection of security control or controls from Annex A of the ISO/IEC 27001 standard or some other security controls
@@ -165,22 +166,22 @@
 
 ## Statement of Applicability And Risk Treatment Plan
 
-1. System Administrator(SA) must document the following in the Statement of Applicability: which security controls from Annex A of the ISO/IEC 27001 standard are applicable and which are not, the justification for such decisions, and whether they are implemented or not.
+1. ISM must document the following in the Statement of Applicability: which security controls from Annex A of the ISO/IEC 27001 standard are applicable and which are not, the justification for such decisions, and whether they are implemented or not.
 2. On behalf of the risk owners, Technical Lead (TL) will accept all residual risks through the risk treatment plan and risk assessment.
-3. SA will prepare the Risk treatment plan in which the implementation of controls will be planned. On behalf of the risk owners, TL will approve the risk treatment plan.
+3. ISM will prepare the Risk treatment plan in which the implementation of controls will be planned. On behalf of the risk owners, TL will approve the risk treatment plan.
 
 ## Reporting
 
-1. SA will document the results of risk assessment and risk treatment, and all of the subsequent reviews, in the Risk Assessment and Treatment Report.
+1. TL will document the results of risk assessment and risk treatment, and all of the subsequent reviews, in the Risk Assessment and Treatment Report.
 2. SA will monitor the progress of implementation of the Risk treatment plan and report the results to TL each quarter.
 
 # Records Management
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Control for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Risk Assessment Table | Cloud directory | TL | Only TL has the right to make entries into and changes to the Risk Assessment Table | Data is stored permanently |
-| Risk Assessment and Treatment Report | Cloud directory | TL | The Report is prepared in read-only PDF format | The Report is stored for a period of 1 year |
-| Risk treatment plan | Cloud directory | TL | Only TL has the right to make entries into and changes to the Risk treatment plan | Older versions of Risk treatment plan are stored for a period of 1 year |
+| Risk Assessment Table | Cloud directory | ISM | Only ISM or TL has the right to make entries into and changes to the Risk Assessment Table | 1 year |
+| Risk Assessment and Treatment Report | Cloud directory | ISM | The Report is prepared in read-only PDF format | The Report is stored for a period of 1 year |
+| Risk treatment plan | Cloud directory | ISM | Only ISM or TL has the right to make entries into and changes to the Risk treatment plan | Older versions of Risk treatment plan are stored for a period of 1 year |
 
 Only the TL can grant other employees access to any of the abovementioned documents.
 
