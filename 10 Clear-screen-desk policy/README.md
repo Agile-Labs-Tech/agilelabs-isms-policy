@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-10 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 08 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -69,7 +70,7 @@
 3. TL may appoint a deputy to update the document.
 4. When evaluating the effectiveness and adequacy of this document, the following criteria must be considered:
 
-    1. number of incidents related to unauthorized access to information on desks, printers, photocopiers, fax machines, work stations, etc.
+    1. number of incidents related to unauthorized access to information on desks, printers, work stations, etc.
 
 # Clear Desk And Clear Screen Policy
 
@@ -79,7 +80,7 @@
 
 ### Clear desk policy
 
-1. If the authorized person is not at his/her workplace, all paper documents, as well as data storage media labeled as sensitive, must be removed from the desk or other places (printers, fax machines, photocopiers, etc.) to prevent unauthorized access.
+1. If the authorized person is not at his/her workplace, all paper documents, as well as data storage media labeled as sensitive, must be removed from the desk or other places (printers etc.) to prevent unauthorized access.
 2. Such documents and media must be stored in a secure manner in accordance with the Information Security Policy.
 
 ### Clear screen policy
@@ -93,7 +94,7 @@
 1. Documents containing sensitive information must immediately be removed from printers, fax and copy machines.
 2. Shared print-scan-copy machines in the office are protected by going into a locked screen mode when the system is unattended.
 3. The screen may be unlocked when a user types in the correct personal identification number or PIN (or passcode) that has been assigned to him or her; or, using the staff access card.
-4. Unauthorized use of printers, photocopiers, scanners and other shared equipment for copying by prevented using the PIN or staff card access features.
+4. Unauthorized use of printers and other shared equipment for copying by prevented using the PIN or staff card access features.
 
 # Appendices
 
