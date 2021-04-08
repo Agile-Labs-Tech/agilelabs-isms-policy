@@ -79,7 +79,7 @@
 2. All staff are required to acknowledge the ISMS policy before signing the contracts.
 3. The **TL** shall communicate the essential elements of the ISMS to the employees, once the contracts is signed.
 4. The information and implementation of ISMS can be given thru different type of modes, it may include, but not limited to, the following:
-    1. Induction and Briefing of Staff
+    1. Introduction and Briefing of Staff
     2. Proficiency level of the skills as identified in the job criteria.
     3. Email Correspondence
     4. On Job Training
