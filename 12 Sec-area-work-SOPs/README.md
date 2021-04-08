@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-12 |
-| Revision No. | 0.3 |
+| Revision No. | 0.4 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 08 Apr 2021 | 0.4 | - | Content update |
 | 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
@@ -121,6 +122,6 @@
 
 # Appendices
 
-None
+[Asset-lists](https://trello.com/b/yWW9R5rg/assets-managment)
 
 <div align="center"> **Internal** </div>
