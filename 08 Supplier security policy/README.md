@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-08 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 08 Apr 2021 | 0.3 | - | Content update of appointments |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -87,7 +88,7 @@
 
 # Relationship With Suppliers And Partners
 
-## 4.1 Identifying the risks
+## Identifying the risks
 
 1. Security risks related to suppliers, vendors, service providers and partners are identified during the risk assessment process, as defined in the Risk Assessment and Risk Treatment Methodology.
 
@@ -117,13 +118,13 @@
 ## Monitoring and review
 
 1. Contract owner must regularly check and monitor the level of service and fulfillment of security clauses by suppliers, vendors, service providers or partners.
-2. Reports and records created by the supplier, vendor, service provider or partner, should be inspected; as well as to audit the supplier, vendor, service provider or partner at least once a year.
+2. Reports and records created by the supplier, vendor, service provider or partner, may be inspected; as well as may request to audit the supplier, vendor, service provider or partner at least once a year.
 3. All the security incidents related to the partner&#39;s, supplier&#39;s, vendor&#39;s or service provider&#39;s job or activities related to Agile Lab must be immediately forwarded or escalated to TL.
 
 ## Changes or termination of supplier services
 
 1. Contract owner proposes changes or termination of the contract, and ISM makes the final decision.
-2. If necessary, SA will perform a new risk assessment before the changes are accepted.
+2. If necessary, TL will perform a new risk assessment before the changes are accepted.
 
 ## Removal of access rights or return of assets
 
