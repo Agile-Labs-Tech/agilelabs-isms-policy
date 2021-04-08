@@ -102,6 +102,7 @@
 3. The secure environment is provisioned by using a separate network segment for testing.
 4. Software may be developed in-house and outsourced to external software vendors.
 5. For software developed and hosted by third parties, and used by Agile Lab on a subscription basis, the service provider will also be required to ensure a secure development environment for the implementation of new and upgrade systems.
+6. In the event that third parties doesn't have a secure development environment for implemented, the upgrade will be done within our secure development environment.
 
 ## Security requirements
 
