@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-11 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 08 Apr 2021 | 0.2 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -94,7 +95,7 @@
 ## Mobile storage media
 
 1. TL, or his/her appointed deputy, is responsible for erasing data from mobile storage media.
-2. Data must be erased by using Windows operating systems to reformat the media.
+2. Data must be erased by reformat the media.
 3. If the erasure process is not secure enough considering the sensitivity of the data, then the storage medium must be destroyed.
 
 ## Paper media
@@ -112,10 +113,10 @@
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Control for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Erasure/destruction records – in paper form | Cloud Directory &amp; shared folder | TL | The cabinet is locked, the keys are kept by ISM and his/her appointed deputy | 1 year |
+| Erasure/destruction records | Cloud Directory &amp; shared folder | TL | The cabinet is locked | 1 year |
 
 # Appendices
 
-None
+Erasure and destruction records
 
 <div align="center"> **Internal** </div>
