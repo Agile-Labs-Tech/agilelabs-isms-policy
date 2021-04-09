@@ -145,10 +145,6 @@ If an event occurs outside normal business hours that renders a facility uninhab
 
 Upon activation of the Business Continuity Plan, the Business Owner or designee will be responsible for notifying the alternate site, if appropriate, of their impending arrival.
 
-### Relocation Strategy
-
-Agile Lab adopts a teleworking strategy even during normal peace times. However, in the event your current workstation/ is being disrupted,
-
 ## Internal Communication Procedures
 
 ### Staff Accountability
@@ -174,7 +170,7 @@ Agile Lab uses teleworking as our alternate site strategy. Agile Lab employees w
 
 ## Orders of succession and delegations of authority
 
-Orders of succession are pre prepared to provide clarity of senior leadership roles in the event that individuals in these roles, whether they will be decision-making or management roles are unavailable. A delegation authority provides successors with the legal authorization to act on behalf of critical positions within the organaisation for specific purposes and duties.
+Orders of succession are pre prepared to provide clarity of senior leadership roles in the event that individuals in these roles, whether they will be decision-making or management roles are unavailable. A delegation authority provides successors with the legal authorization to act on behalf of critical positions within the organisation for specific purposes and duties.
 
 | Position to be Succeeded | Successors | Delegated Authorities | Activation and Termination Triggers |
 | --- | --- | --- | --- |
