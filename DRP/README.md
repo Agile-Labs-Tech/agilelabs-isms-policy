@@ -132,41 +132,43 @@ This strategy entails the maintenance of all intellectual property and data whic
 
 | Potential Disaster | List of Threats | Likelyhood | Impact Rating | Brief Description Of Potential Remedial Actions |
 | --- | --- | --- | --- | --- |
-| Natural/Man Made Disasters | Fire | 2 | 4 | Fire - Fire and smoke detectors on all corridor. Fire extinguisher in office.Flood, unihabitable facility, interruption of power supply - Telework.Disruption of internet - 1) Use mobile data 2) Satellite Internet (VSAT)
-| | Flood | 2 | 4 |
-| | Uninhabitable Facility | 2 | 4 |
-| | Disruption of internet | 2 | 4 |
-| | Interruption of power supply | 2 | 4 |
-| Terrorism/War/Civil-War | Fire | 1 | 4 | Fire - Fire and smoke detectors on all corridor. Fire extinguisher in office.Flood, uninhabitable facility, interruption of power supply - Telework.Disruption of internet - 1) Use mobile data 2) Satellite Internet (VSAT) |
-| | Flood | 1 | 4 |
-| | Uninhabitable Facility | 1 | 4 |
-| | Disruption of internet | 1 | 4 |
-| | Interruption of power supply | 1 | 4 |
-| Cyber Attack | Distributed denial-of-service (DDoS) attack | 3 | 5 | Hacking/Virus, Distributed denial-of-service (DDoS) attack, Competitor espionage, Destruction of records, Falsification of records , loss of customer data, - Revert older backup and deploy <br/> Cyber attacked, information leak, internal espionage, disclosure of password, Phishing, Eavesdropping/Surveillance - Password change workflow |
-| | Loss of customer data privacy/confidentiality | 3 | 5 |
-| | Falsification of records | 3 | 5 |
-| | Hacking/Virus/Malware/Ransomware | 3 | 5 |
-| | Phishing | 3 | 5 |
-| | Destruction of records | 3 | 5 |
-| | Disclosure of passwords | 3 | 5 |
-| | Eavesdropping/Surveillance | 3 | 5 |
-| Human Related | Theft of proprietary information or intellectual property | 2 | 4 | Information leak, internal espionage, destruction/ disclosure of password, - Password change workflow Loss of key personal - Keyman replacement Labour Strike - HR nego or replacement |
-| | Former employee misconduct involving info systems | 2 | 4 |
-| | Business partner(s) misconduct involving info systems | 2 | 4 |
-| | Competitor espionage | 2 | 4 |
-| | Internal espionage | 2 | 4 |
-| | Accidental change of information system data | 2 | 4 |
-| | Breach of contractual relations | 2 | 4 |
-| | Destruction of records | 2 | 4 |
-| | Disclosure of passwords | 2 | 4 |
-| | Embezzlement | 2 | 4 |
-| | Leakage/disclosure of information | 2 | 4 |
-| | Loss of Service Provider | 2 | 4 |
-| | Loss of Keyman | 2 | 4 |
-| | Labour Strike | 2 | 4 |
-| System Related | Critical Application bugs/error | 2 | 4 | Critical Application bugs/error Damage incurred during penetration testing Equipment Failure - Revert older backup and deploy |
-| | Damage incurred during penetration testing | 2 | 4 |
-| | Equipment Failure | 2 | 4 |
+| Natural/Man Made Disasters | Fire | 1 | 5 | [Natural Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/natural.pdf) |
+| | Flood | 1 | 5 | [Natural Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/natural.pdf) |
+| | Uninhabitable Facility | 1 | 3 | [Natural Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/natural.pdf) |
+| | Disruption of internet | 1 | 5 | [Natural Scenario 2](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/natural.pdf) |
+| | Interruption of power supply | 1 | 5 | [Natural Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/natural.pdf) |
+| |
+| Terrorism/War/Civil-War | Fire | 1 | 5 | [Natural Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/natural.pdf) |
+| | Flood | 1 | 5 | [Natural Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/natural.pdf) |
+| | Uninhabitable Facility | 1 | 3 | [Natural Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/natural.pdf) |
+| | Disruption of internet | 1 | 5 | [Natural Scenario 2](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/natural.pdf) |
+| | Interruption of power supply | 1 | 5 | [Natural Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/natural.pdf) |
+| |
+| Cyber Attack | Distributed denial-of-service (DDoS) attack | 1 | 5 | [Cyber Scenario 4](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/cyber.pdf) |
+| | Loss of customer data privacy/confidentiality | 3 | 5 | [Cyber Scenario 3](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/cyber.pdf) |
+| | Falsification of records | 3 | 5 | [Cyber Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/cyber.pdf) |
+| | Hacking/Virus/Malware/Ransomware | 2 | 5 | [Cyber Scenario 4](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/cyber.pdf) |
+| | Phishing | 4 | 4 | [Cyber Scenario 3](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/cyber.pdf) |
+| | Destruction of records | 1 | 5 | [Cyber Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/cyber.pdf) |
+| | Disclosure of passwords | 3 | 5 | [Cyber Scenario 3](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/cyber.pdf) |
+| | Eavesdropping/Surveillance | 1 | 5 | [Cyber Scenario 3](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/cyber.pdf) |
+| |
+| Human Related | Theft of proprietary information or intellectual property | 1 | 5 | [Human Related Scenario 4](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/human-related.pdf) |
+| | Former employee misconduct involving info systems | 1 | 5 | [Human Related Scenario 2](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/human-related.pdf) |
+| | Business partner(s) misconduct involving info systems | 1 | 5 | [Human Related Scenario 2](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/human-related.pdf) |
+| | Competitor espionage | 1 | 4 | [Human Related Scenario 2](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/human-related.pdf) |
+| | Internal espionage | 1 | 4 | [Human Related Scenario 2](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/human-related.pdf) |
+| | Accidental change of information system data | 1 | 4 | [Human Related Scenario 2](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/human-related.pdf) |
+| | Destruction of records | 2 | 5 | [Human Related Scenario 2](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/human-related.pdf) |
+| | Embezzlement | 2 | 4 | [Human Related Scenario 4](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/human-related.pdf) |
+| | Leakage/disclosure of information | 3 | 4 | [Human Related Scenario 3](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/human-related.pdf) |
+| | Loss of Major Service Provider | 1 | 4 | [Human Related Scenario 2](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/human-related.pdf) |
+| | Loss of Keyman | 1 | 5 | [Human Related Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/human-related.pdf) |
+| | Labour Strike | 1 | 4 | [Human Related Scenario 3](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/human-related.pdf) |
+| |
+| System Related | Critical Application bugs/error | 1 | 4 | [Cyber Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/cyber.pdf) |
+| | Damage incurred during penetration testing | 1 | 4 | [Cyber Scenario 1](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/cyber.pdf) |
+| | Equipment Failure | 1 | 5 | [Cyber Scenario 2](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/cyber.pdf) |
 
 ## Alert, escalation and plan invocation
 
