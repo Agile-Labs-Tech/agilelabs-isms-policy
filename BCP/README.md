@@ -115,7 +115,7 @@ The following are the list of threats.
 
 [Risk Assessment - Risk Treatment Plan](https://docs.google.com/spreadsheets/d/1lAk-dpouK3V5lCtFuqhAyGmTNxUinwm1/edit?usp=drive_web&ouid=111900017263094652571&rtpof=true)
 
-## 6 Critical Business Functions
+## Critical Business Functions
 
 ### Overview
 
