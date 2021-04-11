@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-21 |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 11 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
 | 25 Mar 2021 | 0.1 | - | Final version for release |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -82,12 +83,11 @@
     1. criticality of the application processes;
     2. value, sensitivity or criticality of the information involved;
     3. past experience of system infiltration and misuse;
-5. Whenever suspicious activities are identified or thresholds of specific security-related events are exceeded, the Information Security Manager shall conduct the appropriate follow-up activities and record the course of action taken. A summary report of information security monitoring should be produced and submitted to the Risk Management Committee for review.
-6. For significant security issues or the discovery of signs of successful system intrusion, the Information Security Manager shall report the case to a member of the Risk Management Committee and invoke the Incident Management Procedures.
-7. Privileged user accounts must be granted on a &quot;need to know&quot; and least privileged access basis; that is, to give users the minimum amount of privileges needed to perform their jobs adequately.
-8. Privileged accounts shall not be used for day-to-day access; like those required to perform daily or periodic administration and/or operation activities.
-9. All privileged accounts must be approved and designated to an individual owner for accountability.
-10. Privileged accounts and user access rights shall be reviewed on a periodic basis.
+5. For significant security issues or the discovery of signs of successful system intrusion, the Information Security Manager shall invoke the Incident Management Procedures.
+6. Privileged user accounts must be granted on a &quot;need to know&quot; and least privileged access basis; that is, to give users the minimum amount of privileges needed to perform their jobs adequately.
+7. Privileged accounts shall not be used for day-to-day access; like those required to perform daily or periodic administration and/or operation activities.
+8. All privileged accounts must be approved and designated to an individual owner for accountability.
+9. Privileged accounts and user access rights shall be reviewed on a periodic basis.
 
 # Appendices
 
