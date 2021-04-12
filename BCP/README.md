@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | BCP |
-| Revision No. | 0.1 |
+| Revision No. | 0.2 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 12 Apr 2021 | 0.2 | - | Update Approved By |
 | 08 Apr 2021 | 0.1 | - | Content update |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
 
@@ -30,7 +31,7 @@
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| Jack Cam | Chief Security Officer | 12 Dec 2020 |
+| Sujata Liao | Director | 12 Dec 2020 |
 
 ## Contents
 

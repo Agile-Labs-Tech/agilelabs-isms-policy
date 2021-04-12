@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-12 |
-| Revision No. | 0.4 |
+| Revision No. | 0.5 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 12 Apr 2021 | 0.5 | - | Update Approved By |
 | 08 Apr 2021 | 0.4 | - | Content update |
 | 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
@@ -33,7 +34,7 @@
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| Jack Cam | Chief Security Officer | 12 Dec 2020 |
+| Sujata Liao | Director | 12 Dec 2020 |
 
 # Contents
 
