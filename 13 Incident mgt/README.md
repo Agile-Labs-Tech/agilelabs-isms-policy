@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-13 |
-| Revision No. | 0.4 |
+| Revision No. | 0.5 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 13 Apr 2021 | 0.5 | - | Added resolve incident timeline |
 | 12 Apr 2021 | 0.4 | - | Update Approved By |
 | 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
@@ -131,6 +132,16 @@
     3. inform persons who were involved in the incident, as well as , about the incident treatment process
     4. analyze the cause of the incident
     5. take corrective actions to eliminate the cause of the incident
+
+## Timeline to Resolve Incidents
+
+| **Rating**   | **Definition**   |
+| --- | --- |
+| CRIT  | Urgent application - Apply within 1 month  |
+| MINOR  | Applying during the regular course of operation - At least once every 3 to 6 months  |
+| VUL  | Applying with the next update |
+| ENH  | Project not affected, to apply during the course of development |
+| NOIMPA  | Project not affected.  |
 
 ## Learning From Incidents
 
