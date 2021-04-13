@@ -108,6 +108,7 @@
   9. All departmental procedures must be consistent with this policy.
   10. All systems implemented after the effective date of these policies are expected to comply with the provisions of this policy where practicable.
   11. Existing systems are expected to be brought into compliance where possible and within practical timeframes.
+  12. The certification scope is for Software, Web and Mobile Application Development.
 
 # Scope
 
