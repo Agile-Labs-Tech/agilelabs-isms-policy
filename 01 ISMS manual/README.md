@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-01 |
-| Revision No. | 0.4 |
+| Revision No. | 0.5 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 13 Apr 2021 | 0.5 | - | Update of Objective and measurement and content |
 | 12 Apr 2021 | 0.4 | - | Update Approved By |
 | 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
@@ -121,11 +122,14 @@
 
 | **Capability or Competency Area** | **Measurement Criteria** |
 | --- | --- |
-| Files containing particulars, information and/or private data | Zero (0) number of breaches per month |
-| Data privacy and protection for intellectual property and confidential records for the organization and clients | Zero (0) number of breaches per month |
+| Files containing particulars, information and/or private data | Measured by incident report declared via PagerDuty |
+| Data privacy and protection for intellectual property and confidential records for the organization and clients | Measured by incident report declared via PagerDuty |
+| Vulnerability protection on server environment | Web: To conduct VAPT yearly <br/> Server: Sopho Scan <br/> Source Code: Sonarqube <br/> Based on [criticality](https://gitlab.com/agilelab/isms-policy/-/tree/master/13%20Incident%20mgt)|
+| Least Privilege Access Control | Managemment will conduct ad-hoc checks within every 3 months |
+| ISMS Awareness | Awareness training to be conducted every 6 months, or as and when required |
 
 3. The Information Security Manager (ISM) is responsible to review existing and set new ISMS objectives.
-4. The objectives for the specific security controls or groups of controls are proposed by the Technical Leader (TL), and will be approved by the Chief Security Officer (CSO).
+4. The objectives for the specific security controls or groups of controls are proposed by the Technical Leader (TL), and will be approved by the ISM.
 5. All objectives will be reviewed at least once annually, or as and when there are significant changes.
 6. Agile Lab will measure the fulfilment of the objectives.
 7. The measurements will be performed at least once a year by the SA/TL.
@@ -218,7 +222,7 @@
 
     1. **Ownership of Software:** All computer software developed by the Organisation&#39;s employees or contract personnel on behalf of the Organisation or licensed for the Organisation to use is the property of the Organisation; such software must not be copied for personal use, unless otherwise specified by the license agreement.
     2. **Installed Software:** All software packages that reside on computers and networks within the Organisation must comply with applicable licensing agreements and restrictions and must comply with Agile Lab&#39;s acquisition policies.
-    3. **Virus Protection:** Virus checking systems approved by the TL or SA must be deployed using a multi-layered approach (desktops, servers, gateways, etc.), that ensures all electronic files are appropriately scanned for viruses. Users are not authorized to turn off or disable virus checking systems. The SA may check and verify if the virus definition files are updated on the servers, desktops or notebooks, and if the systems are infected.
+    3. **Virus Protection:** Virus checking systems approved by the TL or SA must be deployed using a multi-layered approach (desktops, servers, etc.), that ensures all electronic files are appropriately scanned for viruses. Users are not authorized to turn off or disable virus checking systems. The SA may check and verify if the virus definition files are updated on the servers, desktops or notebooks, and if the systems are infected.
     4. **Access Controls:** Physical and electronic access to Confidential and Internal information and computing resources is controlled. To ensure appropriate levels of access by employees, a variety of security measures as recommended by the SA, and approved by the TL, will be implemented. Mechanisms to control access to Confidential and Internal information include (but are not limited to) the following methods:
 
         1. **Authorization:** Access will be granted on a least privilege access basis and must be authorized by the immediate supervisor and application owner with the assistance of the SA. Any of the following methods are acceptable for providing access under this policy:
@@ -244,13 +248,13 @@
 | **Name of system / network / service / physical area** | **Intervals for regular review** |
 | --- | --- |
 | Office | Once per year; or whenever there are significant changes |
+| Third party software | Once per year; or whenever there are significant changes |
 
   1. **Data Integrity:** the Organisation shall ensure that Confidential and Internal Information has not been altered or destroyed in an unauthorized manner. Listed below are some methods that support or protect data integrity:
 
       1. [disk redundancy](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/raid-config.html) (RAID)
       2. [ECC](https://aws.amazon.com/ec2/faqs) (Error Correcting Memory)
-      3. encryption of data in storage
-      4. digital signatures
+      3. [encryption of data in storage](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html)
 
   2. **Transmission Security:** Technical security mechanisms must be put in place to guard against unauthorized access to data that is transmitted over a communications network, including wireless networks. The following features must be implemented:
 
@@ -426,16 +430,10 @@
 1. An encryption key specifies the particular transformation of plain text into cipher text, or vice versa during decryption.
 2. If justified by risk analysis, sensitive data and files shall be encrypted before being transmitted through networks. When encrypted data are transferred between organizations, the organizations shall devise a mutually agreeable procedure for secure key management. In the case of conflict, the Organisation shall establish the criteria in conjunction with the TL or appropriate personnel. The Organisation employs several methods of secure data transmission.
 
-## Installation of authentication and encryption certificates on the e-mail system
-
-1. Any user desiring to transfer secure e-mail with a specific identified external user may request to exchange public keys with the external user, shall contact the TL.
-2. Once verified, the certificate is installed on each recipient workstation, and the two may safely exchange secure e-mail.
-
-## Use of WinZip encrypted and zipped e-mail
+## Use of encrypted and zipped e-mail
 
 1. This software allows employees to exchange e-mail with remote users who have the appropriate encryption software on their system.
-2. The two users exchange private keys that will be used to both encrypt and decrypt each transmission.
-3. Any employee who desires to utilize this technology may request this software from the SA.
+2. Any employee who desires to utilize this technology may request this software from the SA.
 
 ## File Transfer Protocol (FTP)
 
@@ -478,10 +476,8 @@
 
 ## Wireless Usage Standards and Policy
 
-1. Due to an emergence of wireless access points in public areas, hotels, airports, and in homes, a Wireless Usage policy is adopted to ensure the security and functionality of such connections for employees. This policy outlines the processes and procedures for acquiring wireless access privileges, utilizing wireless access, and ensuring the security of the Organisation&#39;s laptops and mobile devices.
-2. Approval Procedure **-** In order to be granted the ability to utilize the wireless network interface on the employees&#39; laptop or mobile device, each employee will be required to gain the approval of your department manager and TL. Once approved the employee will need to follow the guidelines.
-3. Guest Access – Wireless access for guests are provisioned using a separate network, or filtered using the wireless access point filter control. This network is separate from the internal office network.
-4. Software Requirements **-** The following is a list of minimum software requirements for any laptop that is granted the privilege to use wireless access:
+1. Guest Access – Wireless access for guests are provisioned using a separate network, or filtered using the wireless access point filter control. This network is separate from the internal office network.
+2. Software Requirements **-** The following is a list of minimum software requirements for any laptop that is granted the privilege to use wireless access:
 
     1. Windows 10 (Firewall enabled) or MacOS
     2. Antivirus software
