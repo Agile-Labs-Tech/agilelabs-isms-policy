@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 15 Apr 2021 | 0.4 | - | Update Content |
 | 12 Apr 2021 | 0.4 | - | Update Approved By |
 | 03 Apr 2021 | 0.3 | - | Content update |
 | 31 Mar 2021 | 0.2 | - | Content update |
@@ -52,7 +53,7 @@
 # Purpose, Scope And Users
 
 1. The purpose of this document is to define the policy for firewall administration.
-2. This document is applicable to all firewall systems deployed in and supporting the Corporate Information Technology (IT) and operation technology (OT) infrastructure; as well as for firewall systems and equipment deployed to support outsourced services and infrastructure, that are managed by IT.
+2. This document is applicable to all firewall systems deployed in and supporting the Corporate Information Technology (IT); as well as for firewall systems and equipment deployed to support outsourced services and infrastructure, that are managed by IT.
 3. The scope is applicable to the provisioning of preventive and corrective maintenance services by the external vendors and service providers for the firewall hardware, software and firmware.
 
 # Related Documents
@@ -68,18 +69,16 @@
 # Procedures
 
 1. IT personnel providing administrative support for a firewall shall be authorized and issued with individual administrator accounts and password. Refer to [ISMS-01 Section 8](../01%20ISMS%20manual/README.md#computer-and-information-control) for more details.
-2. The designated IT personnel shall conduct daily reviews of the firewall logs; which shall include traffic, threat, URL filtering, sandbox submission and any alerts detected by the firewall.
+2. The designated IT personnel shall conduct reviews of the firewall logs; which shall include traffic, threat, URL filtering, sandbox submission and any alerts detected by the firewall.
 3. The designated IT personnel shall conduct a monthly review of firewall rules, and identify the obsolete rules or weak protocols, and determine appropriate rules and actions to further mitigate the risks and strengthen the fire policies and/or rules.
 4. The designated IT personnel shall ensure the firewall is the logs are protected against unauthorized changes.
-5. The designated IT personnel shall review and ensure the firewall performance and capacity is adequate to monitor inbound and outbound network traffic and packets.
-6. The firewall hardware, software and firmware shall be updated and upgraded according to established preventive and corrective maintenance standard operating procedures; including testing and implementing improvements according to the secure development policy.
+5. The firewall hardware, software and firmware shall be updated and upgraded according to established preventive and corrective maintenance standard operating procedures; including testing and implementing improvements according to the secure development policy.
 
 # Records Management
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
 | Firewall policy | Cloud Directory | SA | TL | 1-year from amendment time |
-| Firewall preventive maintenance | Cloud Directory | SA | TL | 1-year |
-| Firewall corrective maintenance | Cloud Directory | SA | TL | 1-year |
+| Firewall maintenance | Cloud Directory | SA | TL | 1-year |
 
 <div align="center"> **Internal** </div>
