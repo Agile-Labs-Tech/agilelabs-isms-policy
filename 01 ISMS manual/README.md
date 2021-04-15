@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 15 Apr 2021 | 0.5 | - | Update of Content |
 | 13 Apr 2021 | 0.5 | - | Update of Objective and measurement and content |
 | 12 Apr 2021 | 0.4 | - | Update Approved By |
 | 03 Apr 2021 | 0.3 | - | Content update |
@@ -159,7 +160,7 @@
 
 # Information Security Responsibilities
 
-1. Technical Leader (TL): The role of the TL will be performed by the SA, and is responsible to:
+1. Technical Leader (TL): The role of the TL can be delegated to the SA, and is responsible to:
 
     1. Assist the Management Representative (TL) to develop and implement the information security policy.
     2. Assist the Manager and users to develop and implement relevant procedures and standards to comply with the information security policy.
@@ -179,7 +180,7 @@
     5. Specify and communicate the control requirements to the custodian and users of the information.
     6. Report promptly to the TL or SA – the loss or misuse of organizational information.
     7. Initiate corrective actions when problems are identified.
-    8. Promote employee information security education and awareness by utilizing programs approved by the SA, where appropriate.
+    8. Promote employee information security education and awareness by utilizing programs approved by the TL, where appropriate.
     9. Follow existing approval processes within the Organisation for the selection, budgeting, purchase, and implementation of any computer system/software to manage information.
 
 3. Custodian: The custodian of information is generally responsible for the processing and storage of the information. The custodian is responsible for the administration of controls as specified by the owner. Responsibilities may include:
@@ -359,7 +360,7 @@
   14. **Employee termination**: When an employee&#39;s term of service ends, the organization carry out the following procedures:
 
       1. The Technical Leader (TL) will back up or transfer the data within the PC and documents into Organization [IDrive](https://www.idrive.com) account.
-      2. The SA will deactivate the employee&#39;s email login ID and passwords – at least 1 hour before the employee leaves; whenever an instruction is received from HR or the Manager whichever is earlier.
+      2. The ISM will deactivate the employee&#39;s email login ID and passwords – at least 1 hour before the employee leaves; whenever an instruction is received from HR or the Manager whichever is earlier.
       3. For 1 month from the last day of an employee&#39;s service, emails for this account will be forwarded to Manager – who will notify clients or external parties the change of employees taking over the case or account.
       4. On an employee&#39;s last day of work, the employee is to submit an exit clearance form and return all information and communications technology (ICT) assets to TL. TL is to inspect the returned ICT assets, and will sign the exit clearance form to acknowledge that all ICT assets issued to the employee is returned in satisfactory condition. The TL may seek advice from HR, if necessary.
 
@@ -384,7 +385,7 @@
 1. It is the responsibility of employees as users to report all security incidents or violations of the security policy immediately to the manager or TL. Potential or perceived security incident should also be reported.
 2. Each reported incident will be investigated by the SA/TL. TL will determine if changes in the existing security structure are necessary.
 3. All reported incidents are logged and the remedial action shall also be recorded.
-4. The SA is responsible to provide training on any procedural changes that may be required as a result of the investigation of an incident.
+4. The TL is responsible to provide training on any procedural changes that may be required as a result of the investigation of an incident.
 5. If criminal action is suspected, the TL or management shall contact the appropriate law enforcement and investigative authorities immediately, which may include but is not limited to the police.
 
 # Compliance
@@ -434,11 +435,11 @@
 ## Use of encrypted and zipped e-mail
 
 1. This software allows employees to exchange e-mail with remote users who have the appropriate encryption software on their system.
-2. Any employee who desires to utilize this technology may request this software from the SA.
+2. Any employee who desires to utilize this technology may request this software from the TL.
 
 ## File Transfer Protocol (FTP)
 
-1. Files may be transferred to secure FTP sites through the use of appropriate security precautions. Requests for any SFTP transfers should be directed to the SA.
+1. Files may be transferred to secure FTP sites through the use of appropriate security precautions. Requests for any SFTP transfers should be directed to the TL.
 
 ## Secure Socket Layer (SSL) Web Interface
 
@@ -455,7 +456,7 @@
         1. When changes are tracked within a system (for example Windows updates in the Add or Remove Programs component or updates performed and logged by the vendor), they do not need to be logged on the change management tracking log.
         2. However, the employee implementing the change will ensure that the change tracking is available for review if necessary.
         3. Affected employees will be informed at least one week before the change is implemented. Reminders will be sent to ensure the affected employees are aware. The TL or SA will verbally inform the affected employees on the day the changes will be implemented.
-        4. The SA will do a broadcast to inform all the affected employees in the situation of an emergency change management.
+        4. The TL or Manager will do a broadcast to inform all the affected employees in the situation of an emergency change management.
 
     2. The employee implementing the change will ensure that all necessary data backups are performed prior to the change.
 
