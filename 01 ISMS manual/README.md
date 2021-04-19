@@ -512,7 +512,7 @@
 
 | **No.** | **Record Title** | **Doc No.** |
 | --- | --- | --- |
-| 1 | ISO/IEC 27001:2019 standard | NA |
+| 1 | ISO/IEC 27001:2013 standard | NA |
 | 2 | Risk Assessment and Treatment Methodology (Framework) Manual | ISMS-02 |
 | 3 | Procedures for Document and Record Control | ISMS-03 |
 | 4 | Procedures for Identification of Requirements | ISMS-04 |
