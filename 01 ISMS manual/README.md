@@ -373,11 +373,10 @@
     3. Owner of asset
 4. All assets belonging to the company, third parties and clients shall be uniquely tagged.
 5. The tagging or markings shall not explicitly display user organisation names, to ensure that security and protect clients&#39; confidentiality.
-6. Clients shall be informed when their assets are being relocated.
-7. Clients&#39; assets shall be retrieved and returned within a predetermined and agreed time frame when requested by the client.
-8. Corporate IT will monitor the server system resources, utilization, performance and capacity.
-9. Corporate IT may deploy monitoring tools; which should provide email notification when any system anomaly is detected.
-10. Critical alerts received by Corporate IT will be escalated to the TL or automated trigger Incident Management Procedure via [PagerDuty](https://www.pagerduty.com).
+6. Staff shall be informed when their assets are being relocated.
+7. Corporate IT will monitor the server system resources, utilization, performance and capacity.
+8. Corporate IT may deploy monitoring tools; which should provide email notification when any system anomaly is detected.
+9. Critical alerts received by Corporate IT will be escalated to the TL or automated trigger Incident Management Procedure via [PagerDuty](https://www.pagerduty.com).
 
 # Security Incident Reporting
 
