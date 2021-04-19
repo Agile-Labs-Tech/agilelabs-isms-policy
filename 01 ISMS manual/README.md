@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-01 |
-| Revision No. | 0.5 |
+| Revision No. | 0.6 |
 | Effective Date | 12 December 2020 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 19 Apr 2021 | 0.6 | - | Update of [Policy](#policy) content |
 | 15 Apr 2021 | 0.5 | - | Update of Content |
 | 13 Apr 2021 | 0.5 | - | Update of Objective and measurement and content |
 | 12 Apr 2021 | 0.4 | - | Update Approved By |
@@ -109,7 +110,7 @@
   9. All departmental procedures must be consistent with this policy.
   10. All systems implemented after the effective date of these policies are expected to comply with the provisions of this policy where practicable.
   11. Existing systems are expected to be brought into compliance where possible and within practical timeframes.
-  12. The certification scope is for Software, Web and Mobile Application Development.
+  12. The certification scope is for Software Development and Related System Integration.
 
 # Scope
 
