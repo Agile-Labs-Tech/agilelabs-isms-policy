@@ -128,8 +128,6 @@
 | Files containing particulars, information and/or private data | Measured by incident report declared via PagerDuty |
 | Data privacy and protection for intellectual property and confidential records for the organization and clients | Measured by incident report declared via PagerDuty |
 | Vulnerability protection on server environment | Web: To conduct VAPT yearly <br/> Server: Sopho Scan <br/> Source Code: Sonarqube <br/> Based on [criticality](https://gitlab.com/agilelab/isms-policy/-/tree/master/13%20Incident%20mgt)|
-| Least Privilege Access Control | Managemment will conduct ad-hoc checks within every 3 months |
-| ISMS Awareness | Awareness training to be conducted every 6 months, or as and when required |
 
 3. The Information Security Manager (ISM) is responsible to review existing and set new ISMS objectives.
 4. The objectives for the specific security controls or groups of controls are proposed by the Technical Leader (TL), and will be approved by the ISM.
