@@ -7,7 +7,7 @@
 | Organization Name | Agile Lab |
 | Document No. | ISMS-13 |
 | Revision No. | 0.5 |
-| Effective Date | 12 December 2020 |
+| Effective Date | 13 April 2021 |
 | Classification | Internal |
 
 ## Revision History
@@ -24,17 +24,17 @@
 ### **Prepared By:**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| Wayne Tng | Technical Leader | 12 Dec 2020 |
+| Wayne Tng | Technical Leader | 13 Apr 2021 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| SzeTho ChangSheng | Information Security Manager | 12 Dec 2020 |
+| SzeTho ChangSheng | Information Security Manager | 13 Apr 2021 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| Sujata Liao | Director | 12 Dec 2020 |
+| Sujata Liao | Director | 13 Apr 2021 |
 
 # Contents
 

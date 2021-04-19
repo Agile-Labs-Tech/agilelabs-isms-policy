@@ -7,7 +7,7 @@
 | Organization Name | Agile Lab |
 | Document No. | ISMS-01 |
 | Revision No. | 0.6 |
-| Effective Date | 12 December 2020 |
+| Effective Date | 19 April 2021 |
 | Classification | Internal |
 
 ## Revision History
@@ -26,17 +26,17 @@
 ### **Prepared By:**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| Wayne Tng | Technical Leader | 12 Dec 2020 |
+| Wayne Tng | Technical Leader | 19 Apr 2021 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| SzeTho ChangSheng | Information Security Manager | 12 Dec 2020 |
+| SzeTho ChangSheng | Information Security Manager | 19 Apr 2021 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| Sujata Liao | Director | 12 Dec 2020 |
+| Sujata Liao | Director | 19 Apr 2021 |
 
 # Contents
 
@@ -58,7 +58,7 @@
 
 - [Computer And Information Control](#computer-and-information-control)
 
-- [Asset Management](#asset_management)
+- [Asset Management](#asset-management)
 
 - [Security Incident Reporting](#security-incident-reporting)
 
@@ -512,7 +512,7 @@
 
 | **No.** | **Record Title** | **Doc No.** |
 | --- | --- | --- |
-| 1 | ISO 27001:2019 standard | NA |
+| 1 | ISO/IEC 27001:2019 standard | NA |
 | 2 | Risk Assessment and Treatment Methodology (Framework) Manual | ISMS-02 |
 | 3 | Procedures for Document and Record Control | ISMS-03 |
 | 4 | Procedures for Identification of Requirements | ISMS-04 |
