@@ -7,13 +7,14 @@
 | Organization Name | Agile Lab |
 | Document No. | DRP |
 | Revision No. | 0.2 |
-| Effective Date | 12 December 2020 |
+| Effective Date | 20 April 2021 |
 | Classification | Internal |
 
 ## Revision History
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 20 Apr 2021 | 0.2 | - | Added PDPC regulations |
 | 12 Apr 2021 | 0.2 | - | Update Approved By |
 | 08 Apr 2021 | 0.1 | - | Content update |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -172,6 +173,12 @@ This strategy entails the maintenance of all intellectual property and data whic
 | | Equipment Failure | 1 | 5 | [Cyber Scenario 2](https://gitlab.com/agilelab/guides/-/blob/master/guidelines/disaster-recovery/cyber.pdf) |
 
 ## Alert, escalation and plan invocation
+
+In the events that data breaches was observed, incident will have to be reported to PDPC via [PDPC portal](https://eservice.pdpc.gov.sg/case/db)
+
+More information can be found:
+
+- [Guide on managing and notifying data breaches under the PDPA](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Other-Guides/Guide-on-Managing-and-Notifying-Data-Breaches-under-the-PDPA-15-Mar-2021.pdf?la=en)
 
 ### Activation of Emergency Response Team
 
