@@ -6,14 +6,15 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-01 |
-| Revision No. | 0.6 |
-| Effective Date | 19 April 2021 |
+| Revision No. | 0.7 |
+| Effective Date | 20 April 2021 |
 | Classification | Internal |
 
 ## Revision History
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 20 Apr 2021 | 0.7 | - | Added Risk and Opportunities Assessment |
 | 19 Apr 2021 | 0.6 | - | Update of [Policy](#policy) content |
 | 15 Apr 2021 | 0.5 | - | Update of Content |
 | 13 Apr 2021 | 0.5 | - | Update of Objective and measurement and content |
@@ -26,17 +27,17 @@
 ### **Prepared By:**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| Wayne Tng | Technical Leader | 19 Apr 2021 |
+| Wayne Tng | Technical Leader | 20 Apr 2021 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| SzeTho ChangSheng | Information Security Manager | 19 Apr 2021 |
+| SzeTho ChangSheng | Information Security Manager | 20 Apr 2021 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| Sujata Liao | Director | 19 Apr 2021 |
+| Sujata Liao | Director | 20 Apr 2021 |
 
 # Contents
 
@@ -47,6 +48,8 @@
 - [Scope](#scope)
 
 - [Objectives And Measurement](#objectives-and-measurement)
+
+- [Risk and Opportunities Assessment](#risk-and-opportunities-assessment)
 
 - [Risk Management](#risk-management)
 
@@ -145,6 +148,10 @@
 5. From the combination of threats, vulnerabilities, and asset values, an estimate of the risks to the confidentiality, integrity and availability of the information will be determined.
 6. Based on the periodic assessment, measures that reduce the impact of the threats by reducing the amount and scope of the vulnerable areas, will be implemented.
 7. The selected controls are listed in the Statement of Applicability.
+
+# Risk and Opportunities Assessment
+
+[Risk and Opportunities Assessment](https://docs.google.com/spreadsheets/d/1fDF05jCG0Bo6_Yd1yAaBnJduOUf9dEDjV-lz48KTKxg)
 
 # Information Security Definitions
 

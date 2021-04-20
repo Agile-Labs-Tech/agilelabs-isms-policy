@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | BCP |
-| Revision No. | 0.2 |
+| Revision No. | 0.3 |
 | Effective Date | 20 April 2021 |
 | Classification | Internal |
 
@@ -14,7 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
-| 20 Apr 2021 | 0.2 | - | Added PDPC regulations |
+| 20 Apr 2021 | 0.3 | - | Added PDPC regulations |
 | 12 Apr 2021 | 0.2 | - | Update Approved By |
 | 08 Apr 2021 | 0.1 | - | Content update |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
