@@ -7,13 +7,14 @@
 | Organization Name | Agile Lab |
 | Document No. | BCP |
 | Revision No. | 0.2 |
-| Effective Date | 12 December 2020 |
+| Effective Date | 20 April 2021 |
 | Classification | Internal |
 
 ## Revision History
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 20 Apr 2021 | 0.2 | - | Added PDPC regulations |
 | 12 Apr 2021 | 0.2 | - | Update Approved By |
 | 08 Apr 2021 | 0.1 | - | Content update |
 | 12 Dec 2020 | 0.0 | - | Initial version for release |
@@ -21,17 +22,17 @@
 ### **Prepared By:**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| Wayne Tng | Technical Leader | 12 Dec 2020 |
+| Wayne Tng | Technical Leader | 20 Apr 2021 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| SzeTho ChangSheng | Information Security Manager | 12 Dec 2020 |
+| SzeTho ChangSheng | Information Security Manager | 20 Apr 2021 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
-| Sujata Liao | Director | 12 Dec 2020 |
+| Sujata Liao | Director | 20 Apr 2021 |
 
 ## Contents
 
@@ -145,6 +146,8 @@ If an event occurs outside normal business hours that renders a facility uninhab
 ### Actions upon Activation
 
 Upon activation of the Business Continuity Plan, the Business Owner or designee will be responsible for notifying the alternate site, if appropriate, of their impending arrival.
+
+[Guide on managing and notifying data breaches under the PDPA](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Other-Guides/Guide-on-Managing-and-Notifying-Data-Breaches-under-the-PDPA-15-Mar-2021.pdf?la=en)
 
 ## Internal Communication Procedures
 
