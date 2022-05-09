@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-13 |
-| Revision No. | 0.5 |
+| Revision No. | 0.6 |
 | Effective Date | 13 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 25 Apr 2022 | 0.6 | - | Yearly review |
 | 13 Apr 2021 | 0.5 | - | Added resolve incident timeline |
 | 12 Apr 2021 | 0.4 | - | Update Approved By |
 | 03 Apr 2021 | 0.3 | - | Content update |
@@ -25,16 +26,19 @@
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | Wayne Tng | Technical Leader | 13 Apr 2021 |
+| Wayne Tng | Technical Leader | 25 Apr 2022 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | SzeTho ChangSheng | Information Security Manager | 13 Apr 2021 |
+| SzeTho ChangSheng | Information Security Manager | 29 Apr 2022 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | Sujata Liao | Director | 13 Apr 2021 |
+| Sujata Liao | Director | 29 Apr 2022 |
 
 # Contents
 

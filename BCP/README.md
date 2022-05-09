@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | BCP |
-| Revision No. | 0.3 |
+| Revision No. | 0.4 |
 | Effective Date | 20 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 25 Apr 2022 | 0.4 | - | Yearly review |
 | 20 Apr 2021 | 0.3 | - | Added PDPC regulations |
 | 12 Apr 2021 | 0.2 | - | Update Approved By |
 | 08 Apr 2021 | 0.1 | - | Content update |
@@ -23,16 +24,19 @@
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | Wayne Tng | Technical Leader | 20 Apr 2021 |
+| Wayne Tng | Technical Leader | 25 Apr 2022 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | SzeTho ChangSheng | Information Security Manager | 20 Apr 2021 |
+| SzeTho ChangSheng | Information Security Manager | 29 Apr 2022 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | Sujata Liao | Director | 20 Apr 2021 |
+| Sujata Liao | Director | 29 Apr 2022 |
 
 ## Contents
 

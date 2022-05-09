@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-20 |
-| Revision No. | 0.4 |
+| Revision No. | 0.5 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 25 Apr 2022 | 0.5 | - | Yearly review |
 | 12 Apr 2021 | 0.4 | - | Update Approved By |
 | 02 Apr 2021 | 0.3 | - | Content update for release |
 | 31 Mar 2021 | 0.2 | - | Content update for release |
@@ -24,16 +25,19 @@
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | Wayne Tng | Technical Leader | 12 Apr 2021 |
+| Wayne Tng | Technical Leader | 25 Apr 2022 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | SzeTho ChangSheng | Information Security Manager | 12 Apr 2021 |
+| SzeTho ChangSheng | Information Security Manager | 29 Apr 2022 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | Sujata Liao | Director | 12 Apr 2021 |
+| Sujata Liao | Director | 29 Apr 2022 |
 
 # Contents
 

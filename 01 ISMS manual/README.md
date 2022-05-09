@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-01 |
-| Revision No. | 0.7 |
+| Revision No. | 0.8 |
 | Effective Date | 20 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 25 Apr 2022 | 0.8 | - | Yearly review |
 | 20 Apr 2021 | 0.7 | - | Added Risk and Opportunities Assessment |
 | 19 Apr 2021 | 0.6 | - | Update of [Policy](#policy) content |
 | 15 Apr 2021 | 0.5 | - | Update of Content |
@@ -28,16 +29,19 @@
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | Wayne Tng | Technical Leader | 20 Apr 2021 |
+| Wayne Tng | Technical Leader | 25 Apr 2022 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | SzeTho ChangSheng | Information Security Manager | 20 Apr 2021 |
+| SzeTho ChangSheng | Information Security Manager | 29 Apr 2022 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | Sujata Liao | Director | 20 Apr 2021 |
+| Sujata Liao | Director | 29 Apr 2022 |
 
 # Contents
 
