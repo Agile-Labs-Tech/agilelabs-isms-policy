@@ -137,7 +137,7 @@
 
 1. Appendix 1 – Annual Internal Audit Plan
 2. Appendix 2 – Internal Audit Report
-3. Appendix 3 – [Internal Audit Checklist](https://docs.google.com/spreadsheets/d/155njd98DCLtfJlKoftP40WvsKPH5vcXG)
+3. Appendix 3 – [Internal Audit Checklist](https://docs.google.com/spreadsheets/d/1EoNPyBx5kLn0Msouk45NtHZV5qa9bkzP/edit#gid=293190060)
 4. Appendix 4 - Risk Management Committee
 
 <div align="center"> **Internal** </div>
