@@ -123,7 +123,7 @@ It is critical to ensure the safety and well-being of employees and customers.
 
 The following are the list of threats.
 
-[Risk Assessment - Risk Treatment Plan](https://docs.google.com/spreadsheets/d/1lAk-dpouK3V5lCtFuqhAyGmTNxUinwm1/edit?usp=drive_web&ouid=111900017263094652571&rtpof=true)
+[Risk Assessment - Risk Treatment Plan](https://docs.google.com/spreadsheets/d/1EyU_gaj989j_VK57SHhoykrAziduvBOq)
 
 ## Critical Business Functions
 
