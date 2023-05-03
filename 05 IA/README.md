@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-05 |
-| Revision No. | 0.4 |
+| Revision No. | 0.5 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 May 2023 | 0.5 | - | Yearly review |
 | 25 Apr 2022 | 0.4 | - | Yearly review |
 | 12 Apr 2021 | 0.3 | - | Update Approved By |
 | 31 Mar 2021 | 0.2 | - | Content update |
@@ -25,6 +26,7 @@
 | --- | --- | --- |
 | Wayne Tng | Technical Leader | 12 Apr 2021 |
 | Wayne Tng | Technical Leader | 25 Apr 2022 |
+| Wayne Tng | Technical Leader | 03 May 2023 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -137,7 +139,7 @@
 
 1. Appendix 1 – Annual Internal Audit Plan
 2. Appendix 2 – Internal Audit Report
-3. Appendix 3 – [Internal Audit Checklist](https://docs.google.com/spreadsheets/d/1EoNPyBx5kLn0Msouk45NtHZV5qa9bkzP/edit#gid=293190060)
+3. Appendix 3 – [Internal Audit Checklist](https://docs.google.com/spreadsheets/d/1kp5HU6l5OmxF7erLGDnw1uag78qOGc3h)
 4. Appendix 4 - Risk Management Committee
 
 <div align="center"> **Internal** </div>

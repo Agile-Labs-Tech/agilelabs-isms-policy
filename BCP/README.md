@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | BCP |
-| Revision No. | 0.4 |
+| Revision No. | 0.5 |
 | Effective Date | 20 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 May 2023 | 0.5 | - | Yearly review |
 | 25 Apr 2022 | 0.4 | - | Yearly review |
 | 20 Apr 2021 | 0.3 | - | Added PDPC regulations |
 | 12 Apr 2021 | 0.2 | - | Update Approved By |
@@ -25,6 +26,7 @@
 | --- | --- | --- |
 | Wayne Tng | Technical Leader | 20 Apr 2021 |
 | Wayne Tng | Technical Leader | 25 Apr 2022 |
+| Wayne Tng | Technical Leader | 03 May 2023 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -99,6 +101,8 @@
 The Agile Lab Business Continuity plan objective is to facilitate the resumption of critical operations, functions and technology in a timely and organized manner to ensure a viable and stable organization.
 
 It is critical to ensure the safety and well-being of employees and customers.
+
+![orgChart](./images/org-chart.png)
 
 ### Primary Objectives
 

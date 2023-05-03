@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-01 |
-| Revision No. | 0.8 |
+| Revision No. | 0.9 |
 | Effective Date | 20 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 May 2023 | 0.9 | - | Yearly review |
 | 25 Apr 2022 | 0.8 | - | Yearly review |
 | 20 Apr 2021 | 0.7 | - | Added Risk and Opportunities Assessment |
 | 19 Apr 2021 | 0.6 | - | Update of [Policy](#policy) content |
@@ -30,6 +31,7 @@
 | --- | --- | --- |
 | Wayne Tng | Technical Leader | 20 Apr 2021 |
 | Wayne Tng | Technical Leader | 25 Apr 2022 |
+| Wayne Tng | Technical Leader | 03 May 2023 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |

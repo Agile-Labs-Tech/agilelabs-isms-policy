@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | DRP |
-| Revision No. | 0.4 |
+| Revision No. | 0.5 |
 | Effective Date | 20 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 May 2023 | 0.5 | - | Yearly review |
 | 25 Apr 2022 | 0.4 | - | Yearly review |
 | 20 Apr 2021 | 0.3 | - | Added PDPC regulations |
 | 12 Apr 2021 | 0.2 | - | Update Approved By |
@@ -25,6 +26,7 @@
 | --- | --- | --- |
 | Wayne Tng | Technical Leader | 12 Dec 2020 |
 | Wayne Tng | Technical Leader | 25 Apr 2022 |
+| Wayne Tng | Technical Leader | 03 May 2023 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |

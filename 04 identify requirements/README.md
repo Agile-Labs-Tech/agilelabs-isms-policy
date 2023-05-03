@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-04 |
-| Revision No. | 0.5 |
+| Revision No. | 0.6 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 May 2023 | 0.6 | - | Yearly review |
 | 25 Apr 2022 | 0.5 | - | Yearly review |
 | 12 Apr 2021 | 0.4 | - | Update Approved By |
 | 03 Apr 2021 | 0.3 | - | Content update |
@@ -26,6 +27,7 @@
 | --- | --- | --- |
 | Wayne Tng | Technical Leader | 12 Apr 2021 |
 | Wayne Tng | Technical Leader | 25 Apr 2022 |
+| Wayne Tng | Technical Leader | 03 May 2023 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -102,6 +104,6 @@
 
 # Appendices
 
-[Identify requirements & legal register](https://docs.google.com/spreadsheets/d/1kGa55cvnqh0AlHl0z484BTm-wx3gBxEc/edit#gid=495790280)
+[Identify requirements & legal register](https://docs.google.com/spreadsheets/d/1f-jitmeiM_QhKcKyoouFNhFdtpCs3Vvz)
 
 <div align="center"> **Internal** </div>

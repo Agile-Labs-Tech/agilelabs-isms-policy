@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-09 |
-| Revision No. | 0.5 |
+| Revision No. | 0.6 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 03 May 2023 | 0.6 | - | Yearly review |
 | 25 Apr 2022 | 0.5 | - | Yearly review |
 | 12 Apr 2021 | 0.4 | - | Update Approved By |
 | 03 Apr 2021 | 0.3 | - | Content update |
@@ -26,6 +27,7 @@
 | --- | --- | --- |
 | Wayne Tng | Technical Leader | 12 Apr 2021 |
 | Wayne Tng | Technical Leader | 25 Apr 2022 |
+| Wayne Tng | Technical Leader | 03 May 2023 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -111,7 +113,7 @@
 
 | **Record name** | **Storage location** | **Person responsible for storage** | **Controls for record protection** | **Retention time** |
 | --- | --- | --- | --- | --- |
-| Key/password management records | <a href="https://www.lastpass.com/" target="_blank">LastPass</a> | Individual users | Only individual user has access rights his or her own account | Records are stored until deleted |
+| Key/password management records | <a href="https://1password.com" target="_blank">1Password</a> | Individual users | Centralise Vault management managed by TL | Records are stored until deleted |
 | Project credentials management cords | <a href="https://www.akeyless.io/" target="_blank">Akeyless</a> | Individual users | Only individual user and TL has access rights his or her own records | Records are stored for a period of 1 year |
 | Rules &amp; instructions on the use and management of the cryptographic tools | Cloud repository | TL | Only TL and SA have the right to edit and publish the instructions | Instructions that are no longer valid are stored for a period of 1 year |
 
