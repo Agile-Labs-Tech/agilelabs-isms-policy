@@ -38,12 +38,14 @@
 | --- | --- | --- |
 | SzeTho ChangSheng | Information Security Manager | 20 Apr 2021 |
 | SzeTho ChangSheng | Information Security Manager | 29 Apr 2022 |
+| SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | Sujata Liao | Director | 20 Apr 2021 |
 | Sujata Liao | Director | 29 Apr 2022 |
+| Sujata Liao | Director | 05 May 2023 |
 
 # Contents
 
