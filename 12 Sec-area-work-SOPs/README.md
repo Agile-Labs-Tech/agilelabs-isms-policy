@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-12 |
-| Revision No. | 0.7 |
+| Revision No. | 0.8 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 08 Apr 2024 | 0.8 | - | Yearly review |
 | 03 May 2023 | 0.7 | - | Yearly review |
 | 25 Apr 2022 | 0.6 | - | Yearly review |
 | 12 Apr 2021 | 0.5 | - | Update Approved By |
@@ -29,6 +30,7 @@
 | Wayne Tng | Technical Leader | 12 Apr 2021 |
 | Wayne Tng | Technical Leader | 25 Apr 2022 |
 | Wayne Tng | Technical Leader | 03 May 2023 |
+| Wayne Tng | Technical Leader | 08 Apr 2024 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -36,6 +38,7 @@
 | SzeTho ChangSheng | Information Security Manager | 12 Apr 2021 |
 | SzeTho ChangSheng | Information Security Manager | 29 Apr 2022 |
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
+| SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -43,6 +46,7 @@
 | Sujata Liao | Director | 12 Apr 2021 |
 | Sujata Liao | Director | 29 Apr 2022 |
 | Sujata Liao | Director | 05 May 2023 |
+| Sujata Liao | Director | 22 Apr 2024 |
 
 # Contents
 

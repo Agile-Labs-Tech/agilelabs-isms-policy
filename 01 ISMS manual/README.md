@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-01 |
-| Revision No. | 0.9 |
+| Revision No. | 0.10 |
 | Effective Date | 20 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 08 Apr 2024 | 0.10 | - | Yearly review |
 | 03 May 2023 | 0.9 | - | Yearly review |
 | 25 Apr 2022 | 0.8 | - | Yearly review |
 | 20 Apr 2021 | 0.7 | - | Added Risk and Opportunities Assessment |
@@ -32,6 +33,7 @@
 | Wayne Tng | Technical Leader | 20 Apr 2021 |
 | Wayne Tng | Technical Leader | 25 Apr 2022 |
 | Wayne Tng | Technical Leader | 03 May 2023 |
+| Wayne Tng | Technical Leader | 08 Apr 2024 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -39,6 +41,7 @@
 | SzeTho ChangSheng | Information Security Manager | 20 Apr 2021 |
 | SzeTho ChangSheng | Information Security Manager | 29 Apr 2022 |
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
+| SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -46,6 +49,7 @@
 | Sujata Liao | Director | 20 Apr 2021 |
 | Sujata Liao | Director | 29 Apr 2022 |
 | Sujata Liao | Director | 05 May 2023 |
+| Sujata Liao | Director | 22 Apr 2024 |
 
 # Contents
 
@@ -426,7 +430,7 @@
         1. Passwords must never be shared with another person (Note: The user&#39;s password may be reset, if required).
         2. Passwords must, where possible, have a minimum length of 12 characters.
         3. When creating a password, it is important not to use words that can be found in dictionaries or words that are easily guessed due to their association with the user (i.e. children&#39;s names, pets&#39; names, birthdays, etc.). A combination of alpha and numeric characters are more difficult to guess.
-        4. Can generate using [Lastpass](http://lastpass.com) random password generator.
+        4. Can generate using [1Password](https://1password.com) random password generator.
 
     2. Where possible, system software must enforce the following password standards:
 
