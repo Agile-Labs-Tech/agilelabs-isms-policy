@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-8 |
-| Revision No. | 0.1 |
+| Revision No. | 0.2 |
 | Effective Date | 26 April 2024 |
 | Classification | Internal |
 
@@ -14,22 +14,26 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 07 Apr 2025 | 0.2 | - | Yearly review |
 | 25 Apr 2024 | 0.1 | - | Final version for release |
 
 ### **Prepared By:**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | Wayne Tng | Technical Leader | 25 Apr 2024 |
+| Wayne Tng | Technical Leader | 07 Apr 2025 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | SzeTho ChangSheng | Information Security Manager | 26 Apr 2024 |
+| SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
 | --- | --- | --- |
 | Sujata Liao | Director | 26 Apr 2024 |
+| Sujata Liao | Director | 14 Apr 2025 |
 
 # Contents
 
