@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 22 Apr 2025 | 0.10 | - | Update clause |
 | 07 Apr 2025 | 0.9 | - | Yearly review |
 | 08 Apr 2024 | 0.8 | - | Yearly review |
 | 03 May 2023 | 0.7 | - | Yearly review |
@@ -33,6 +34,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 22 Apr 2025 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -42,6 +44,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 22 Apr 2025 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -51,6 +54,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 22 Apr 2025 |
 
 # Contents
 
@@ -90,7 +94,7 @@
 
 # Reference Documents
 
-1. ISO/IEC 27001 standard, clauses A.7.2.3, A.16.1.1, A.6.1.2, A.16.1.3, A.16.1.4, A.16.1.5, A.16.1.6, A.16.1.7
+1. ISO/IEC 27001:2022 standard, Controls 5.24, 5.25, 5.26
 2. Information Security Policy
 3. List of Legal, Regulatory, Contractual and Other Requirements
 
@@ -162,7 +166,7 @@
 ## Learning From Incidents
 
 1. TL or SA must review all minor incidents every three months, and enter recurring ones, or those which may turn into major incidents on the next occasion, in the PagerDuty.
-2. TL or SA must analyze each incident recorded in the PagerDuty Incident Log (identifying type, relatedness, and cost of incident) and, if necessary, suggest preventive or corrective action.
+2. TL or SA must analyze each incident recorded in the PagerDuty Incident Log (identifying type, root cause, and potential future risk) to support continuous improvement in line with Control 5.25
 
 ## Disciplinary Actions
 
@@ -170,7 +174,7 @@
 
 ## Collection Of Evidence
 
-1. TL will define the rules on how to identify, collect and preserve evidence that will be accepted as evidence in legal and other proceedings.
+1. TL will define rules for identification, collection, and preservation of digital evidence in a way that supports legal admissibility and incident learning, as required by Control 5.25.
 2. TL or SA can grant other employees access to the records belonging to another employee.
 
 # Records Management
@@ -183,5 +187,7 @@
 # Appendices
 
 ![Incident Management](./incident-handling-management.jpg)
+
+The incident response plan shall be periodically reviewed and tested to ensure readiness, as guided by Control 5.24.
 
 <div align="center"> **Internal** </div>

@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Lab |
 | Document No. | ISMS-07 |
-| Revision No. | 0.8 |
+| Revision No. | 0.9 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 22 Apr 2025 | 0.9 | - | Update clauses |
 | 07 Apr 2025 | 0.8 | - | Yearly review |
 | 08 Apr 2024 | 0.7 | - | Yearly review |
 | 03 May 2023 | 0.6 | - | Yearly review |
@@ -32,6 +33,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 22 Apr 2025 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -41,6 +43,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 22 Apr 2025 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -50,6 +53,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 22 Apr 2025 |
 
 # Contents
 
@@ -89,7 +93,7 @@
 
 # Reference Documents
 
-1. ISO/IEC 27001 standard, clauses A.14.1.2, A.14.1.3, A.14.2.1, A.14.2.2, A.14.2.5, A.14.2.6, A.14.2.7, A.14.2.8, A.14.2.9, A.14.3.1
+1. ISO/IEC 27001:2022 standard, Controls 5.19, 8.25, 8.26, 8.28, 8.29
 2. Risk Assessment and Risk Treatment Methodology
 3. Operating Procedures For Information and Communication Technology (ICT)
 4. Training and Awareness Plan
@@ -117,7 +121,7 @@
 1. The secure development environment is restricted solely for the implementation of new systems or systems upgrades.
 2. This is primarily an environment to tests the software and system before implementation and upgrade.
 3. The secure environment is provisioned by using a separate network segment for testing.
-4. Software may be developed in-house and outsourced to external software vendors.
+4. Software may be developed in-house or outsourced to external software vendors, who must comply with information security requirements as defined under ISO 27001:2022 Control 5.19 (Supplier Relationships Security).
 5. For software developed and hosted by third parties, and used by Agile Lab on a subscription basis, the service provider will also be required to ensure a secure development environment for the implementation of new and upgrade systems.
 6. In the event that third parties doesn't have a secure development environment for implemented, the upgrade will be done within our secure development environment.
 
@@ -129,7 +133,7 @@
 
 ## Checking and testing the implementation of security requirements
 
-1. The SA is responsible to define the methodology, responsibilities and the timing of checking whether all the security requirements from the Security Requirements Specification have been met, and whether the system is acceptable for operations.
+1. The SA is responsible to define the methodology, responsibilities and the timing of checking whether all the security requirements from the Security Requirements Specification have been met, and whether the system meets secure development lifecycle requirements (Control 8.25) and is acceptable for operational deployment.
 
 ## Change control
 
@@ -145,6 +149,7 @@
 
 1. TL determines the level of security skills and knowledge required for the implementation process and proposes the trainings to the SA.
 2. TL shall include the appropriate trainings in the Training and Awareness Plan.
+3. Training should include secure coding practices, aligned with ISO 27001:2022 Control 8.28, and emphasize responsibilities throughout the secure development lifecycle (8.25).
 
 # Records Management
 
