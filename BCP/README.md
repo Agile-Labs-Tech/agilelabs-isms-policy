@@ -2,30 +2,31 @@
 
 # **Business Continuity Plan**
 
-| Document Title | Business Continuity Plan |
-| --- | --- |
-| Organization Name | Agile Lab |
-| Document No. | BCP |
-| Revision No. | 0.7 |
-| Effective Date | 20 April 2021 |
-| Classification | Internal |
+| Document Title    | Business Continuity Plan |
+| ----------------- | ------------------------ |
+| Organization Name | Agile Lab                |
+| Document No.      | BCP                      |
+| Revision No.      | 0.7                      |
+| Effective Date    | 20 April 2021            |
+| Classification    | Internal                 |
 
 ## Revision History
 
-| **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
-| --- | --- | --- | --- |
-| 07 Apr 2025 | 0.7 | - | Yearly review + Update Org Chart |
-| 08 Apr 2024 | 0.6 | - | Yearly review |
-| 03 May 2023 | 0.5 | - | Yearly review |
-| 25 Apr 2022 | 0.4 | - | Yearly review |
-| 20 Apr 2021 | 0.3 | - | Added PDPC regulations |
-| 12 Apr 2021 | 0.2 | - | Update Approved By |
-| 08 Apr 2021 | 0.1 | - | Content update |
-| 12 Dec 2020 | 0.0 | - | Initial version for release |
+| **Date**    | **Rev. No.** | **Page No.** | **Description of Amendments**    |
+| ----------- | ------------ | ------------ | -------------------------------- |
+| 07 Apr 2025 | 0.7          | -            | Yearly review + Update Org Chart |
+| 08 Apr 2024 | 0.6          | -            | Yearly review                    |
+| 03 May 2023 | 0.5          | -            | Yearly review                    |
+| 25 Apr 2022 | 0.4          | -            | Yearly review                    |
+| 20 Apr 2021 | 0.3          | -            | Added PDPC regulations           |
+| 12 Apr 2021 | 0.2          | -            | Update Approved By               |
+| 08 Apr 2021 | 0.1          | -            | Content update                   |
+| 12 Dec 2020 | 0.0          | -            | Initial version for release      |
 
 ### **Prepared By:**
-| **Name** | **Designation** | **Date** |
-| --- | --- | --- |
+
+| **Name**  | **Designation**  | **Date**    |
+| --------- | ---------------- | ----------- |
 | Wayne Tng | Technical Leader | 20 Apr 2021 |
 | Wayne Tng | Technical Leader | 25 Apr 2022 |
 | Wayne Tng | Technical Leader | 03 May 2023 |
@@ -33,8 +34,9 @@
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
 
 ### **Reviewed By :**
-| **Name** | **Designation** | **Date** |
-| --- | --- | --- |
+
+| **Name**          | **Designation**              | **Date**    |
+| ----------------- | ---------------------------- | ----------- |
 | SzeTho ChangSheng | Information Security Manager | 20 Apr 2021 |
 | SzeTho ChangSheng | Information Security Manager | 29 Apr 2022 |
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
@@ -42,13 +44,14 @@
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
 
 ### **Approved By :**
-| **Name** | **Designation** | **Date** |
-| --- | --- | --- |
-| Sujata Liao | Director | 20 Apr 2021 |
-| Sujata Liao | Director | 29 Apr 2022 |
-| Sujata Liao | Director | 05 May 2023 |
-| Sujata Liao | Director | 22 Apr 2024 |
-| Sujata Liao | Director | 14 Apr 2025 |
+
+| **Name**    | **Designation** | **Date**    |
+| ----------- | --------------- | ----------- |
+| Sujata Liao | Director        | 20 Apr 2021 |
+| Sujata Liao | Director        | 29 Apr 2022 |
+| Sujata Liao | Director        | 05 May 2023 |
+| Sujata Liao | Director        | 22 Apr 2024 |
+| Sujata Liao | Director        | 14 Apr 2025 |
 
 ## Contents
 
@@ -66,6 +69,8 @@
 
 - [Critical Business Function](#critical-business-function)
 
+- [Stages of Activation](#stages-of-activation)
+
 - [Plan Activation Procedures](#plan-activation-procedures)
 
 - [Internal Communication Procedures](#internal-communication-procedures)
@@ -79,7 +84,6 @@
 - [Vendors](#vendors)
 
 - [Managing Records](#managing-records)
-
 
 ## Purpose, Scope And Users
 
@@ -151,6 +155,47 @@ Critical business functions are those functions and critical activities that an 
 
 ![bcp5](./images/bcp5.png)
 
+## Stages of Activation
+
+### Stage 0 – Normal Operations
+
+Business is operating as usual. No disruption is observed.
+
+### Stage 1 – Monitoring the Situation
+
+Potential threats are identified (e.g. health outbreak, system vulnerability, extreme weather, etc.).
+
+### Stage 2 – Active Preparation
+
+Triggers indicate a higher risk of disruption.
+
+- Employees are reminded of BCP protocols.
+- Alternate work locations and equipment are validated.
+- Critical backups, access credentials, and documents are reviewed.
+- Communication plans are primed.
+
+### Stage 3 – Partial Activation
+
+Some disruption has occurred.
+
+- Specific business functions (e.g. Sales, DevOps) switch to remote or alternate mode.
+- Emergency roles are activated (e.g. IT lead, HR lead).
+- Internal communication and coordination procedures are in motion.
+
+### Stage 4 – Full Activation
+
+Widespread or total disruption of facility or systems.
+
+- Entire company operates from alternate sites (e.g. full remote operations).
+- Succession roles take over if leadership is unavailable.
+- All critical business functions resume per defined recovery time.
+
+### Stage 5 – Deactivation & Return to Normal
+
+- Issue is resolved and risk level reduced.
+- Operations return to primary sites and standard processes.
+- Post-mortem and improvement review is conducted.
+
 ## Plan Activation Procedures
 
 ### Plan activation during Normal Business Hours
@@ -194,13 +239,13 @@ Agile Lab uses teleworking as our alternate site strategy. Agile Lab employees w
 
 Orders of succession are pre prepared to provide clarity of senior leadership roles in the event that individuals in these roles, whether they will be decision-making or management roles are unavailable. A delegation authority provides successors with the legal authorization to act on behalf of critical positions within the organisation for specific purposes and duties.
 
-| Position to be Succeeded | Successors | Delegated Authorities | Activation and Termination Triggers |
-| --- | --- | --- | --- |
-| Marketing | Wayne Tng | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
-| Sales | Sujata Liao | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
-| Finance/Accounting | Cynthia | All duties assigned | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
-| Human Resources | Sze Tho ChangSheng | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
-| IT Operations | Wayne Tng | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
+| Position to be Succeeded | Successors         | Delegated Authorities | Activation and Termination Triggers                                                                  |
+| ------------------------ | ------------------ | --------------------- | ---------------------------------------------------------------------------------------------------- |
+| Marketing                | Wayne Tng          | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
+| Sales                    | Sujata Liao        | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
+| Finance/Accounting       | Cynthia            | All duties assigned   | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
+| Human Resources          | Sze Tho ChangSheng | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
+| IT Operations            | Wayne Tng          | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
 
 ## Plan Deactivation
 
@@ -214,8 +259,8 @@ Business function will resume once the management decides on a new/existing empl
 
 ## Managing Records
 
-| **Record name** | **Storage location** | **Person responsible for storage** | **Control for record protection** | **Retention time** |
-| --- | --- | --- | --- | --- |
-| Corrective action form | Cloud Directory | TL | After all data has been recorded, any new additions or editing must be disabled | 1 year |
+| **Record name**        | **Storage location** | **Person responsible for storage** | **Control for record protection**                                               | **Retention time** |
+| ---------------------- | -------------------- | ---------------------------------- | ------------------------------------------------------------------------------- | ------------------ |
+| Corrective action form | Cloud Directory      | TL                                 | After all data has been recorded, any new additions or editing must be disabled | 1 year             |
 
 <div align="center"> **Internal** </div>
