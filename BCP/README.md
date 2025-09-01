@@ -6,7 +6,7 @@
 | ----------------- | ------------------------ |
 | Organization Name | Agile Lab                |
 | Document No.      | BCP                      |
-| Revision No.      | 0.7                      |
+| Revision No.      | 0.8                      |
 | Effective Date    | 20 April 2021            |
 | Classification    | Internal                 |
 
@@ -14,6 +14,7 @@
 
 | **Date**    | **Rev. No.** | **Page No.** | **Description of Amendments**    |
 | ----------- | ------------ | ------------ | -------------------------------- |
+| 01 Sep 2025 | 0.8          | -            | Update BCP scenario              |
 | 07 Apr 2025 | 0.7          | -            | Yearly review + Update Org Chart |
 | 08 Apr 2024 | 0.6          | -            | Yearly review                    |
 | 03 May 2023 | 0.5          | -            | Yearly review                    |
@@ -32,6 +33,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 01 Sep 2025 |
 
 ### **Reviewed By :**
 
@@ -42,6 +44,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 01 Sep 2025 |
 
 ### **Approved By :**
 
@@ -52,6 +55,7 @@
 | Sujata Liao | Director        | 05 May 2023 |
 | Sujata Liao | Director        | 22 Apr 2024 |
 | Sujata Liao | Director        | 14 Apr 2025 |
+| Sujata Liao | Director        | 01 Sep 2025 |
 
 ## Contents
 
