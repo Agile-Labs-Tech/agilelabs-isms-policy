@@ -4,9 +4,9 @@
 
 | Document Title | Patch Management Policy |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | ISMS-22 |
-| Revision No. | 0.8 |
+| Revision No. | 0.9 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.9 | - | Yearly review |
 | 07 Apr 2025 | 0.8 | - | Yearly review |
 | 08 Apr 2024 | 0.7 | - | Yearly review |
 | 03 May 2023 | 0.6 | - | Yearly review |
@@ -32,6 +33,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -41,6 +43,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -50,6 +53,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 # Contents
 
@@ -73,10 +77,10 @@
 
 # Purpose, Scope And Users
 
-1. This policy defines the guidelines for patch management for Agile Lab Pte Ltd&#39;s (Agile Lab&#39;s) systems and internal information and communications technology (ICT) systems, assets and infrastructure.
+1. This policy defines the guidelines for patch management for Agile Labs Pte Ltd&#39;s (Agile Labs&#39;s) systems and internal information and communications technology (ICT) systems, assets and infrastructure.
 2. This procedure relates to the process of implementing security patches or updates of vendor operating systems and application software – ranging from collecting information about security vulnerability to monitoring the results of security update programs, in order to minimize the risk of malicious intrusions.
 3. This procedure is not applicable to those computers or equipment which are configured to install security updates automatically or obtained formal exemption for patch installation.
-4. The policy applies to all Agile Lab entities and all employees.
+4. The policy applies to all Agile Labs entities and all employees.
 
 # Reference Documents
 

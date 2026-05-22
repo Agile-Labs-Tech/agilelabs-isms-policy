@@ -4,9 +4,9 @@
 
 | Document Title | Procedures for Document and Record Control |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | ISMS-03 |
-| Revision No. | 0.8 |
+| Revision No. | 0.9 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.9 | - | Yearly review |
 | 07 Apr 2025 | 0.8 | - | Yearly review |
 | 08 Apr 2024 | 0.7 | - | Yearly review |
 | 03 May 2023 | 0.6 | - | Yearly review |
@@ -32,6 +33,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -41,6 +43,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -50,6 +53,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 # Contents
 
@@ -68,8 +72,8 @@
 # Purpose, scope and users
 
 1. The purpose of this procedure is to ensure control over creation, approval, distribution, usage and updates of documents and records (also called: documented information) used in the Information Security Management System (ISMS).
-2. This procedure applies to all documents and records related to the ISMS, regardless of whether the documents and records were created inside Agile Lab Pte Ltd (Agile Lab) or whether they are of external origin. This procedure encompasses all documents and records, stored (in Agile Lab) in any possible form – paper, audio, video, etc.
-3. Users of this document are all employees of Agile Lab inside the scope of the ISMS.
+2. This procedure applies to all documents and records related to the ISMS, regardless of whether the documents and records were created inside Agile Labs Pte Ltd (Agile Labs) or whether they are of external origin. This procedure encompasses all documents and records, stored (in Agile Labs) in any possible form – paper, audio, video, etc.
+3. Users of this document are all employees of Agile Labs inside the scope of the ISMS.
 
 # Reference documents
 
@@ -105,7 +109,7 @@
 
 ### Documents with the lowest confidentiality level
 
-1. In case of documents to which access is allowed for all employees within ISMS scope, TL must publish them on the Agile Lab git repository, in the folder titled &quot;ISMS&quot; with reading rights only. When a new document or new document version is published, TL must inform all employees listed as users of the document by e-mail.
+1. In case of documents to which access is allowed for all employees within ISMS scope, TL must publish them on the Agile Labs git repository, in the folder titled &quot;ISMS&quot; with reading rights only. When a new document or new document version is published, TL must inform all employees listed as users of the document by e-mail.
 2. If there is an older version of the document, TL must delete it from the valid documents folder and move it to ISMS obsolette folder. If there are older versions of printed documents, TL must collect all such documents, and destroy all copies; except the signed original from the most recent version, which must be duly stored – such originals must be marked as &quot;Obsolete&quot;.
 
 ### Documents with higher confidentiality level

@@ -4,9 +4,9 @@
 
 | Document Title | Procedures for Working in Secure Areas |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | ISMS-12 |
-| Revision No. | 0.9 |
+| Revision No. | 0.10 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.10 | - | Yearly review |
 | 07 Apr 2025 | 0.9 | - | Yearly review |
 | 08 Apr 2024 | 0.8 | - | Yearly review |
 | 03 May 2023 | 0.7 | - | Yearly review |
@@ -33,6 +34,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -42,6 +44,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -51,6 +54,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 # Contents
 
@@ -82,7 +86,7 @@
 
 1. The purpose of this document is to define basic rules of behavior in the secure areas.
 2. This document is applied to all secure areas in the Information Security Management System (ISMS).
-3. Users of this document are all employees of Agile Lab Pte Ltd (Agile Lab).
+3. Users of this document are all employees of Agile Labs Pte Ltd (Agile Labs).
 
 # Reference Documents
 
@@ -119,7 +123,7 @@
 
 ## Access of visitors
 
-1. Persons who are not employed in Agile Lab (that is, visitors) must obtain permission to access by Agile Lab Management.
+1. Persons who are not employed in Agile Labs (that is, visitors) must obtain permission to access by Agile Labs Management.
 2. Visitors may enter the secure areas and stay in those areas only in the presence of a designated employee – this employee must accompany the visitor throughout their whole stay in the secure area.
 
 ## Prohibited activities

@@ -4,9 +4,9 @@
 
 | Document Title | Information Retention Policy |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | ISMS-18 |
-| Revision No. | 0.8 |
+| Revision No. | 0.9 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.9 | - | Yearly review |
 | 07 Apr 2025 | 0.8 | - | Yearly review |
 | 08 Apr 2024 | 0.7 | - | Yearly review |
 | 03 May 2023 | 0.6 | - | Yearly review |
@@ -32,6 +33,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -41,6 +43,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -50,6 +53,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 # Contents
 
@@ -67,7 +71,7 @@
 
 # Purpose, Scope And Users
 
-1. This document defines the policy and provides the guidelines for the retention of information and documents that will be owned and used by Agile Lab Pte Ltd (Agile Lab).
+1. This document defines the policy and provides the guidelines for the retention of information and documents that will be owned and used by Agile Labs Pte Ltd (Agile Labs).
 2. Information and documents stored electronically and physically are covered by this policy.
 3. Information stored electronically includes files and data permanently and temporarily stored in (desktop and laptop) personal computers, ICT hardware devices and services, primary and secondary storage media, email service and office administration software (or service).
 4. This policy is to be used all business units and all employees.

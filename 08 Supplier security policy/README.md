@@ -4,9 +4,9 @@
 
 | Document Title | Supplier Security Policy |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | ISMS-08 |
-| Revision No. | 0.8 |
+| Revision No. | 0.9 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.9 | - | Yearly review |
 | 07 Apr 2025 | 0.8 | - | Yearly review |
 | 08 Apr 2024 | 0.7 | - | Yearly review |
 | 03 May 2023 | 0.6 | - | Yearly review |
@@ -32,6 +33,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -41,6 +43,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -50,6 +53,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 # Contents
 
@@ -84,8 +88,8 @@
 # Purpose, Scope And Users
 
 1. The purpose of this document is to define the rules for relationship with suppliers and partners.
-2. This document is applicable to all suppliers and partners who have the ability to influence confidentiality, integrity and availability of Agile Lab Pte Ltd&#39;s (Agile Lab&#39;s) sensitive information.
-3. Users of this document are top management and persons responsible for suppliers, vendors, service providers and partners in Agile Lab.
+2. This document is applicable to all suppliers and partners who have the ability to influence confidentiality, integrity and availability of Agile Labs Pte Ltd&#39;s (Agile Labs&#39;s) sensitive information.
+3. Users of this document are top management and persons responsible for suppliers, vendors, service providers and partners in Agile Labs.
 
 # Reference Documents
 
@@ -123,7 +127,7 @@
 2. Such decision should be based on the results of risk assessment and treatment.
 3. However, the clauses which stipulate confidentiality and return of assets after the termination of the agreement are mandatory, and shall be included in a contract with the supplier, vendor, service provider or partner.
 4. Furthermore, the contracts must ensure reliable delivery of the products and services.
-5. ISM will decide whether the individual employees of the supplier/partner will have to sign the Non-disclosure Document when working for Agile Lab.
+5. ISM will decide whether the individual employees of the supplier/partner will have to sign the Non-disclosure Document when working for Agile Labs.
 6. ISM decides who will be the contract owner for each contract – i.e. who will be responsible for a particular supplier, vendor, service provider or partner.
 
 ## Training and awareness
@@ -136,7 +140,7 @@
 
 1. Contract owner must regularly check and monitor the level of service and fulfillment of security clauses by suppliers, vendors, service providers or partners.
 2. Reports and records created by the supplier, vendor, service provider or partner, may be inspected; as well as may request to audit the supplier, vendor, service provider or partner at least once a year.
-3. All the security incidents related to the partner&#39;s, supplier&#39;s, vendor&#39;s or service provider&#39;s job or activities related to Agile Lab must be immediately forwarded or escalated to TL.
+3. All the security incidents related to the partner&#39;s, supplier&#39;s, vendor&#39;s or service provider&#39;s job or activities related to Agile Labs must be immediately forwarded or escalated to TL.
 
 ## Changes or termination of supplier services
 

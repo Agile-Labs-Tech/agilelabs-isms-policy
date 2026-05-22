@@ -4,9 +4,9 @@
 
 | Document Title | Information Security Management System Manual |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | ISMS-01 |
-| Revision No. | 0.11 |
+| Revision No. | 0.12 |
 | Effective Date | 20 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.12 | - | Yearly review |
 | 07 Apr 2025 | 0.11 | - | Yearly review |
 | 08 Apr 2024 | 0.10 | - | Yearly review |
 | 03 May 2023 | 0.9 | - | Yearly review |
@@ -36,6 +37,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -45,6 +47,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -54,6 +57,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 # Contents
 
@@ -115,7 +119,7 @@
 
 # Policy
 
-  1. It is the policy of Agile Lab Pte Ltd (hereinafter referred to as Agile Lab or the Organisation) that information, in all its forms – written, spoken, recorded electronically or printed – will be protected from accidental and intentional unauthorized modification, destruction or disclosure throughout its life cycle.
+  1. It is the policy of Agile Labs Pte Ltd (hereinafter referred to as Agile Labs or the Organisation) that information, in all its forms – written, spoken, recorded electronically or printed – will be protected from accidental and intentional unauthorized modification, destruction or disclosure throughout its life cycle.
   2. The scope of the protection encompasses the level of security of the equipment and software used to process, store, and transmit that information.
   3. The Policy and the Information Security Management System (ISMS) shall comply with the relevant legal and regulatory requirements, and also comply with the relevant internal policies and appropriate contractual obligations.
   4. The governance structure is illustrated in the diagram below.
@@ -134,7 +138,7 @@
 # Scope
 
 1. The primary scope of information security is the protection of the confidentiality, integrity and availability of information.
-2. The framework for managing information security in this policy applies to all the departments and functions, including the employees from all the entities (that is, subsidiaries), fully or partially owned by Agile Lab.
+2. The framework for managing information security in this policy applies to all the departments and functions, including the employees from all the entities (that is, subsidiaries), fully or partially owned by Agile Labs.
 3. This policy and all standards apply to the classes of information in any form as defined in [Information Classification](#information-classification).
 
 # Objectives And Measurement
@@ -151,7 +155,7 @@
 3. The Information Security Manager (ISM) is responsible to review existing and set new ISMS objectives.
 4. The objectives for the specific security controls or groups of controls are proposed by the Technical Leader (TL), and will be approved by the ISM.
 5. All objectives will be reviewed at least once annually, or as and when there are significant changes.
-6. Agile Lab will measure the fulfilment of the objectives.
+6. Agile Labs will measure the fulfilment of the objectives.
 7. The measurements will be performed at least once a year by the SA/TL.
 8. The SA will analyse and evaluate the measurement results and report them to the TL as input materials for the Management review.
 
@@ -173,9 +177,9 @@
 
 1. **Availability:** Data or information is accessible and usable when required by an authorized person.
 2. **Confidentiality:** Data or information is made available or disclosed to authorised persons or processes based on the access rights privileges.
-3. **Personal Data Protection Act:** The Personal Data Protection Act (PDPA) establishes a data protection law that comprises various rules governing the collection, use, disclosure and care of personal data. It recognises both the rights of individuals to protect their personal data, including rights of access and correction, and the needs for Agile Lab to collect, use or disclose personal data for legitimate and reasonable purposes.
+3. **Personal Data Protection Act:** The Personal Data Protection Act (PDPA) establishes a data protection law that comprises various rules governing the collection, use, disclosure and care of personal data. It recognises both the rights of individuals to protect their personal data, including rights of access and correction, and the needs for Agile Labs to collect, use or disclose personal data for legitimate and reasonable purposes.
 4. **Integrity:** Data or information has not been altered or destroyed in an unauthorized manner.
-5. **Involved Systems:** All information and communications technology (ICT) systems that are operated within Agile Lab&#39;s environment. This includes all platforms (hardware and operating or systems software), all computer sizes (personal digital assistants, desktops, mainframes, etc.), and all applications and data (whether developed in-house or licensed from third parties) contained on those systems.
+5. **Involved Systems:** All information and communications technology (ICT) systems that are operated within Agile Labs&#39;s environment. This includes all platforms (hardware and operating or systems software), all computer sizes (personal digital assistants, desktops, mainframes, etc.), and all applications and data (whether developed in-house or licensed from third parties) contained on those systems.
 6. **Information Security:** preservation of confidentiality, integrity and availability of information.
 7. **Information Security Management System** : part of overall management processes that takes care of planning, implementing, maintaining, reviewing, and improving the information security.
 8. **Risk:** The probability of a loss of confidentiality, integrity, or availability of information resources.
@@ -245,7 +249,7 @@
 2. The assets are expected to be protected from misuse, unauthorized manipulation and destruction. These protection measures may be physical and/or logical (procedural or software based) controls.
 
     1. **Ownership of Software:** All computer software developed by the Organisation&#39;s employees or contract personnel on behalf of the Organisation or licensed for the Organisation to use is the property of the Organisation; such software must not be copied for personal use, unless otherwise specified by the license agreement.
-    2. **Installed Software:** All software packages that reside on computers and networks within the Organisation must comply with applicable licensing agreements and restrictions and must comply with Agile Lab&#39;s acquisition policies.
+    2. **Installed Software:** All software packages that reside on computers and networks within the Organisation must comply with applicable licensing agreements and restrictions and must comply with Agile Labs&#39;s acquisition policies.
     3. **Virus Protection:** Virus checking systems approved by the TL or SA must be deployed using a multi-layered approach (desktops, servers, etc.), that ensures all electronic files are appropriately scanned for viruses. Users are not authorized to turn off or disable virus checking systems. The SA may check and verify if the virus definition files are updated on the servers, desktops or notebooks, and if the systems are infected.
     4. **Access Controls:** Physical and electronic access to Confidential and Internal information and computing resources is controlled. To ensure appropriate levels of access by employees, a variety of security measures as recommended by the SA, and approved by the TL, will be implemented. Mechanisms to control access to Confidential and Internal information include (but are not limited to) the following methods:
 

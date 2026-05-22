@@ -4,9 +4,9 @@
 
 | Document Title | Privileged Access Management Policy |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | ISMS-21 |
-| Revision No. | 0.8 |
+| Revision No. | 0.9 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.9 | - | Yearly review |
 | 07 Apr 2025 | 0.8 | - | Yearly review |
 | 08 Apr 2024 | 0.7 | - | Yearly review |
 | 03 May 2023 | 0.6 | - | Yearly review |
@@ -32,6 +33,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -41,6 +43,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -50,6 +53,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 # Contents
 
@@ -69,10 +73,10 @@
 
 # Purpose, Scope And Users
 
-1. This policy defines the guidelines to manage privileged access accounts for Agile Lab Pte Ltd&#39;s (Agile Lab&#39;s) systems and internal information and communications technology (ICT) systems, assets and infrastructure.
-2. This procedure is established to ensure that critical information processing and data storage facilities (i.e. information systems, networks and applications) belonging to Agile Lab are monitored for conformity to this privileged access policy, and that users are only performing activities that have been explicitly authorized.
+1. This policy defines the guidelines to manage privileged access accounts for Agile Labs Pte Ltd&#39;s (Agile Labs&#39;s) systems and internal information and communications technology (ICT) systems, assets and infrastructure.
+2. This procedure is established to ensure that critical information processing and data storage facilities (i.e. information systems, networks and applications) belonging to Agile Labs are monitored for conformity to this privileged access policy, and that users are only performing activities that have been explicitly authorized.
 3. Users of this document are top management and persons who will be granted privileged access to application and processing systems, and those who will be granted privileged access to storage systems storing critical and customer information.
-4. The policy applies to all Agile Lab entities and all employees.
+4. The policy applies to all Agile Labs entities and all employees.
 
 # Reference Documents
 

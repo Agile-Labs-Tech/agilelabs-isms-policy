@@ -4,9 +4,9 @@
 
 | Document Title | Procedure for Internal Audit |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | ISMS-05 |
-| Revision No. | 0.7 |
+| Revision No. | 0.8 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.8 | - | Yearly review |
 | 07 Apr 2025 | 0.7 | - | Yearly review |
 | 08 Apr 2024 | 0.6 | - | Yearly review |
 | 03 May 2023 | 0.5 | - | Yearly review |
@@ -31,6 +32,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -40,6 +42,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -49,6 +52,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 # Content
 
@@ -69,8 +73,8 @@
 # Purpose, Scope And Users
 
 1. The purpose of this procedure is to describe all audit-related activities – preparing the audit plan, selecting an auditor, conducting individual audits and reporting.
-2. This procedure is applicable to all activities related to the Information Security Management System (ISMS) implemented and maintained by Agile Lab Pte Ltd (Agile Lab).
-3. Users of this document are members of top management of Agile Lab; as well as internal auditors.
+2. This procedure is applicable to all activities related to the Information Security Management System (ISMS) implemented and maintained by Agile Labs Pte Ltd (Agile Labs).
+3. Users of this document are members of top management of Agile Labs; as well as internal auditors.
 
 # Reference Documents
 
@@ -149,6 +153,6 @@
 
 1. Appendix 1 – Annual Internal Audit Plan
 2. Appendix 2 – Internal Audit Report
-3. Appendix 3 – [Internal Audit Checklist](https://docs.google.com/spreadsheets/d/1kp5HU6l5OmxF7erLGDnw1uag78qOGc3h)
+3. Appendix 3 – [Internal Audit Checklist](https://docs.google.com/spreadsheets/d/1aNzAI5RUUeV_x2TTjzrHlaAOzeVO0UDC/edit?gid=103604030#gid=103604030)
 
 <div align="center"> **Internal** </div>

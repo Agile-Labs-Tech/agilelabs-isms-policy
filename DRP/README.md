@@ -4,9 +4,9 @@
 
 | Document Title | Disaster Recovery Plan |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | DRP |
-| Revision No. | 0.7 |
+| Revision No. | 0.8 |
 | Effective Date | 20 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.8 | - | Yearly review |
 | 07 Apr 2025 | 0.7 | - | Yearly review |
 | 08 Apr 2024 | 0.6 | - | Yearly review |
 | 03 May 2023 | 0.5 | - | Yearly review |
@@ -31,6 +32,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -40,6 +42,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -49,6 +52,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 ## Contents
 
@@ -82,9 +86,9 @@
 
 ## Purpose, Scope And Users
 
-- The Scope of this plan covers Agile Lab Pte Ltd.
+- The Scope of this plan covers Agile Labs Pte Ltd.
 - The purpose of the disaster recovery program is to develop, test and document a well-structured and easily understood plan which will help the company recover as quickly and effectively as possible from an unforeseen disaster or emergency which interrupts information systems and business operations
-- Users of this document are all employees of Agile Lab Pte Ltd (Agile Lab).
+- Users of this document are all employees of Agile Labs Pte Ltd (Agile Labs).
 
 ## Reference Documents
 

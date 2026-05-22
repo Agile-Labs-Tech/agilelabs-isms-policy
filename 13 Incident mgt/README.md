@@ -4,9 +4,9 @@
 
 | Document Title | Incident Management Procedure |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | ISMS-13 |
-| Revision No. | 0.9 |
+| Revision No. | 0.11 |
 | Effective Date | 13 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.11 | - | Yearly review |
 | 22 Apr 2025 | 0.10 | - | Update clause |
 | 07 Apr 2025 | 0.9 | - | Yearly review |
 | 08 Apr 2024 | 0.8 | - | Yearly review |
@@ -35,6 +36,7 @@
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
 | Wayne Tng | Technical Leader | 22 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -45,6 +47,7 @@
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -55,6 +58,7 @@
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
 | Sujata Liao | Director | 22 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 # Contents
 
@@ -90,7 +94,7 @@
 
 1. The purpose of this document is to ensure quick detection of security events and weaknesses, and quick reaction and response to security incidents.
 2. This document is applied to the entire Information Security Management System (ISMS) scope, i.e. to all employees and other assets used within the ISMS scope, as well as to suppliers and other persons outside the organization who come into contact with systems and information within the ISMS scope.
-3. Users of this document are all employees of Agile Lab Pte Ltd (Agile Lab).
+3. Users of this document are all employees of Agile Labs Pte Ltd (Agile Labs).
 
 # Reference Documents
 
@@ -118,7 +122,7 @@
 
 ## Receipt And Classification Of Incidents, Weaknesses And Events
 
-1. All employees, supplier or other third party who is in contact with information and/or systems of Agile Lab must report any system weakness, incident or event which could lead to a possible incident must be reported to Manager or his/her appointed deputy or email to report@agilelab.sg
+1. All employees, supplier or other third party who is in contact with information and/or systems of Agile Labs must report any system weakness, incident or event which could lead to a possible incident must be reported to Manager or his/her appointed deputy or email to report@agilelab.sg
 2. Incidents, weaknesses and events must be reported as soon as possible, by informing the manager to report incidents and create a ticket on [PagerDuty](https://www.pagerduty.com); which may be followed via phone or in person.
 3. Users may report phishing, spam and malicious email by sending to report@agilelab.sg
 4. The person who received the information must classify it in the following way:

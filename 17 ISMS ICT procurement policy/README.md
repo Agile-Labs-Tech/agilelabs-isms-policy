@@ -4,9 +4,9 @@
 
 | Document Title | Information &amp; Communications Technology Procurement Policy &amp; Guidelines |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | ISMS-17 |
-| Revision No. | 0.8 |
+| Revision No. | 0.9 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.9 | - | Yearly review |
 | 07 Apr 2025 | 0.8 | - | Yearly review |
 | 08 Apr 2024 | 0.7 | - | Yearly review |
 | 03 May 2023 | 0.6 | - | Yearly review |
@@ -32,6 +33,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -41,6 +43,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -50,6 +53,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 # Contents
 
@@ -67,12 +71,12 @@
 
 # Purpose, Scope And Users
 
-1. This document defines the policy and provides the guidelines for the procurement of information and communications technology (ICT) resources (hardware and software), and related ICT services that will be owned, used and operated by Agile Lab Pte Ltd (Agile Lab).
+1. This document defines the policy and provides the guidelines for the procurement of information and communications technology (ICT) resources (hardware and software), and related ICT services that will be owned, used and operated by Agile Labs Pte Ltd (Agile Labs).
 2. The hardware resources include computer servers, desktop personal computers (PCs), laptop PCs, portable devices, network devices, security and CCTV surveillance equipment, cameras and devices, audio-visual equipment, access control systems, alarm systems, environmental monitoring and control systems or devices, building automation, control and monitoring systems, devices or equipment, and so on.
 3. The software resources include application software, system software (e.g. Windows and MacOS), and database software.
 4. The related ICT services include consulting, system integration, corrective and preventive maintenance services (contracted and ad hoc).
-5. The scope is applicable to all divisions and functions within Agile Lab.
-6. A set of standardized configuration for ICT systems, devices and equipment is required to ensure Agile Lab&#39;s Information Security Policy can be effectively enforced.
+5. The scope is applicable to all divisions and functions within Agile Labs.
+6. A set of standardized configuration for ICT systems, devices and equipment is required to ensure Agile Labs&#39;s Information Security Policy can be effectively enforced.
 
 # Related Documents
 
@@ -88,7 +92,7 @@
 # Procedures
 
 1. ISM will go through a selection and evaluation process to select the vendors for the supply of the OA PCs and workstations. This process may be conducted annually or at a frequency decided by the ISM.
-2. The appointed vendors shall enter into a contractual agreement with Agile Lab – to supply the PCs and workstations at agreed prices, which shall be valid for the duration of the contract. The appointed vendors may supply the PCs and workstations at prices lower than the contracted price. The appointed vendors may not supply the PCs and workstations at prices higher than the contracted pricing.
+2. The appointed vendors shall enter into a contractual agreement with Agile Labs – to supply the PCs and workstations at agreed prices, which shall be valid for the duration of the contract. The appointed vendors may supply the PCs and workstations at prices lower than the contracted price. The appointed vendors may not supply the PCs and workstations at prices higher than the contracted pricing.
 3. TL shall specify the models for ICT hardware and software.
 4. Purchase requisitions for office automation (OA) laptop, desktop personal computers (PCs), and Apple iMacs or Macbook Pros for workstations shall be restricted to pre-approved models specified by TL.
 5. For ICT hardware and software other than OA PCs and workstations, users shall specify the usage requirements and features.

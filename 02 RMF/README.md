@@ -4,9 +4,9 @@
 
 | Document Title | Risk Assessment &amp; Treatment Methodology |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | ISMS-02 |
-| Revision No. | 0.8 |
+| Revision No. | 0.9 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.9 | - | Yearly review |
 | 07 Apr 2025 | 0.8 | - | Yearly review |
 | 08 Apr 2024 | 0.7 | - | Yearly review |
 | 03 May 2023 | 0.6 | - | Yearly review |
@@ -32,6 +33,7 @@
 | Wayne Tng | Technical Leader | 03 May 2023 |
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -41,6 +43,7 @@
 | SzeTho ChangSheng | Information Security Manager | 05 May 2023 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -50,6 +53,7 @@
 | Sujata Liao | Director | 05 May 2023 |
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 # Contents
 
@@ -89,9 +93,9 @@
 
 # Purpose, Scope And Users
 
-1. The purpose of this document is to define the methodology for assessment and treatment of information risks in Agile Lab Pte Ltd (Agile Lab), and to define the acceptable level of risk according to the ISO/IEC 27001 standard.
+1. The purpose of this document is to define the methodology for assessment and treatment of information risks in Agile Labs Pte Ltd (Agile Labs), and to define the acceptable level of risk according to the ISO/IEC 27001 standard.
 2. Risk assessment and risk treatment are applied to the entire scope of the Information Security Management System (ISMS), i.e. to all assets which are used within the organization or which could have an impact on information security within the ISMS.
-3. Users of this document are all employees of Agile Lab who are involved in the risk assessment and risk treatment.
+3. Users of this document are all employees of Agile Labs who are involved in the risk assessment and risk treatment.
 
 # Reference Documents
 
@@ -204,7 +208,7 @@ Only the TL can grant other employees access to any of the abovementioned docume
 
 # Appendices
 
-1. Appendix 1: Form – [Risk Assessment and Treatment Template](https://docs.google.com/spreadsheets/d/1EyU_gaj989j_VK57SHhoykrAziduvBOq)
+1. Appendix 1: Form – [Risk Assessment and Treatment Template](https://docs.google.com/spreadsheets/d/16-aSBXpEZLRjda1pbPWC8WWMdGw0JEcV/edit?gid=744563451#gid=744563451)
 2. Appendix 2: Form – Vulnerability Assessment and Penetration Test Report
 
 <div align="center"> **Internal** </div>

@@ -4,9 +4,9 @@
 
 | Document Title | Secure Development Policy |
 | --- | --- |
-| Organization Name | Agile Lab |
+| Organization Name | Agile Labs |
 | Document No. | ISMS-07 |
-| Revision No. | 0.9 |
+| Revision No. | 0.10 |
 | Effective Date | 12 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 21 May 2026 | 0.10 | - | Yearly review |
 | 22 Apr 2025 | 0.9 | - | Update clauses |
 | 07 Apr 2025 | 0.8 | - | Yearly review |
 | 08 Apr 2024 | 0.7 | - | Yearly review |
@@ -34,6 +35,7 @@
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
 | Wayne Tng | Technical Leader | 22 Apr 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -44,6 +46,7 @@
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -54,6 +57,7 @@
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
 | Sujata Liao | Director | 22 Apr 2025 |
+| Sujata Liao | Director | 21 May 2026 |
 
 # Contents
 
@@ -89,7 +93,7 @@
 
 1. The purpose of this document is to define the basic rules for secure development of software and systems.
 2. This document is applicable to development and maintenance of all services, architecture, software and systems that are part of the Information Security Management System (ISMS).
-3. Users of this document are all employees who work on the development and maintenance of technology hardware and software in Agile Lab Pte Ltd (Agile Lab).
+3. Users of this document are all employees who work on the development and maintenance of technology hardware and software in Agile Labs Pte Ltd (Agile Labs).
 
 # Reference Documents
 
@@ -122,14 +126,14 @@
 2. This is primarily an environment to tests the software and system before implementation and upgrade.
 3. The secure environment is provisioned by using a separate network segment for testing.
 4. Software may be developed in-house or outsourced to external software vendors, who must comply with information security requirements as defined under ISO 27001:2022 Control 5.19 (Supplier Relationships Security).
-5. For software developed and hosted by third parties, and used by Agile Lab on a subscription basis, the service provider will also be required to ensure a secure development environment for the implementation of new and upgrade systems.
+5. For software developed and hosted by third parties, and used by Agile Labs on a subscription basis, the service provider will also be required to ensure a secure development environment for the implementation of new and upgrade systems.
 6. In the event that third parties doesn't have a secure development environment for implemented, the upgrade will be done within our secure development environment.
 
 ## Security requirements
 
 1. When acquiring new information systems or developing or changing existing ones, SA or TL must document security requirements in the Security Requirements Specification (see Appendix).
-2. This includes in-house developed application and database software; as well as software belonging to Agile Lab that is hosted in external data centres.
-3. This also applies to application software and database systems and services subscribed (by Agile Lab) from external software service providers.
+2. This includes in-house developed application and database software; as well as software belonging to Agile Labs that is hosted in external data centres.
+3. This also applies to application software and database systems and services subscribed (by Agile Labs) from external software service providers.
 
 ## Checking and testing the implementation of security requirements
 
@@ -159,6 +163,6 @@
 
 # Appendices
 
-1. [Security Requirements Specification](https://docs.google.com/spreadsheets/d/1SLWyLIQtOwxOEPWY1AHyMxyGjVNDvVa9rC8eznp7K4k)
+1. [Security Requirements Specification](https://docs.google.com/spreadsheets/d/1mkyiwnprfyVDWb8Qk0MlQTjsxCudvDLaAt3rciEfg0U/edit?gid=0#gid=0)
 
 <div align="center"> **Internal** </div>

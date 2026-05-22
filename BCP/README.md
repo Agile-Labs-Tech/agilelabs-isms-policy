@@ -4,9 +4,9 @@
 
 | Document Title    | Business Continuity Plan |
 | ----------------- | ------------------------ |
-| Organization Name | Agile Lab                |
+| Organization Name | Agile Labs                |
 | Document No.      | BCP                      |
-| Revision No.      | 0.8                      |
+| Revision No.      | 0.9                      |
 | Effective Date    | 20 April 2021            |
 | Classification    | Internal                 |
 
@@ -14,6 +14,7 @@
 
 | **Date**    | **Rev. No.** | **Page No.** | **Description of Amendments**    |
 | ----------- | ------------ | ------------ | -------------------------------- |
+| 21 May 2026 | 0.9          | -            | Yearly review                    |
 | 01 Sep 2025 | 0.8          | -            | Update BCP scenario              |
 | 07 Apr 2025 | 0.7          | -            | Yearly review + Update Org Chart |
 | 08 Apr 2024 | 0.6          | -            | Yearly review                    |
@@ -34,6 +35,7 @@
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
 | Wayne Tng | Technical Leader | 01 Sep 2025 |
+| Wayne Tng | Technical Leader | 15 May 2026 |
 
 ### **Reviewed By :**
 
@@ -45,6 +47,7 @@
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
 | SzeTho ChangSheng | Information Security Manager | 01 Sep 2025 |
+| SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
 
 ### **Approved By :**
 
@@ -56,6 +59,7 @@
 | Sujata Liao | Director        | 22 Apr 2024 |
 | Sujata Liao | Director        | 14 Apr 2025 |
 | Sujata Liao | Director        | 01 Sep 2025 |
+| Sujata Liao | Director        | 21 May 2026 |
 
 ## Contents
 
@@ -91,9 +95,9 @@
 
 ## Purpose, Scope And Users
 
-- The Scope of this plan covers Agile Lab Pte Ltd.
+- The Scope of this plan covers Agile Labs Pte Ltd.
 - The plan is applicable once the life safety of employees, customers, and guests has been verified and in the event that a facility is or will become inaccessible. It can be active during normal business hours and after hours, with and without warning.
-- Users of this document are all employees of Agile Lab Pte Ltd (Agile Lab).
+- Users of this document are all employees of Agile Labs Pte Ltd (Agile Labs).
 
 ## Reference Documents
 
@@ -116,7 +120,7 @@
 
 ### Objectives
 
-The Agile Lab Business Continuity plan objective is to facilitate the resumption of critical operations, functions and technology in a timely and organized manner to ensure a viable and stable organization.
+The Agile Labs Business Continuity plan objective is to facilitate the resumption of critical operations, functions and technology in a timely and organized manner to ensure a viable and stable organization.
 
 It is critical to ensure the safety and well-being of employees and customers.
 
@@ -237,7 +241,7 @@ The Business Owner or designee should determine the best methods for disseminati
 
 ### Telework as an alternate site
 
-Agile Lab uses teleworking as our alternate site strategy. Agile Lab employees will work from home or other non-traditional location deem fit by the employee. VPN must always be switched on when using a public wireless network.
+Agile Labs uses teleworking as our alternate site strategy. Agile Labs employees will work from home or other non-traditional location deem fit by the employee. VPN must always be switched on when using a public wireless network.
 
 ## Orders of succession and delegations of authority
 
