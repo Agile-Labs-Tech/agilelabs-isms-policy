@@ -124,7 +124,7 @@ The Agile Labs Business Continuity plan objective is to facilitate the resumptio
 
 It is critical to ensure the safety and well-being of employees and customers.
 
-![orgChart](./images/org-chart-2025.jpg)
+![orgChart](./images/org-chart-2026.jpg)
 
 ### Primary Objectives
 
