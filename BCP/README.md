@@ -6,7 +6,7 @@
 | ----------------- | ------------------------ |
 | Organization Name | Agile Labs                |
 | Document No.      | BCP                      |
-| Revision No.      | 0.9                      |
+| Revision No.      | 0.10                      |
 | Effective Date    | 20 April 2021            |
 | Classification    | Internal                 |
 
@@ -14,6 +14,7 @@
 
 | **Date**    | **Rev. No.** | **Page No.** | **Description of Amendments**    |
 | ----------- | ------------ | ------------ | -------------------------------- |
+| 27 May 2026 | 0.10          | -           | Added BIA                        |
 | 21 May 2026 | 0.9          | -            | Yearly review                    |
 | 01 Sep 2025 | 0.8          | -            | Update BCP scenario              |
 | 07 Apr 2025 | 0.7          | -            | Yearly review + Update Org Chart |
@@ -36,6 +37,7 @@
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
 | Wayne Tng | Technical Leader | 01 Sep 2025 |
 | Wayne Tng | Technical Leader | 15 May 2026 |
+| Wayne Tng | Technical Leader | 27 May 2026 |
 
 ### **Reviewed By :**
 
@@ -48,6 +50,7 @@
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
 | SzeTho ChangSheng | Information Security Manager | 01 Sep 2025 |
 | SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
+| SzeTho ChangSheng | Information Security Manager | 27 May 2026 |
 
 ### **Approved By :**
 
@@ -60,6 +63,7 @@
 | Sujata Liao | Director        | 14 Apr 2025 |
 | Sujata Liao | Director        | 01 Sep 2025 |
 | Sujata Liao | Director        | 21 May 2026 |
+| Sujata Liao | Director        | 27 May 2026 |
 
 ## Contents
 
@@ -88,6 +92,8 @@
 - [Orders of succession and delegations of authority](#orders-of-succession-and-delegations-of-authority)
 
 - [Plan Deactivation](#plan-deactivation)
+
+- [Business Impact Analysis](#business-impact-analysis)
 
 - [Vendors](#vendors)
 
@@ -260,6 +266,63 @@ Orders of succession are pre prepared to provide clarity of senior leadership ro
 The goal of plan deactivation is to re-establish full capability in the most efficient manner. All personnel should be informed that the necessity for continuity operations no longer exists and the return to normal operations will begin.
 
 Business function will resume once the management decides on a new/existing employee to take over the position permanently and ensure there are enough human resources to manage all tasks needed for the business function(s) to resume properly.
+
+## Business Impact Analysis
+### Recovery Point Objective (RPO)
+The *maximum acceptable amount of data loss* measured in time.
+
+It defines:
+“How much data can the business afford to lose?”
+
+| System Criticality | System                           | RPO        |
+| ------------------ | -------------------------------- | ---------- |
+| High               | GITLAB                           | 24 hours   |
+| Medium             | Slack                            | 48 hours   |
+| Low                | Website, AWS, Sophos, Email      | 72 hours   |
+
+Note: Email services are primarily used for formal communication and record purposes. Operational communication can continue through alternative collaboration platforms during outages.
+Note: AWS infrastructure is primarily used for hosting the corporate website. Temporary unavailability does not significantly impact core business operations or critical service delivery.
+
+
+### Recovery Time Objective (RTO)
+The *maximum acceptable downtime* after disruption.
+It defines:
+
+“How quickly must the system be restored?”
+
+| System Criticality | System                     | RTO        |
+| ------------------ | -------------------------- | ---------- |
+| High               | GITLAB                     | 24 hours   |
+| Medium             | Slack                      | 48 hours   |
+| Low                | Website AWS, Sophos, Email | 72 hours   |
+
+Supports:
+* Business continuity objectives  
+* Availability requirements  
+* Incident response and recovery planning
+
+Note: Email services are primarily used for formal communication and record purposes. Operational communication can continue through alternative collaboration platforms during outages.
+Note: AWS infrastructure is primarily used for hosting the corporate website. Temporary unavailability does not significantly impact core business operations or critical service delivery.
+Note: Daily backup schedules and relatively low deployment frequency support a 24-hour recovery point and recovery time objective.
+
+### Recovery Platforms / Alternative Services
+Measures implemented to reduce single points of failure and maintain service continuity during disruptions.
+
+**Objective**
+
+Ensure:
+- Service continuity
+- Alternative communication capability
+- Recovery support during disruptions
+
+
+| System | Redundancy / Alternative |
+| -----  | ------------------------ |
+| GITLAB | GITHUB                   |
+| GMAIL  | MICROSOFT 365            |
+| SLACK  | MICROSOFT TEAMS          |
+| SOPHOS | TRELLIX ENTERPRISE       |
+| AWS    | AZURE                    |
 
 ## Vendors
 
