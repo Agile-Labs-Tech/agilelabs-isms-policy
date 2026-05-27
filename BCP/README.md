@@ -253,13 +253,13 @@ Agile Labs uses teleworking as our alternate site strategy. Agile Labs employees
 
 Orders of succession are pre prepared to provide clarity of senior leadership roles in the event that individuals in these roles, whether they will be decision-making or management roles are unavailable. A delegation authority provides successors with the legal authorization to act on behalf of critical positions within the organisation for specific purposes and duties.
 
-| Position to be Succeeded | Successors         | Delegated Authorities | Activation and Termination Triggers                                                                  |
-| ------------------------ | ------------------ | --------------------- | ---------------------------------------------------------------------------------------------------- |
-| Marketing                | Wayne Tng          | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
-| Sales                    | Sujata Liao        | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
-| Finance/Accounting       | Cynthia            | All duties assigned   | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
-| Human Resources          | Sze Tho ChangSheng | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
-| IT Operations            | Wayne Tng          | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
+| Position to be Succeeded | Current           | Successors         | Delegated Authorities | Activation and Termination Triggers                                                                  |
+| ------------------------ |------------------ | ------------------ | --------------------- | ---------------------------------------------------------------------------------------------------- |
+| Marketing                | SzeTho ChangSheng | Wayne Tng          | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
+| Sales                    | SzeTho ChangSheng | Sujata Liao        | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
+| Finance/Accounting       | Lawrence          | Cynthia            | All duties assigned   | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
+| Human Resources          | Lawrence          | Sze Tho ChangSheng | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
+| IT Operations            | Sujata Liao       | Wayne Tng          | Delegated authorities | Activate: Incapacitated, unavailable or selective decision <br/> <br/> Terminate: Return of Director |
 
 ## Plan Deactivation
 
