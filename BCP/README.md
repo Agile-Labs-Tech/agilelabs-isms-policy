@@ -281,6 +281,7 @@ It defines:
 | Low                | Website, AWS, Sophos, Email      | 72 hours   |
 
 Note: Email services are primarily used for formal communication and record purposes. Operational communication can continue through alternative collaboration platforms during outages.
+
 Note: AWS infrastructure is primarily used for hosting the corporate website. Temporary unavailability does not significantly impact core business operations or critical service delivery.
 
 
@@ -302,7 +303,9 @@ Supports:
 * Incident response and recovery planning
 
 Note: Email services are primarily used for formal communication and record purposes. Operational communication can continue through alternative collaboration platforms during outages.
+
 Note: AWS infrastructure is primarily used for hosting the corporate website. Temporary unavailability does not significantly impact core business operations or critical service delivery.
+
 Note: Daily backup schedules and relatively low deployment frequency support a 24-hour recovery point and recovery time objective.
 
 ### Recovery Platforms / Alternative Services
