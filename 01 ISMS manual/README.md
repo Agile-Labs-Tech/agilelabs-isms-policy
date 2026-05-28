@@ -6,7 +6,7 @@
 | --- | --- |
 | Organization Name | Agile Labs |
 | Document No. | ISMS-01 |
-| Revision No. | 0.12 |
+| Revision No. | 0.13 |
 | Effective Date | 20 April 2021 |
 | Classification | Internal |
 
@@ -14,6 +14,7 @@
 
 | **Date** | **Rev. No.** | **Page No.** | **Description of Amendments** |
 | --- | --- | --- | --- |
+| 28 May 2026 | 0.13 | - | Yearly review |
 | 21 May 2026 | 0.12 | - | Yearly review |
 | 07 Apr 2025 | 0.11 | - | Yearly review |
 | 08 Apr 2024 | 0.10 | - | Yearly review |
@@ -38,6 +39,7 @@
 | Wayne Tng | Technical Leader | 08 Apr 2024 |
 | Wayne Tng | Technical Leader | 07 Apr 2025 |
 | Wayne Tng | Technical Leader | 15 May 2026 |
+| Wayne Tng | Technical Leader | 28 May 2026 |
 
 ### **Reviewed By :**
 | **Name** | **Designation** | **Date** |
@@ -48,6 +50,7 @@
 | SzeTho ChangSheng | Information Security Manager | 22 Apr 2024 |
 | SzeTho ChangSheng | Information Security Manager | 14 Apr 2025 |
 | SzeTho ChangSheng | Information Security Manager | 21 May 2026 |
+| SzeTho ChangSheng | Information Security Manager | 28 May 2026 |
 
 ### **Approved By :**
 | **Name** | **Designation** | **Date** |
@@ -58,6 +61,7 @@
 | Sujata Liao | Director | 22 Apr 2024 |
 | Sujata Liao | Director | 14 Apr 2025 |
 | Sujata Liao | Director | 21 May 2026 |
+| Sujata Liao | Director | 28 May 2026 |
 
 # Contents
 
@@ -117,6 +121,48 @@
 
 - [Related Documents](#related-documents)
 
+# ISMS Scope
+
+## Scope of ISMS
+
+The Information Security Management System (ISMS) applies to the provision of Software Development and Related System Integration services, including supporting business processes, personnel, information assets, and supporting technologies involved in the delivery and maintenance of these services.
+
+The ISMS covers activities related to:
+
+* Software development
+* Application maintenance and support
+* System integration activities
+* Source code management
+* Testing and deployment processes
+* Supporting cloud infrastructure and collaboration platforms
+
+## Physical Address
+
+The ISMS applies to operations conducted at:
+
+Agile Labs Pte Ltd
+12 Woodlands Square, 
+Woods Square Tower 1, #07-84, 
+Singapore 737715
+
+Including supporting remote work arrangements where applicable.
+
+## Critical Vendor Dependencies
+
+The organization relies on the following critical third-party service providers and platforms to support business operations and service delivery:
+
+| Vendor / Platform         | Purpose                                                            |
+| ------------------------- | ------------------------------------------------------------------ |
+| Amazon Web Services (AWS) | Cloud infrastructure hosting                                       |
+| GitLab                    | Source code repository and version control                         |
+| Google Workspace          | Corporate email and collaboration                                  |
+| Slack                     | communication and collaboration                                    |
+| Sophos                    | Endpoint security and protection                                   |
+| Microsoft 365 / Teams     | Alternative communication and collaboration platform with customer |
+
+These vendors are considered supporting dependencies for the delivery, operation, security, and continuity of the organization’s services.
+
+
 # Policy
 
   1. It is the policy of Agile Labs Pte Ltd (hereinafter referred to as Agile Labs or the Organisation) that information, in all its forms – written, spoken, recorded electronically or printed – will be protected from accidental and intentional unauthorized modification, destruction or disclosure throughout its life cycle.
@@ -136,10 +182,11 @@
   12. The certification scope is for Software Development and Related System Integration.
 
 # Scope
+1. The certification scope is for Software Development and Related System Integration.
+2. The primary scope of information security is the protection of the confidentiality, integrity and availability of information.
+3. The framework for managing information security in this policy applies to all the departments and functions, including the employees from all the entities (that is, subsidiaries), fully or partially owned by Agile Labs.
+4. This policy and all standards apply to the classes of information in any form as defined in [Information Classification](#information-classification).
 
-1. The primary scope of information security is the protection of the confidentiality, integrity and availability of information.
-2. The framework for managing information security in this policy applies to all the departments and functions, including the employees from all the entities (that is, subsidiaries), fully or partially owned by Agile Labs.
-3. This policy and all standards apply to the classes of information in any form as defined in [Information Classification](#information-classification).
 
 # Objectives And Measurement
 
@@ -190,6 +237,7 @@
 
     1. Assist the Management Representative (TL) to develop and implement the information security policy.
     2. Assist the Manager and users to develop and implement relevant procedures and standards to comply with the information security policy.
+    3. Assist DPO and ISM in implementing relevant procedures and standards to comply with the information security policy.
     3. Provide basic security support for all systems and users.
     4. Advise owners in the identification and classification of computer resources.
     5. Advise systems development and application owners in the implementation of security controls for information on systems, from the point of system design, through testing and production implementation.
@@ -226,6 +274,29 @@
     3. Keep personal authentication devices (e.g. passwords, security tokens, PINS, etc.) confidential.
     4. Report promptly to the TL or SA the loss or misuse of information.
     5. Initiate corrective actions when problems or incidents are identified.
+
+5. Information Security Manager (ISM): The ISM is responsible for overseeing, approving and coordinating the implementation, maintenance, and continual improvement of the Information Security Management System (ISMS). The ISM is responsible to:
+
+    1. Review the implementation proposed, maintain, and monitor the ISMS in alignment with organizational objectives and regulatory requirements.
+    2. Coordinate information security risk assessments and ensure identified risks are appropriately treated.
+    3. Monitor compliance with policies, procedures, standards, and applicable legal or regulatory requirements.
+    4. Advise management on information security risks, threats, vulnerabilities, and control effectiveness.
+    5. Monitor the effectiveness of security controls and recommend improvements where necessary.
+    6. Report regularly to management on the status, effectiveness, and performance of the ISMS.
+
+6. Director: The Director provides strategic oversight and leadership for information security governance within the organization. The Director is responsible to:
+
+    1. Ensure adequate support, direction, and resources are provided for the implementation and maintenance of the ISMS.
+    2. Approve information security policies, objectives, and strategic initiatives.
+
+7. Data Protection Officer (DPO): The DPO is responsible for overseeing compliance with applicable data protection and privacy requirements. The DPO is responsible to:
+
+    1. Monitor compliance with applicable data protection laws, regulations, and organizational privacy requirements.
+    2. Advise management and employees together with TL on personal data protection obligations and best practices.
+    3. Oversee the protection, processing, retention, and disposal of personal data together with TL.
+    4. Monitor and advise on controls relating to the confidentiality, integrity, and availability of personal data.
+    5. Work closely with TL to coordinate the handling and reporting of personal data breaches and privacy incidents.
+    6. Serve as the point of contact for data protection matters involving regulatory authorities, customers, or data subjects where applicable.
 
 # Information Classification
 
